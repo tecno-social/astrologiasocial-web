@@ -1,0 +1,31 @@
+---
+layout: default
+title: Home
+---
+
+<img src="assets/images/liniers.png" />
+
+<h2>Por qué la astrología?</h2>
+
+<p>La astrología, en su acepción más amplia, es un conjunto de tradiciones y creencias que sostienen que es posible reconocer o construir un significado de los eventos celestes y de las constelaciones, basándose en la interpretación de su correlación con los sucesos terrenales. Este paralelismo se utiliza como método de adivinación y de inferencia del carácter de las personas.1​ Además de la astrología occidental, la astrología china y la hindúa​ o védica también se han vuelto populares en Europa y América.</p>
+
+<a target="_blank" href="#" class="btn btn-dark">Agendate para conocer tu carta natal &rarr;</a>
+
+
+
+
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in paginator.posts %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
