@@ -4,7 +4,7 @@ title: "Lina @ Astrologia.Social"
 description: "Hola! Soy Lina y soy parte de Astrologia.Social. Quiero compartire lo que hago y lo que pienso..."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
-baseurl: /jekyll-theme-memoirs
+baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
