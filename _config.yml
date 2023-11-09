@@ -1,7 +1,7 @@
 # Site
 name: "Lina @ Astrologia.Social"
 title: "Lina @ Astrologia.Social"
-description: "Hola! Soy Lina y soy parte de Astrologia.Social. Quiero compartire lo que hago y lo que pienso..."
+description: "Hola! Soy Lina y desde hace varios años acompaño a muchas personas a interpretar su código astrológico para la toma de decisiones, el autoconocimiento y la evolución que propone la carta natal personal desde una perspectiva moderna. "
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
 baseurl: /
@@ -10,7 +10,7 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: lina@astrologia.social
 
 # Authors
 authors:
