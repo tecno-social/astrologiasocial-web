@@ -1,7 +1,7 @@
 # Site
 name: "Lina @ Astrologia.Social"
 title: "Lina @ Astrologia.Social"
-description: "Hola! Soy Lina y desde hace varios años acompaño a muchas personas a interpretar su código astrológico para la toma de decisiones, el autoconocimiento y la evolución que propone la carta natal personal desde una perspectiva moderna. "
+description: "La astrología es un lenguaje, si entiendes este lenguaje, el cielo te hablará. -Dane Rudhyar-"
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
 baseurl: /
@@ -14,22 +14,20 @@ email: lina@astrologia.social
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Franco:
+    name: Franco
+    display_name: Fran
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+    email: info@tecno.social
+    description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
+  Lina:
+    name: Lina Marco
+    display_name: Lina
     avatar: 'assets/images/avatar3.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Soy un pito muy gordo y peludo"
+    email: lina@astrologia.social
+    web: lina.astrologia.social
+    Instagram: https://www.instagram.com/linamarco1006/
+    description: "Astrología para la claridad no para la perfección"
 
 # Plugins
 plugins:
