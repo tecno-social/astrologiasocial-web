@@ -18,14 +18,14 @@ post_class: post-template
             {% else %}
             <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
             {% endif %}
-        </div>            
+        </div>
         <div>
-        Written by {{ author.display_name }} on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+        Escrito por {{ author.display_name }} el
+        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
         {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+        (Actualizado: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
         {% endif %}
-        </div>            
+        </div>
     </div>
     {% endif %}
 </div>
@@ -36,7 +36,7 @@ post_class: post-template
 {% endif %}
 
 <!-- Featured Image -->
-{% include featured-image.html %}
+<!-- {% include featured-image.html %} -->
 
 <!-- Content -->
 {% include article.html %}
@@ -60,7 +60,7 @@ post_class: post-template
 <!-- Related Post -->
 {% include related-posts.html %}
 
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 {% if page.rating %}

@@ -10,7 +10,8 @@ google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'ASWeb'
 mailchimp-list: ''
 include: ["_pages"]
-permalink: /:title/
+# permalink: /blog/:categories/:year/:month/:day/:title:output_ext
+permalink: /blog/:title
 email: lina@astrologia.social
 
 # Authors
