@@ -36,7 +36,7 @@ ogle_analytics}}');
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css" crossorigin="anonymous">
 	</noscript>
 
 <!-- Begin Sidebar Navigation
@@ -61,7 +61,13 @@ ogle_analytics}}');
         <li><a href="{{ site.baseurl }}/blog">Astro Blog</a></li>
         <li><a href="{{ site.baseurl }}/contacto">Contacto</a></li>
     </ul>
+    <div class="mobile">
+      {% include socialmedia.html %}
+    </div>
 </nav>
+
+{% include socialmedia.html %}
+
 
 {% include search-lunr.html %}
 

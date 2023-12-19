@@ -23,7 +23,7 @@ Es una sesión virtual que tiene una duración de 1 hora 30, dónde interpretamo
 50 USD o el equivalente en la moneda local.
 
 
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc93qRPjPDShA3dqWU6YXi5nqhko4lcpTrCeAib_yX0lK6r2w/viewform?usp=sf_link" class="btn btn-astro"> Queremos nuestra Sinastrí &rarr;</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc93qRPjPDShA3dqWU6YXi5nqhko4lcpTrCeAib_yX0lK6r2w/viewform?usp=sf_link" class="btn btn-astro"> Queremos nuestra Sinastría &rarr;</a>
 
 <hr>
 

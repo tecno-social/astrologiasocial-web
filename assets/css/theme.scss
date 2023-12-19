@@ -50,6 +50,7 @@ $enable-rounded: false;
 // general
 body, input, button, select, optgroup, textarea {
     font-family:Dosis;
+    font-size: 14pt;
 }
 body {
     line-height:1.7;
@@ -820,8 +821,30 @@ img, img:hover {
 }
 
 //share
+
 .share {
-    position:fixed;left:15px;bottom:40%;z-index: 1026;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1em;
+}
+.share p {
+  margin-top: 0;
+  margin-bottom: 0rem;
+  font-weight: bold;
+}
+.share ul {
+  padding-inline-start: 0px;
+}
+.share ul li {
+    display:inline-block;
+    margin: 10px 15px !important;
+}
+
+
+.socialmedia {
+    visibility: visible;
+    position: fixed; font-size: 14pt; left:26px;bottom:40%;z-index: 1026;
     text-align:center;
     ul {
         list-style:none;
@@ -834,6 +857,12 @@ img, img:hover {
         }
     }
 }
+
+.mobile > .socialmedia {
+  visibility: hidden;
+
+}
+
 
 //search
 .show-search {
@@ -915,7 +944,24 @@ body.active-side {
         max-width: 1140px;
     }
 }
+@media (max-width: 1440px) {
+        .navbar-brand {
+          display: table !important;
+          // margin: 0 auto;
+        }
+
+        .navbar-motto {
+        animation-delay: 2s;
+        animation: fade-up ease-in forwards;
+        animation-duration: .7s;
+        display: table;
+        width: 70%;
+        line-height: 28pt;
+        text-align: right;
+      }
+}
 @media (max-width: 1024px) {
+
     .container {
         width: 90%;
         max-width:90%;
@@ -930,6 +976,20 @@ body.active-side {
     }
 }
 @media (max-width: 768px) {
+      .navbar-brand {
+        display: table !important;
+        // margin: 0 auto;
+      }
+
+      .navbar-motto {
+      animation-delay: 2s;
+      animation: fade-up ease-in forwards;
+      animation-duration: .7s;
+      display: table;
+      width: 50%;
+      line-height: 28pt;
+      text-align: right;
+    }
     .posttitle {
         font-size:35px;
     }
@@ -950,8 +1010,9 @@ body.active-side {
     }
 
     #main-banner {
-      background-image: url('../images/banners/01b.jpg') !important;
-      height: 100px;
+      // background-image: url('../images/banners/01b.jpg') !important;
+      height: 200px;
+      background-size: cover;
     }
 
     .grid-verbos, .grid-servicios {
@@ -991,23 +1052,25 @@ body.active-side {
             padding: 4px 10px;
         }
     }
+    .authorbox {
+      text-align: center;
+    }
+    .authorbox .col-md-9 h4 {
+      font-size: 22pt;
+      margin-top: 20px;
+
+    }
+    .authorbox .col-md-9  {
+      margin-top: 0;
+    }
+    .authorbox .author-thumb {
+      width: 200px;
+    }
+
 }
 
 @media (max-width: 600px) {
-  .navbar-brand {
-    display: table !important;
-    // margin: 0 auto;
-  }
 
-  .navbar-motto {
-  animation-delay: 2s;
-  animation: fade-up ease-in forwards;
-  animation-duration: .7s;
-  display: table;
-  width: 50%;
-  line-height: 28pt;
-  text-align: right;
-}
 
     .nav-icon, .sidebar, .share, .wrap-search {
         position:relative;
@@ -1029,26 +1092,35 @@ body.active-side {
         left: unset;
         z-index:0;
     }
-    .share {
-        display: flex;
-        align-items:center;
-    }
-    .share ul li {
-        display:inline-block;
-        margin: 10px 15px !important;
-    }
 
     #menu ul {
-        padding: 80px 30px 80px 30px;
+        padding: 10px 30px 10px 30px;
     }
     .related-posts {
         h2 {
             font-size: 1.4rem;
         }
     }
+  .socialmedia {
+    visibility: hidden;
+  }
+  .mobile>.socialmedia {
+    visibility: visible;
+    position: fixed;
+    right: 0;
+    top: 0;
+    left: unset;
+  }
+  #menu {
+    width: 100%;
+    margin-top: 35px;
+  }
+
 }
 @media (max-width: 480px) {
-
+  .navbar-brand img {
+    max-height: 130px;
+  }
     .newsletter {
         .mc-field-group input[type="email"] {
             min-width:170px;
@@ -1073,5 +1145,17 @@ body.active-side {
         .form-control {
             height:35px;
         }
+    }
+
+    .grid-verbos .grid-item h2 {
+      font-size: 16pt;
+      padding: 10px 0px 0px 0px;
+      line-height: 10pt;
+    }
+
+    .grid-verbos .grid-item p {
+      font-size: 13pt;
+      padding: 0 10px;
+      line-height: 20pt;
     }
 }
