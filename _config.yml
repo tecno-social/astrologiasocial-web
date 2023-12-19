@@ -1,10 +1,11 @@
 # Site
-name: "Lina @ Astrologia.Social"
-title: "Lina @ Astrologia.Social"
-description: "En esta página compartimos información de valor acerca de la astrología moderna y humanista, psicológica, se acompañan procesos de autoconocimiento a través de: cartas natales, revoluciones solares, sinastrias, transitos y otras técnicas como el tarot"
+name: "Astrologia Social"
+title: Astrologia Social"
+description: "<b>Nos movemos juntxs</b> en un universo de posibilidades"
+# description: "En esta página compartimos información de valor acerca de la astrología moderna y humanista, psicológica, se acompañan procesos de autoconocimiento a través de: cartas natales, revoluciones solares, sinastrias, transitos y otras técnicas como el tarot"
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
-baseurl: /
+baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'ASWeb'
 mailchimp-list: ''
@@ -21,9 +22,9 @@ authors:
     email: info@tecno.social
     description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
   Lina:
-    name: Lina Marco
     display_name: Lina
     avatar: 'assets/images/avatar3.png'
+    name: Lina Marco
     email: lina@astrologia.social
     web: lina.astrologia.social
     description: "Astrología para la claridad no para la perfección"

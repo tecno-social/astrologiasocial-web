@@ -50,11 +50,15 @@
 <nav id="menu">
     <ul>
         <!-- <h3>Navigation</h3> -->
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+        <li><a href="{{ site.baseurl }}/">Inicio</a></li>
+        <li>Lecturas Astrológicas</li>
+        <ul>
+          <li><a href="{{ site.baseurl }}/carta-natal">Carta Natal</a></li>
+          <li><a href="{{ site.baseurl }}/revolucion-solar">Revolución Solar</a></li>
+          <li><a href="{{ site.baseurl }}/sinastria">Sinastría</a></li>
+        </ul>
+        <li><a href="{{ site.baseurl }}/blog">Astro Blog</a></li>
+        <li><a href="{{ site.baseurl }}/contacto">Contacto</a></li>
     </ul>
 </nav>
 
@@ -66,39 +70,50 @@
 
 <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
 
-<div class="container">
+<div class="">
 
     <!-- Site Logo/Name
     ================================================== -->
+    <div class="container main-content navbar">
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>
+      <a class="navbar-brand" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+      </a>
+
+      <div class="navbar-motto"><p>{{ site.description }}</p></div>
+
+    </div>
+
+    <!-- <div id="main-banner" style="background-image: url(assets/images/banners/{{ page.banner }}.jpg);"></div> -->
+
+    <!-- Featured Image -->
+    {% include featured-image.html %}
+
 
 
     <!-- Site Tag
     ================================================== -->
-    {% if page.url == '/' %}
-        <p class="sitetag">
+    <!-- {% if page.url == '/' %}
+        <p class="container sitetag">
             {{ site.description }}
         </p>
-    {% endif %}
+    {% endif %} -->
 
     <!-- Content
     ================================================== -->
-    <div class="main-content">
+    <div class="container main-content">
         {{ content }}
     </div>
 
     {% if site.mailchimp-list %}
     <!-- Newsletter
     ================================================== -->
-    <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+    <div class="container newsletter text-center">
+        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; No te pierdas nuestras novedades, <b>suscríbete a nuestro Newsletter.</b></span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            <input type="email" placeholder="Tu correo" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="Subscribirme" name="subscribe" class="heart">
             </div>
         </form>
     </div>
