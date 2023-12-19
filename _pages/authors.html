@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Authors
-permalink: /authors
+title: Miembros
+permalink: /miembros
 comments: false
 ---
 <div class="list-authors mt-5">
-{% for author in site.authors %}   
-    <div id="{{ author[1].name }}" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+{% for author in site.authors %}
+    <div id="{{ author[1].name }}" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">
         <div class="row">
             <div class="wrapavname col-md-3 text-center">
                 {% if author[1].gravatar %}
@@ -18,7 +18,7 @@ comments: false
                 <p class="mt-4 mb-0 small text-center">
 
                     {% if author[1].web %}
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].web }}"><i class="fa fa-link"></i></a> 
+                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].web }}"><i class="fa fa-link"></i></a>
                     {% endif %}
 
                     {% if author[1].twitter %}
@@ -30,13 +30,13 @@ comments: false
                     {% endif %}
 
                 </p>
-                
+
             </div>
             <div class="col-md-9">
                 <h3>{{ author[1].display_name }}</h3>
-                <p class="mt-3 mb-0">{{ author[1].description }}</p> 
+                <p class="mt-3 mb-0">{{ author[1].description }}</p>
             </div>
-        </div> 
-    </div>    
+        </div>
+    </div>
 {% endfor %}
 </div>

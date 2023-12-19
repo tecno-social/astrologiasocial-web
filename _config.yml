@@ -6,30 +6,30 @@ description: "<b>Nos movemos juntxs</b> en un universo de posibilidades"
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'ASWeb'
+# google_analytics: 'UA-xxxxxxxx-1'
+# disqus: 'ASWeb'
 mailchimp-list: ''
 include: ["_pages"]
 # permalink: /blog/:categories/:year/:month/:day/:title:output_ext
 permalink: /blog/:title
-email: lina@astrologia.social
-
+email: info@astrologia.social
+ # more like this
 # Authors
 authors:
   Franco:
     name: Franco
     display_name: Fran
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/miembros/franco.jpg'
     email: info@tecno.social
     description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
   Lina:
     display_name: Lina
-    avatar: 'assets/images/avatar3.png'
+    avatar: 'assets/images/miembros/lina.jpg'
     name: Lina Marco
     email: lina@astrologia.social
-    web: lina.astrologia.social
+    web: lina.tecno.social
     description: "Astrología para la claridad no para la perfección"
-
+    bio: "¡Hola!, soy Lina. Bici-lover, apasionada por las artes, formada en comunicación, publicidad y con una maestría en marketing. Desde hace unos 15 años inicié mi carrera profesional en dichas áreas desempeñándome en diferentes roles y trabajando en equipo con otros profesionales de la comunicación y la tecnología, que me han dejado valiosos aprendizajes tanto a nivel humano como profesional. Gracias a esto, desarrollé una mirada estratégica y creativa con la que he apoyado a organizaciones de varios sectores a alcanzar sus objetivos. Hoy, mi búsqueda profesional se orienta hacia proyectos que tengan un fuerte sentido social y ambiental, donde se priorice el bienestar colectivo y los objetivos tengan un impacto positivo en este contexto global de grandes desafíos y profundas transformaciones."
 # Plugins
 plugins:
   - jekyll-paginate
