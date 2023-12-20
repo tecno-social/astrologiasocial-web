@@ -1,11 +1,10 @@
-<!--
-{% include gema.html %}
--->
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script>
+     console.clear();
+     console.log(`{% include gema.html %}`);
+  </script>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -20,8 +19,10 @@
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+
+
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 </head>
 
 {% if jekyll.environment == 'production' %}
