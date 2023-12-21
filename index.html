@@ -17,21 +17,21 @@ image: "assets/images/banners/01.jpg"
 
 
 <div class="grid-servicios grid-container grid-container-3">
-  <div class="grid-item">
+  <div class="grid-item servicio-1">
     <img src="assets/images/portada-icono-01.svg"/>
     <h2>CARTA NATAL</h2>
     <p>Con esta lectura podrás profundizar en tus aprendizajes y dones.</p>
     <a class="btn btn-astro" href="/carta-natal">Conoce más</a>
 
   </div>
-  <div class="grid-item">
+  <div class="grid-item servicio-2">
     <img src="assets/images/portada-icono-02.svg"/>
     <h2>REVOLUCIÓN SOLAR</h2>
     <p>Con esta técnica sabrás como viene tu año desde el día de tu cumpleaños. </p>
     <a class="btn btn-astro" href="/revolucion-solar">Conoce más</a>
   </div>
-  <div class="grid-item">
-    <img src="assets/images/portada-icono-03.svg"/>
+  <div class="grid-item servicio-3">
+    <img id="servicio-3-icono" src="assets/images/portada-icono-03.svg"/>
     <h2>SINASTRÍA</h2>
     <p>Esta sobreposición de cartas te permitirá trabajar en tus relaciones.</p>
     <a class="btn btn-astro" href="/sinastria">Conoce más</a>
@@ -48,35 +48,35 @@ image: "assets/images/banners/01.jpg"
 
 
 <div class="grid-verbos grid-container grid-container-5">
-  <div class="grid-item grid-item-verbos-01" >
+  <div class="grid-item grid-item-verbos-01 animado" >
     <img src="assets/images/portada-verbos-01.svg"/>
     <div class="grid-item-box">
       <h2>Observar</h2>
       <p>Cambiar el enfoque <b>hacia adentro.</b></p>
     </div>
   </div>
-  <div class="grid-item grid-item-verbos-02">
+  <div class="grid-item grid-item-verbos-02 animado">
     <img src="assets/images/portada-verbos-02.svg" />
     <div class="grid-item-box">
       <h2>Sentir</h2>
       <p>Abrazar todas las emociones, <b>están ahí para mostrar algo</b>.</p>
     </div>
   </div>
-  <div class="grid-item grid-item-verbos-03">
+  <div class="grid-item grid-item-verbos-03 animado">
     <img src="assets/images/portada-verbos-03.svg" />
     <div class="grid-item-box">
       <h2>Entender</h2>
       <p>Sé compasivx contigo mismo. <b>Menos perfección, más autenticidad</b>.</p>
     </div>
   </div>
-  <div class="grid-item grid-item-verbos-04">
+  <div class="grid-item grid-item-verbos-04 animado">
     <img src="assets/images/portada-verbos-04.svg" />
     <div class="grid-item-box">
       <h2>Actuar</h2>
       <p>Sigue tu intución <b>sin limitarte por la validación externa</b>.</p>
     </div>
   </div>
-  <div class="grid-item grid-item-verbos-05">
+  <div class="grid-item grid-item-verbos-05 animado">
     <img src="assets/images/portada-verbos-05.svg" />
     <div class="grid-item-box">
       <h2>Crecer</h2>
@@ -84,6 +84,26 @@ image: "assets/images/banners/01.jpg"
     </div>
   </div>
 </div>
+
+<script type="text/javascript">
+  const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('animado');
+      return;
+    }
+
+    entry.target.classList.remove('animado');
+  });
+});
+  // Get multiple elements instead of a single one using "querySelectorAll"
+const squares = document.querySelectorAll('.grid-verbos > .grid-item');
+
+// Loop over the elements and add each one to the observer
+squares.forEach((element) => observer.observe(element));
+
+  // observer.observe(document.querySelector('.grid-verbos'));
+</script>
 
 <hr />
 
