@@ -26,6 +26,6 @@ Marte en Sagitario, con cuadratura a Neptuno, representa una energía de acción
 
 Los aspectos entre Urano, Neptuno y Plutón sugieren que el movimiento social nos empuja a realizar cambios personales, generando dolor en lo individual en estos contactos con lo transpersonal.
 
-La invitación para este solsticio es conectar con el niño interior sus deseos, reevaluar las estructuras y las normas por las que nos hemos venido rigiendo hasta ahora y habiendo revisado esto, hacer el ejercicio que algunxs hacemos de trazar intenciones para el próximo año con optimismo, aprovechando la conjunción de la Luna en Tauro y Júpiter que nos va a dar el magnetismo y la confianza necesarias para un nuevo inicio de ciclo. 
+> La invitación para este solsticio es conectar con el niño interior sus deseos, reevaluar las estructuras y las normas por las que nos hemos venido rigiendo hasta ahora y habiendo revisado esto, hacer el ejercicio que algunxs hacemos de trazar intenciones para el próximo año con optimismo, aprovechando la conjunción de la Luna en Tauro y Júpiter que nos va a dar el magnetismo y la confianza necesarias para un nuevo inicio de ciclo. 
 
 ¡Feliz solsticio!
