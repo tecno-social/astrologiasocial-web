@@ -12,13 +12,13 @@ En las naciones situadas en proximidad a los hemisferios norte y sur, las estaci
 
 Estas "Puertas del año" esencialmente se inician en los grados 0° de los signos cardinales, es decir, cuando el sol transita sobre los 0° de los signos Aries, Cáncer, Libra y Capricornio, marcando así la entrada a una nueva puerta. Desde el hemisferio norte, este simbolismo se representa de la siguiente manera:
 
-**La primera puerta se encuentra en el 0° de Aries,** coincidiendo con el equinoccio de primavera. Marca el inicio del año astrológico y simboliza "El renacer", siendo este punto el origen de la revolución solar del universo.
+**La primera puerta se encuentra en el 0° de Aries** coincidiendo con el equinoccio de primavera. Marca el inicio del año astrológico y simboliza "El renacer", siendo este punto el origen de la revolución solar del universo.
 
-**La segunda puerta pertenece al signo de Cáncer en 0°,** coincidiendo con el solsticio de verano. Este ciclo simboliza "El pertenecer" al entrar en contacto con las emociones y lo conocido. Aquí se libra la lucha entre la luz y la oscuridad, donde el día más largo es vencido, iniciando así el ciclo hacia la oscuridad.
+**La segunda puerta pertenece al signo de Cáncer en 0°** coincidiendo con el solsticio de verano. Este ciclo simboliza "El pertenecer" al entrar en contacto con las emociones y lo conocido. Aquí se libra la lucha entre la luz y la oscuridad, donde el día más largo es vencido, iniciando así el ciclo hacia la oscuridad.
 
-**La tercera puerta, la demi solar, se ubica en Libra en 0°,** marcando el equinoccio de otoño. Este ciclo representa "Equilibrio". Al atravesar esta puerta, se invierten las dinámicas, y aquellos que estaban hacia afuera ahora encuentran equilibrio hacia adentro, preparándose para la siguiente etapa.
+**La tercera puerta, la demi solar, se ubica en Libra en 0°** marcando el equinoccio de otoño. Este ciclo representa "Equilibrio". Al atravesar esta puerta, se invierten las dinámicas, y aquellos que estaban hacia afuera ahora encuentran equilibrio hacia adentro, preparándose para la siguiente etapa.
 
-**La última puerta del año está en 0° Capricornio,** coincidiendo con el solsticio de invierno. Esta etapa podría denominarse "El punto más alto". Durante esta época del año, en el hemisferio norte, se experimenta el día más corto hasta que comienza a retroceder, y la luz prevalece sobre la oscuridad, indicando el nacimiento de un nuevo sol que vence a la oscuridad. También se alinea con la celebración de la Navidad, que en latín significa "nativitas" o "natividad" (nacimiento), haciendo referencia al nacimiento del sol celebrado el 25 de diciembre. Aunque la relación con Jesús no está clara en la Biblia en cuanto a su fecha de nacimiento, la alineación estelar muestra una coincidencia notable.
+**La última puerta del año está en 0° Capricornio** coincidiendo con el solsticio de invierno. Esta etapa podría denominarse "El punto más alto". Durante esta época del año, en el hemisferio norte, se experimenta el día más corto hasta que comienza a retroceder, y la luz prevalece sobre la oscuridad, indicando el nacimiento de un nuevo sol que vence a la oscuridad. También se alinea con la celebración de la Navidad, que en latín significa "nativitas" o "natividad" (nacimiento), haciendo referencia al nacimiento del sol celebrado el 25 de diciembre. Aunque la relación con Jesús no está clara en la Biblia en cuanto a su fecha de nacimiento, la alineación estelar muestra una coincidencia notable.
 
 Mirar artículo: los solsticios
 
