@@ -1,19 +1,31 @@
 ---
 layout: post
-title:  "One day we just started our adventure"
-author: Franco
-categories: [ Travel ]
-image: assets/images/15.jpg
+title:  "Solsticio de Capricornio 2023"
+author: Lina
+categories: [ Solsticio, Capricornio, Carta, 2023  ]
+image: assets/images/AS-POST-BLOG-DIC-23.jpg
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.
+Esta celebración de la luz, con una Luna en Júpiter, nos brinda esperanza y una expansión interior, instándonos a reconectar con nuestro pasado para realizar una reconfiguración y cerrar el ciclo solar. El solsticio comienza en los 270° y coincide con el 0° de Capricornio, no representa el final absoluto, sino más bien el tramo final, marcando así una época de culminaciones..
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+En la carta de este solsticio, los planetas se encuentran por debajo de la línea ascendente, sugiriendo una conexión significativa con lo personal. Es un momento propicio para reconocer el trabajo personal realizado hasta ahora, tomar consciencia y evaluar el pasado para dar paso a un nuevo inicio. También nos presenta un juego entre el fuego y la tierra, dos elementos que no siempre se armonizan. La invitación es encontrar un equilibrio entre tener sin dejar de soñar, o soñar sin renunciar a tener.
 
+Saturno, el regente de Capricornio, se encuentra actualmente en Piscis y permanecerá allí durante dos años y medio, marcando un nuevo comienzo y una experiencia para trabajar la norma social y el amoldamiento. En este contexto, asumir nuestras propias normas internas se vuelve crucial, y esto está determinado por cómo nos sentimos frente a los límites externos. Por otro lado, la triangulación con Sol-Mercurio y Luna-Júpiter, proporciona una energía reflexiva y emocionalmente esperanzadora. No debemos defraudarnos a nosotrxs mismxs, y para lograrlo, es esencial tener objetivos realistas y concretos, evitando la desilusión por metas idealizadas o restrictivas.
+Este es el tiempo de la cosecha y, para ello, debemos pensar en cómo nos organizamos. A pesar de la inclinación de Capricornio hacia la claridad en metas, la presencia de Saturno en Piscis nos insta a aprender a estructurarnos en la incertidumbre e inestabilidad neptuniana. Esto implica comprender que la vida no puede ser completamente planificada ni es 100% segura y concreta. Además, la inclusión de lo pisciano es esencial para no perder la magia, ya que en la rigidez apaga la creatividad y así no podemos reconectar con la vida. Se nos insta a soltar el control y perder el poder.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.
+La conjunción de la Luna y Júpiter en Tauro nos invita a aventurarnos en nuestro interior para encontrar sentido en las rupturas que Tauro ha experimentado desde la entrada de Urano en 2018. Esta posición sugiere que no todo está bajo control, abriendo posibilidades y activando un sentido de oportunidad para extraer riqueza de las posibilidades de Júpiter y Luna en Tauro. La Luna también busca bases sólidas antes de dar los siguientes pasos.
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet.
+Mercurio retrógrado en trígono con la Luna en Tauro nos insta a revisar nuestros recursos internos, nuestras estructuras y a valorar los procesos iniciados y lo construido en el pasado, y a expresar nuestras emociones con la fe de ser escuchados por quienes nos rodean.
 
-Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.
+La cuadratura de la Luna con Plutón ofrece una oportunidad para empoderar nuestro mundo emocional, pero implica revisar y reevaluar el pasado, cerrando un capítulo desde 2018 con Plutón en Capricornio.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”.
+Lilith forma un trígono con la Luna, Júpiter y el Sol-Mercurio, destacando la importancia de ser conscientes de nuestrx niñx interior y dirigir sus deseos. Debemos evitar imponernos estándares demasiado altos y ser excesivamente exigentes, o ignorar nuestras propias necesidades.
+
+Con Venus en Escorpio, es un momento para sumergirnos en la sombra del pasado doloroso, comprender las experiencias vinculares dolorosas y regenerarlas. Además en oposición a Urano y trígono con Neptuno influye en lo vincular, buscando valor y deseo desde la intensidad y la pasión sin perder la libertad.
+
+Marte en Sagitario, con cuadratura a Neptuno, representa una energía de acción y dinamismo para realizar nuestras propias creencias y visión de las cosas; sin embargo, también indica acciones radicales debido a fuertes dogmas presentes, lo que genera dificultades debido a la falta de claridad neptuniana sobre el porvenir.
+
+Los aspectos entre Urano, Neptuno y Plutón sugieren que el movimiento social nos empuja a realizar cambios personales, generando dolor en lo individual en estos contactos con lo transpersonal.
+
+> La invitación para este solsticio es conectar con el niño interior sus deseos, reevaluar las estructuras y las normas por las que nos hemos venido rigiendo hasta ahora y habiendo revisado esto, hacer el ejercicio que algunxs hacemos de trazar intenciones para el próximo año con optimismo, aprovechando la conjunción de la Luna en Tauro y Júpiter que nos va a dar el magnetismo y la confianza necesarias para un nuevo inicio de ciclo. 
+
+¡Feliz solsticio!
