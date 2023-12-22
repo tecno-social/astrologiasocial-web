@@ -10,7 +10,7 @@ Esta celebración de la luz, con una Luna en Júpiter, nos brinda esperanza y un
 
 En la carta de este solsticio, los planetas se encuentran por debajo de la línea ascendente, sugiriendo una conexión significativa con lo personal. Es un momento propicio para reconocer el trabajo personal realizado hasta ahora, tomar consciencia y evaluar el pasado para dar paso a un nuevo inicio. También nos presenta un juego entre el fuego y la tierra, dos elementos que no siempre se armonizan. La invitación es encontrar un equilibrio entre tener sin dejar de soñar, o soñar sin renunciar a tener.
 
-<img src='/assets/images/posts/2023-12-21-solsticio-de-capricornio-02.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/2023-12-21-solsticio-de-capricornio-02.png' style='float:right; width: 45%; padding: 1em;' />
 
 Saturno, el regente de Capricornio, se encuentra actualmente en Piscis y permanecerá allí durante dos años y medio, marcando un nuevo comienzo y una experiencia para trabajar la norma social y el amoldamiento. En este contexto, asumir nuestras propias normas internas se vuelve crucial, y esto está determinado por cómo nos sentimos frente a los límites externos. Por otro lado, la triangulación con Sol-Mercurio y Luna-Júpiter, proporciona una energía reflexiva y emocionalmente esperanzadora. No debemos defraudarnos a nosotrxs mismxs, y para lograrlo, es esencial tener objetivos realistas y concretos, evitando la desilusión por metas idealizadas o restrictivas.
 
