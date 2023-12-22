@@ -2,7 +2,8 @@
 layout: post
 title:  "Solsticio de Capricornio 2023"
 author: Lina
-categories: [ Solsticio, Capricornio, Carta ]
+categories: [ Solsticio, Capricornio, Carta ] 
+image: assets/images/posts/2023-12-21-solsticio-de-capricornio-01.jpg
 ---
 
 Esta celebración de la luz, con una Luna en Júpiter, nos brinda esperanza y una expansión interior, instándonos a reconectar con nuestro pasado para realizar una reconfiguración y cerrar el ciclo solar. El solsticio comienza en los 270° y coincide con el 0° de Capricornio, no representa el final absoluto, sino más bien el tramo final, marcando así una época de culminaciones..
