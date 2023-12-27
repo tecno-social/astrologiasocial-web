@@ -6,8 +6,7 @@ categories: [ capricornio, signo zodiacal ]
 image: assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.jpg
 ---
 
-**CAPRICORNIO**
-Lo paternal en nuestro interior.
+*Capricornio, la inquebrantable cabra de la montaña.*
 
 Este es un signo cardinal de tierra, regido por el planeta Saturno. Representa el estado de la energía donde se comprende la realidad y sus límites en contraste con las metas ideales y optimismo desmedido en el paso por Sagitario. Acá hay una necesidad de orden y construcción de algo que perdure con el tiempo. Tiene una impronta muy masculina de conquista del mundo y del mandato de una autoridad externa, es el arquetipo del “Gran Padre”.
 
@@ -31,7 +30,7 @@ También son personas que evitan las visitas médicas, a menos que la melancolí
 
 Con los años, cuando Capricornio madura y no ha elaborado la estructura y rigidez, puede que sienta un gran vacío interior debido a que construye en el plano externo y material y atendiendo en menor medida necesidades espirituales y emocionales, en este caso solo tiene dos caminos: sentirse frustradxs por los sacrificios de este tiempo cumpliendo metas para sí y para su clan o mirar desde la cumbre de sus logros y perdonarse por los deseos no cumplidos y las relaciones rotas o desgastadas, dándose la oportunidad de reinventarse, dejándose llevar por la espontaneidad y arriesgándose más, después de todo quizás ya se han cumplido muchos de sus objetivos. Rigiéndose menos por las normas y el deber ser social y en cambio establecer una norma personal que los guíe y que les permita mayor flexibilidad para experimentar sus deseos más gozosos sin culpa. 
 
-**Si Quieres trabajar tu energía capricorniana para ayudarla a madurar, responde las siguientes preguntas con SÍ o NO.**
+## Si quieres trabajar tu energía capricorniana para ayudarla a madurar, responde las siguientes preguntas con SÍ o NO
 
 1. ¿Necesitas tenerlo todo bajo control? 
 2. ¿El juego no vale la pena? 
@@ -54,10 +53,10 @@ En estos casos, lo mejor es preguntarse cuál es la meta que quieres alcanzar y 
 **Entre 8 y 11 «sí».** La energía de Capricornio es inmadura. Seguramente, has tenido que luchar mucho en tu vida para poder salir adelante. Llegará el día en que podrás descansar, puede que alguna vez las cosas resulten fáciles sólo porque sí, porque la vida te enviará un regalo. Confía también en las fuerzas espirituales que organizan el mundo cuándo uno se entrega. 
 
 
-**Fuentes:**
+## Fuentes
 
-Goodman, Linda. (2021). Los signos del zodiaco y su carácter. Kepler.
-Keller, Rita (1999).Viaje por el zodiaco en el punto de la edad. Astrolog #111 y 112
-Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
-Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
+* Goodman, Linda. (2021). Los signos del zodiaco y su carácter. Kepler.
+* Keller, Rita (1999).Viaje por el zodiaco en el punto de la edad. Astrolog #111 y 112
+* Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
+* Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
 
