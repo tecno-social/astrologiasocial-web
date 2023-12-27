@@ -42,13 +42,13 @@ Dentro de la sesión trabajamos con el hermoso "Tarot de las ﬂores" lo que nos
 
 <img src='/assets/images/diosa_luna.jpg' style='float:right; width: 45%; padding: 1em;' />
 
-1. Estes en un proceso personal de autoconocimiento.  ¿Acaso hay algo más urgente?
+1. Hacer un proceso personal de autoconocimiento.  ¿Acaso hay algo más importante?
 2. Si sientes que hay situaciones en tu vida que se repiten.
-3. Estés tomando decisiones vocacionales o quieras hacer un giro laboral.
-4. Falta de amor propio, seguridad y vives con un sentimiento de escasez.
-5. Heridas emocionales de rechazo, abandono, traición o injusticia.
-6. Necesitas tomar una decisión más conectada con tu proceso evolutivo.
-7. Descubrir bloqueos familiares transgeneracionales.
-8. Entender mejor la dinámica inconsciente.
-9. Búsqueda de conexión espiritual y trascendental.
+3. Cuando tengas que tomar decisiones vocacionales o quieras hacer un giro laboral.
+4. Sientes inseguridad en lo que haces y desmerecimiento.
+5. Convives con heridas emocionales de rechazo, abandono, traición o injusticia.
+6. Necesitas trabajar en tu relacion contigo misma.
+7. Quieres descubrir bloqueos familiares transgeneracionales.
+8. Entender mejor tu dinámica inconsciente.
+9. Búscar conexión espiritual y trascendental.
 10. Entender el propósito del alma.
