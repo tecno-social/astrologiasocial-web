@@ -40,7 +40,7 @@ Dentro de la sesión trabajamos con el hermoso "Tarot de las ﬂores" lo que nos
 
 # 10 razones para hacer tu carta natal
 
-<img src='/assets/images/posts/2023-12-21-solsticio-de-capricornio-02.png' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/diosa_luna.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 1. Estes en un proceso personal de autoconocimiento.  ¿Acaso hay algo más urgente?
 2. Si sientes que hay situaciones en tu vida que se repiten.
