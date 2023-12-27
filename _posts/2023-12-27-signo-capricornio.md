@@ -3,7 +3,7 @@ layout: post
 title:  "Capricornio"
 author: Lina
 categories: [ capricornio, signo zodiacal ]
-image: assets/images/posts/2023-12-27-signo-capricornio-2.jpg
+image: assets/images/posts/2023-12-27-signo-capricornio.jpg
 ---
 
 *Capricornio, la inquebrantable cabra de la montaña.*
