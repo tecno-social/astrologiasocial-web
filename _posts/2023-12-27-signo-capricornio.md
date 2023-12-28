@@ -14,7 +14,7 @@ image: assets/images/posts/2023-12-27-signo-capricornio.jpg
 **Equivalencia en el tarot:* arcano #4 "El emperador" 
 Arquetipo del “Gran Padre”.
 
-Lxs capricornianxs son personas ambiciosas que emprenden la búsqueda de estabilidad material y reconocimiento social. Se destacan por su responsabilidad y por cumplir las normas en diferentes ámbitos. Aunque pueden preocuparse por su reputación, rara vez adoptan un comportamiento que se perciba como transgresor. Solo en algunos casos, cuando tienen una fuerte influencia de Géminis, por ejemplo, podrían volverse un poco charlatanes. No les interesa la fama, sino más bien los lugares de reconocimiento por autoridad, metas alcanzadas y su tenacidad para lograrlas. Son muy realistas y tienen los pies bien puestos sobre la tierra. 
+Lxs individuxs nacidxs bajo el signo de Capricornio son personas ambiciosas que emprenden la búsqueda de estabilidad material y reconocimiento social. Su deseo de ser reconocidxs como autoridad se fundamenta en las metas alcanzadas y en la tenacidad que demuestran para lograrlas. Se destacan por su responsabilidad y su compromiso con el cumplimiento de normas en diversos ámbitos. Son realistas y tienen los pies firmemente asentados en la tierra, evitando adoptar comportamientos que puedan percibirse como transgresores. Únicamente en situaciones específicas, como cuando se ven fuertemente influenciadxs por Géminis, podrían mostrar una tendencia a una expresión más comunicativa. 
 
 ## La personalidad capricorniana 
 
