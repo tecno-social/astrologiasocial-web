@@ -11,8 +11,8 @@ image: assets/images/posts/2023-12-27-signo-capricornio.jpg
 **Elemento:** tierra
 **Modalidad:** cardinal
 **Planeta:** Saturno
-**Equivalencia en el tarot:* arcano #4 "El emperador" 
-Arquetipo del “Gran Padre”.
+**Equivalencia en el tarot:** arcano #4 "El emperador" 
+*Arquetipo del “Gran Padre”.*
 
 Lxs individuxs nacidxs bajo el signo de Capricornio son personas ambiciosas que emprenden la búsqueda de estabilidad material y reconocimiento social. Su deseo de ser reconocidxs como autoridad se fundamenta en las metas alcanzadas y en la tenacidad que demuestran para lograrlas. Se destacan por su responsabilidad y su compromiso con el cumplimiento de normas en diversos ámbitos. Son realistas y tienen los pies firmemente asentados en la tierra, evitando adoptar comportamientos que puedan percibirse como transgresores. Únicamente en situaciones específicas, como cuando se ven fuertemente influenciadxs por Géminis, podrían mostrar una tendencia a una expresión más comunicativa. 
 
