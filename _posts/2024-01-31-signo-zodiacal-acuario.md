@@ -3,7 +3,7 @@ layout: post
 title:  "Acuario"
 author: Lina
 categories: [ acuario, signo zodiacal, urano ]
-image: assets/images/posts/2023-12-27-signo-capricornio.jpg
+image: assets/images/posts/2024-01-31-signo-zodiacal-acuario.jpg
 ---
 
 *El aguador y el labrador de la humanidad.*
