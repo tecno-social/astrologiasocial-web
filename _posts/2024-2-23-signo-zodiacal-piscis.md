@@ -2,17 +2,17 @@
 layout: post
 title:  "Piscis"
 author: Lina
-categories: [ Piscis, signo zodiacal, Neptuno, Agua ]
+categories: [ Piscis, Signo zodiacal, Neptuno, Agua ]
 image: assets/images/posts/2024-2-23-signo-zodiacal-piscis.jpg
 ---
 
 *El salvador de la humanidad.*
 
-**Elemento:** agua
-**Modalidad:** mutable
+**Elemento:** Agua
+**Modalidad:** Mutable
 **Planeta:** Neptuno
-**Equivalencia en el tarot:** arcano #0 "El loco" y #17 la estrella "
-*Arquetipo del “La humanidad”.*
+**Equivalencia en el tarot:** Arcano #XX "El Juicio"
+*Arquetipo el mesias.*
 
 ## Símbolo de Piscis
 Las dos líneas onduladas representan el movimiento armonioso del agua, ilustrando cómo los ciclos de la vida se renuevan constantemente. La línea inferior simboliza el nivel material, mientras que la superior representa el nivel espiritual. Acuario es aquella persona que vierte agua, sabiduría y conocimiento en la humanidad. Este símbolo evoca la imagen de "La Estrella" del tarot, que derrama en el mundo la nutrición de su creatividad y busca un sentido de armonía con el todo.
