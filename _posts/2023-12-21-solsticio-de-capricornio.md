@@ -2,7 +2,7 @@
 layout: post
 title:  "Solsticio de Capricornio 2023"
 author: Lina
-categories: [ Solsticio, Capricornio, Carta ] 
+categories: [ Solsticio, Capricornio ] 
 image: assets/images/posts/2023-12-21-solsticio-de-capricornio-01.jpg
 ---
 
