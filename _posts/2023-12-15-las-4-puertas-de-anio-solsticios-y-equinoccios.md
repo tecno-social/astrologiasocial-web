@@ -2,7 +2,7 @@
 layout: post
 title:  "Las 4 puertas del año. Solsticios y Equinoccios"
 author: Lina
-categories: [ Solsticios, equinoccios, mitología ]
+categories: [ Solsticio, Equinoccio, Mitología ]
 image: assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.jpg
 ---
 
