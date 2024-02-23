@@ -2,7 +2,7 @@
 layout: post
 title:  "Acuario"
 author: Lina
-categories: [ acuario, signo zodiacal, urano ]
+categories: [ Acuario, signo zodiacal, Urano, Aire ]
 image: assets/images/posts/2024-01-31-signo-zodiacal-acuario.jpg
 ---
 
