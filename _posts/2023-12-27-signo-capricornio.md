@@ -2,7 +2,7 @@
 layout: post
 title:  "Capricornio"
 author: Lina
-categories: [ Capricornio, signo zodiacal ]
+categories: [ Capricornio, Signo zodiacal, Tierra ]
 image: assets/images/posts/2023-12-27-signo-capricornio.jpg
 ---
 
