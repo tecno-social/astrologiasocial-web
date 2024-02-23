@@ -6,16 +6,24 @@ categories: [ Piscis, Signo zodiacal, Neptuno, Agua ]
 image: assets/images/posts/2024-2-23-signo-zodiacal-piscis.jpg
 ---
 
-*El salvador de la humanidad.*
+*La muerte no marca el final del ciclo; apenas es el punto medio, como sugiere Alice Bailey: "La muerte de Cristo para la humanidad ha sido considerada como un espejismo, impidiendo la comprensión de su significado y trascendencia en la 'Resurrección'... El temor a la muerte distorsiona grandemente la verdad divina".
+
+Esta verdad está presente en la naturaleza; cada muerte nutre y prepara el camino para una nueva vida que, al ser nutrida, experimenta un renacimiento más luminoso y consciente, ya que el espíritu es inmortal.*
+
 
 **Elemento:** Agua
 **Modalidad:** Mutable
 **Planeta:** Neptuno
-**Equivalencia en el tarot:** Arcano #XX "El Juicio"
-*Arquetipo el mesias.*
+**Equivalencia en el tarot:** Arcano XX "El Juicio"
+
+**Arquetipos:**
+*Iluminado: El espiritista, el soñador.*
+*Neurótico: El martil, el escapista.*
 
 ## Símbolo de Piscis
-Las dos líneas onduladas representan el movimiento armonioso del agua, ilustrando cómo los ciclos de la vida se renuevan constantemente. La línea inferior simboliza el nivel material, mientras que la superior representa el nivel espiritual. Acuario es aquella persona que vierte agua, sabiduría y conocimiento en la humanidad. Este símbolo evoca la imagen de "La Estrella" del tarot, que derrama en el mundo la nutrición de su creatividad y busca un sentido de armonía con el todo.
+Los dos peces en direcciones opuestas simbolizan que no hay un punto de partida ni de llegada; los cardúmenes de peces nadan hacia arriba o hacia abajo sin llegar a ningún lugar. Piscis debe aprender que de alguna manera debe servir a la humanidad y evitar las metas y posesiones mundanas, no dejarse llevar por el cardumen.
+
+Los peces que nadan con la corriente terminarán siendo arrastrados por el resto, pero el pez que ve hacia ambos lados, a veces tiene dificultades para ver hacia adelante y se retrae a las alturas sublimes de una vida profesional sacrificada, como Einstein, uno de los peces que remontó la corriente y dio forma a todo un mundo nuevo del tiempo relativo.
 
 ## La personalidad Pisciana
 
