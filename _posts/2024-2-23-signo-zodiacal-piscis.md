@@ -27,7 +27,7 @@ Los peces que nadan con la corriente terminarán siendo arrastrados por el resto
 
 ## La personalidad Pisciana
 
-Piscis es el duodécimo signo del zodíaco y representa la muerte y la trascendencia. Es por ello que, desde la astrología, se considera un signo que tiene la sabiduría de los doce anteriores, pero con la peculiar cualidad de ver el pasado, el presente y el futuro como una unidad. Está conectado con una profunda sabiduría y compasión que solo es propia de este signo.
+Piscis es el duodécimo signo del zodíaco y representa la muerte y la trascendencia. Es por ello que, desde la astrología, se considera un signo que tiene la sabiduría de los once anteriores, pero con la peculiar cualidad de ver el pasado, el presente y el futuro como una unidad. Está conectado con una profunda sabiduría y compasión que solo es propia de este signo.
 
 Las personas con el Sol en Piscis están son una antena a la fuente insondable de la creación y pueden tener dones de mediumnidad, para comunicarse con otrxs planos, estar inspiradxs creativamente o tener premoniciones.
 
