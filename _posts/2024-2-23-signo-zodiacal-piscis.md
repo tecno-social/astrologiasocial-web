@@ -41,9 +41,9 @@ Quienes logran sacar fuerzas para sostenerse en el mundo por lo general desarrol
 
 Tienen un sentido del humor sarcástico e inteligente muy repentino, que abofetea y deja pensando y riendo. Es su forma de expresar emociones y responder de forma encubierta a los sentimientos que les has generado.
 
-Son muy compasivxs y están dispuestxs a cuidar y servir a enfermxs y rechazadxs, pero no solo de forma material con caridad, sino también con el corazón, consolandolos sin juzgar y sin una mirada de superioridad. Un Neptuniano no se escandaliza frente a las miserias humanas, sino que siente compasión. Algunxs de ellxs, los más sensibles, buscarán un estilo de vida austero y monástico.
+Son muy compasivxs y están dispuestxs a cuidar y servir a enfermxs y rechazadxs, pero no solo de forma material con caridad, sino también con el corazón, consolando sin juzgar y sin una mirada de superioridad. Un Neptuniano no se escandaliza frente a las miserias humanas, sino que siente compasión. Algunxs más sensibles, buscarán un estilo de vida austero y monástico para aislarse en la oración.
 
-He visto a varios Piscis que se ven indiferentes y duros, pero es otro rol que adoptan para protegerse de la dureza de la vida. Nuestra sociedad castiga mucho la vulnerabilidad y el idealismo espiritual proveniente de este signo. Es una personalidad con poco éxito en un mundo como el nuestro. Además, se desprenden de sus propios bienes y muchxs pueden aprovecharse, pero esta dureza impostada cae con facilidad y muestra su profundo espíritu, sobre todo porque absorbe muy rápidamente los dolores de los demás. Piscis nunca se mostrarán indiferentes ante una desgracia.
+He visto a varios Piscis que se ven indiferentes y duros, pero es otro rol que adoptan para protegerse de la dureza de la vida. Nuestra sociedad castiga mucho la vulnerabilidad y el idealismo espiritual proveniente de este signo. Es una personalidad con poco éxito en un mundo como el nuestro. Además, se desprenden de sus propios bienes, tiempo y valores por lo que muchxs pueden aprovecharse, pero esta dureza impostada cae con facilidad y muestra su profundo espíritu, sobre todo porque absorbe muy rápidamente los dolores de los demás, Piscis nunca se mostrarán indiferentes ante una desgracia.
 
 ## La salud de Piscis
 
@@ -53,7 +53,7 @@ También existe en Piscis la creencia de que son inagotables y eternxs, lo que h
 
 El escapismo es un rasgo importante en Neptunianos; para algunxs, el alcohol y otras adicciones son caminos hacia una realidad más acuosa e ideal. Quieren ver la vida a través de un filtro; no es que no sepan que en el mundo hay horror y obstáculos, sino que prefieren mirar hacia otro lado, incluso si esto implica fracaso y desesperación. Pueden quedarse por un tiempo insistiendo en una falsa esperanza, un ideal inalcanzable, y pueden poner excusas para holgazanear sin lograr tomar un camino realista hacia el éxito. 
 
-Hay Piscis que dejan su vida atrás para ir al rescate de parientes, parejas o amigos, enterrando en lo profundo sus relaciones, deseos y anhelos. Se olvidan de poner límites y tienden a atraer relaciones conflictivas, quedándose en la toxicidad por más tiempo que otrxs signos.
+Hay Piscis que dejan su vida atrás para ir al rescate de parientes, parejas o amigos, enterrando en lo profundo sus relaciones, deseos y anhelos. Se olvidan de poner límites y tienden a atraer relaciones conflictivas, quedándose en la toxicidad por más tiempo que los otrxs signos.
 
 Además, Neptuno, como el agua de mar, no es del todo transparente, lo que les da facilidad para deformar la verdad, haciendo que otrxs caigan en engaños y recreando historias por aceptación y por su necesidad de vivir en el paraíso de sus sueños y enmascarar sus verdaderos sentimientos y emociones. Pueden representar una emoción de tristeza y al segundo ser vibrantes como el fuego, y nada de esto representa la profundidad; incluso a ellxs les cuesta discriminar porque todo es ilusión.
 
@@ -61,7 +61,7 @@ Además, Neptuno, como el agua de mar, no es del todo transparente, lo que les d
 
 Es clave desarrollar un fuerte sentido del mérito, que permita sentir que está bien ser como se es sin depender de la validación externa. Si se dan cuenta de que la aceptación de su forma de ver el mundo les permite dominar las circunstancias, será más fácil para ellxs poner límites sanos a los demás y superar su tendencia al sufrimiento.
 
-Será muy importante para la maduración del sol en Piscis hacerse cargo y servirse sus propias necesidades sin traicionarse por servir a otrxs. Integrando la capacidad de discriminación y crítica de Virgo a través de las rutinas, el trabajo, el cuidado de la salud, el ejercicio, la alimentación, la meditación y el servicio, encontrarán un marco para poner los pies sobre suelo firme, permitiéndoles llegar a una verdad personal que los haga expandirse y convertirse en poderosxs guías espirituales, fuentes de amor incondicional y medios para la conexión entre el cielo y la tierra.
+Será muy importante para la maduración del sol en Piscis hacerse cargo y servir sus propias necesidades sin traicionarse por servir a otrxs. Por otro lado, integrar el signo opuesto ques es Virgo, la capacidad de discriminación y crítica a través del análisis práctico de las cosas y el trabajo, creando para sí rutinas de; ejercicio, alimentación, meditación, trabajo y  servicio, encontrando así un marco para poner los pies sobre suelo firme, permitiéndoles llegar a una verdad personal que los haga expandirse y convertirse en eso que ensoñaron, fuentes de amor incondicional y medios para la conexión entre el cielo y la tierra.
 
 ## Si quieres trabajar a Piscis para madurar esta energía, responde las siguientes preguntas con SÍ o NO
 
