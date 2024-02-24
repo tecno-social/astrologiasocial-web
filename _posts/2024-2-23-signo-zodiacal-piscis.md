@@ -17,13 +17,16 @@ image: assets/images/posts/2024-2-23-signo-zodiacal-piscis.jpg
 **Equivalencia en el tarot:** Arcano XX "El Juicio"
 
 **Arquetipos:**
+
 *Iluminado: El espiritista, el soñador.*
+
 *Neurótico: El martil, el escapista.*
+
 
 ## Símbolo de Piscis
 Los dos peces en direcciones opuestas simbolizan que no hay un punto de partida ni de llegada; los cardúmenes de peces nadan hacia arriba o hacia abajo sin llegar a ningún lugar. Piscis debe aprender que de alguna manera debe servir a la humanidad y evitar las metas y posesiones mundanas, no dejarse llevar por el cardumen.
 
-Los peces que nadan con la corriente terminarán siendo arrastrados por el resto, pero el pez que ve hacia ambos lados y se retrae, hace un sacrificio en medio del caos y ve como inspirado por la divinidad otro camino, como Einstein, uno de los peces que remontó la corriente y dio forma a todo un mundo nuevo del tiempo relativo.
+Los peces que nadan con la corriente terminarán siendo arrastrados por el resto, pero el pez que ve hacia ambos lados y se retrae, hace un sacrificio en medio del caos y ve, como inspirado por su divinidad, otro camino. Como Einstein, uno de los peces que remontó la corriente y el cardumen dando forma al tiempo relativo del ayer, hoy y mañana.
 
 ## La personalidad Pisciana
 
