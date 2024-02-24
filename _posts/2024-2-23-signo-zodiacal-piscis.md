@@ -27,6 +27,10 @@ Los peces que nadan con la corriente terminarán siendo arrastrados por el resto
 
 ## La personalidad Pisciana
 
+Piscis es el duodécimo signo del zodíaco y representa la muerte y la trascendencia. Es por ello que, desde la astrología, se considera un signo que tiene la sabiduría de los doce anteriores, pero con la peculiar cualidad de ver el pasado, el presente y el futuro como una unidad. Está conectado con una profunda sabiduría y compasión que solo es propia de este signo.
+
+Las personas con el Sol en Piscis están son una antena a la fuente insondable de la creación y pueden tener dones de mediumnidad, para comunicarse con otrxs planos, estar inspiradxs creativamente o tener premoniciones.
+
 Es difícil ver a unx piscianx ocupando cargos de liderazgo, poder y responsabilidad; ellxs no tienen la energía ni le ven el sentido a ello. Son menos mundanxs, más interesadxs en el ocio, el arte y el esoterismo. Frecuentan lugares menos formales, más creativos o solitarios, espacios que les permitan una conexión con un mundo más simbólico o de imágenes.
 
 Parecen tener una consciencia superior sobre la mayoría de las cosas, como el dinero, que lo disfrutan sin codicia. Saben que no es más que un medio y tienen claro que no es permanente, lo que no les impide disfrutar mientras lo tienen y vivir sin preocuparse tanto por el mañana. Como buenxs peces, ellxs no luchan contra la corriente, eso exigiría demasiado esfuerzo. Sin embargo, este parece ser el desafío de Piscis para hallar la paz y felicidad auténticas. Seguir la corriente es encontrarse en la trampa de una vida desperdiciada.
@@ -41,46 +45,49 @@ Son muy compasivxs y están dispuestxs a cuidar y servir a enfermos y rechazadxs
 
 He visto muchxs piscianxs que se ven indiferentes y duros, pero es otro rol que adoptan para protegerse de la dureza de la vida. Nuestra sociedad castiga mucho la vulnerabilidad y el idealismo neptuniano. Es una personalidad con poco éxito en un mundo como el nuestro. Además, son desprendidxs con sus propios bienes y muchxs pueden aprovecharse, pero esta dureza impostada cae con facilidad y muestra su profundo espíritu, sobre todo porque absorbe muy rápidamente los dolores de los demás. Ellxs nunca se mostrarán indiferentes ante una desgracia.
 
-Las personas con el Sol en Piscis están conectadas a la fuente insondable de la creación y pueden tener dones de mediumnidad, para comunicarse con otrxs planos, estar inspiradxs creativamente o tener premoniciones.
+## La salud de Piscis
 
-Piscis es el duodécimo signo del zodíaco y representa la muerte y la trascendencia. Es por ello que, desde la astrología, se considera un signo que tiene la sabiduría de los doce anteriores, pero con la peculiar cualidad de ver el pasado, el presente y el futuro como una unidad. Está conectado con una profunda sabiduría y compasión que solo es propia de este signo.
+También existe en ellxs la creencia de que son inagotables y eternxs, lo que hace que actúen como si no tuvieran un cuerpo físico que se desgasta y necesita ser cuidado y alimentado. También hay quienes se cargan a sus espaldas los problemas de otrxs, somatizándolos y queriendo ser sus salvadores, lo que termina impactando en su salud. Incluso más allá de las dificultades, pueden experimentar desde niñxs una salud frágil y baja energía, con más sueño de lo normal. Físicamente, pueden presentar anormalidades en los pies, las manos o las caderas, y padecer enfermedades o complicaciones respiratorias. Sin embargo, su debilidad física se corresponde con su fuerza interior, lo que les ayuda a superar limitaciones físicas y emocionales con una resistencia asombrosa.
 
-## La sombra de Acuario
+## La sombra de Piscis
 
-Si bien a la luz de Acuario le agrada vivir en grupo, en la sombra se muestra egocéntrico e individualista, manteniendo el deseo de ser admiradx por todxs. Busca la igualdad en el mundo, pero sin disolverse en el grupo; su motivación es egoica. Existe el riesgo de que puedan comportarse de manera elitista y rechazar cualquier tipo de pensamiento distinto.
+El escapismo es un rasgo importante en lxs Neptunianxs; para algunxs, el alcohol y otras adicciones son caminos hacia una realidad más acuosa e ideal. Quieren ver la vida a través de un filtro; no es que no sepan que en el mundo hay horror y obstáculos, sino que prefieren mirar hacia otro lado, incluso si esto implica fracaso y desesperación. Pueden quedarse por un tiempo insistiendo en una falsa esperanza, un ideal inalcanzable, y algunxs ponen excusas para holgazanear sin lograr tomar un camino realista hacia el éxito. 
 
-Acuario en su forma inarmónica puede manifestarse como inquietx, alteradx, desasosegadx, impaciente, agitador, revoltosx, rebelde, sublevadx, irrespetuosx, despreciativx, irresponsable, insensatx, bruscx, insegurx, desordenadx, inmadurx, intelectualoide, cientificista, sabelotodx, utópicx.
+Hay piscianxs que han dejado su vida atrás para ir al rescate de parientes, parejas o amigos, enterrando en lo profundo sus relaciones, deseos y anhelos. Se olvidan de poner límites y tienden a atraer relaciones conflictivas, quedándose en la toxicidad por más tiempo que otrxs signos.
 
-## La misión de Acuario
+Además, Neptuno, como el agua de mar, no es del todo transparente, lo que les da facilidad para deformar la verdad, haciendo que otrxs caigan en engaños y recreando historias por aceptación y por su necesidad de vivir en el paraíso de sus sueños y enmascarar sus verdaderos sentimientos y emociones. Pueden representar una emoción de tristeza y al segundo ser vibrantes como el fuego, y nada de esto representa la profundidad; incluso a ellxs les cuesta discriminar porque todo es ilusión.
 
-Avanzamos hacia la era de Acuario, y ahora más que nunca buscamos guías que nos indiquen hacia dónde ir, ya que las creencias de nuestras culturas occidentales que solían proporcionarnos orientación carecen de sentido y no hay referentes claros para lo que estamos viviendo. Los ideales de Acuario, como la igualdad, fraternidad, amor universal, vivir y dejar vivir, buscar la verdad, experimentar y retirarse a meditar, traen la esperanza de un nuevo futuro. Estos ideales son lo único que se opone a la deriva a la que nos aproximamos. Cultivar la capacidad de cambio y diferenciación, activar la inteligencia creativa y, si es necesario, rebelarse, ya sea contra el pensamiento estancado o contra las estructuras y formas que limitan la vida.
+## Maduración del sol en Piscis
 
-Acuario representa la conciencia de grupo, demostrando que personas "muy distintas" pueden apoyarse mutuamente trabajando en un proyecto común. Cada individuo es consciente de sus capacidades y puede participar a su manera. La utopía de Acuario busca establecer relaciones, intercambiar roles y hacer realidad las visiones en comunidad. Esto requiere tolerancia para trabajar en grupo. Aquellas personas que se colocan por encima de lxs demás, creyendo que son superiores, no están dispuestas a abrirse a lo nuevo y lo desconocido, carecen de tolerancia, se encierran en sí mismxs y terminan excluyéndose a sí mismxs.
+Es clave desarrollar un fuerte sentido del mérito, que permita sentir que está bien ser como se es sin depender de la validación externa. Si se dan cuenta de que la aceptación de su forma de ver el mundo les permite dominar las circunstancias, será más fácil para ellxs poner límites sanos a los demás y superar su tendencia al sufrimiento.
 
-## Si quieres trabajar a Acuario para madurar esta energía, responde las siguientes preguntas con SÍ o NO
+Será muy importante para la maduración del Sol en Piscis hacerse cargo y servirse a sí mismx sin traicionarse por servir a otrxs. Integrando la capacidad de discriminación y crítica de Virgo a través de las rutinas, el trabajo, el cuidado de la salud, el ejercicio, la alimentación, la meditación y el servicio a otrxs, encontrarán un marco para poner los pies sobre suelo firme, permitiéndoles llegar a una verdad personal que los haga expandirse y convertirse en poderosxs guías espirituales, fuentes de amor incondicional y medios para la conexión entre el cielo y la tierra.
 
-1. ¿Sueles justificarte?
-2. ¿Te precipitas?
-3. ¿Crees que a veces haces cosas sin sentido?
-4. ¿Acostumbras a salirte con la tuya?
-5. ¿Eres impaciente?
-6. ¿Te cuesta asumir los límites de las situaciones?
-7. ¿Sientes que caes en un abismo en determinados momentos?
-8. ¿Eres caprichoso?
-9. ¿Eres muy inquieto?
-10. ¿Tienes miedo a salir perdiendo?
-11. ¿Te sientes como si las cosas se te escurrieran antes de poder aferrarlas?
+## Si quieres trabajar a Piscis para madurar esta energía, responde las siguientes preguntas con SÍ o NO
 
-**Entre 0 y 3 «sí».** La energía de Acuario no está bloqueada. Es un buen momento para dejarse llevar.
+1. ¿Si las cosas van bien es que algo malo pasará?
+2. ¿No te mereces lo que te pasa?
+3. ¿Hay muchas cosas básicas que la gente debería saber y no sabe?
+4. ¿Estás pasando por una época de presión y ansiedad?
+5. ¿El mundo es cruel?
+6. ¿Nadie hace lo que debería hacer?
+7. ¿Lo místico está muy lejos de tu vida?
+8. ¿Eres del tipo de personas que «peca» por omisión?
+9. ¿Mejor malo conocido que bueno por conocer?
+10. ¿Todo puede explicarse con lógica?
+11. ¿Tú sabes mejor que otros lo que pasa?
 
-**Entre 4 y 7 «sí».** La energía de Acuario está un poco bloqueada. Relájate, quizá necesites controlar las situaciones, o bien lanzarte a la aventura sin más para sentir que estás vivo. Te conviene detener un poco ese ritmo y observarte un poco más. ¡Usa tu energía creativa ya!
+**Entre 0 y 3 «sí».** La energía de Piscis está libre para expandirse a través de ti hacia nuevos horizontes. Si te atreves a trasladar esa energía a lo cotidiano, puedes conectar la tierra con el cielo.
 
-**Entre 8 y 11 «sí».** «sí». La energía de Acuario está completamente bloqueada. Puedes ser niño y adulto a la vez. Tu parte adulta protege al niño que fuiste. No tienes que probar nada a nadie, ni tan siquiera a ti mismo. Estudia este simbolo en profundidad leyendo de nuevo el artículo: medita y reflexiona sobre él. Es absolutamente imprescindible que canalices tu energía creativa. Eres un innovador y no lo sabes, ni lo crees.
+**Entre 4 y 7 «sí».** La energía de Piscis está un poco bloqueada. Prueba meditar y conectar con la fe y la confianza. Intenta observar que somos un espíritu eterno con un cuerpo y una identidad perecedera.
+
+**Entre 8 y 11 «sí».** «sí». La energía de Piscis está bloqueada. Es posible que tu resistencia se deba a varias razones, tantas como para frenar este proceso. Sea lo que fuere, no perderás mucho tiempo si te dedicas a repasar tu vida. Es un buen momento para organizar un álbum de fotos. También puedes escribirle una carta a un buen amigo contándole tu vida (puedes no enviarla luego, por supuesto). Cualquier tipo de actividad que te permite repasar tu vida y contemplarla como si fuera una película.
+
 
 
 ## Fuentes
 
 * Goodman, Linda. (2021). Los signos del zodiaco y su carácter. Kepler.
-* Tabor, Osman (1998). Signos del zodiaco.
+* MacCarthy, Juliana. 2018. Somos Estrellas. Editorial Koan. 
 * Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
 * Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
