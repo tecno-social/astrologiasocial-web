@@ -10,7 +10,7 @@ Las fases de la luna nos recuerdan el ciclo de la naturaleza: nacimiento, crecim
 
 ## Ciclo Lunar
 
-<img src='assets/images/posts/2024-02-24-ciclos-lunares-2.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/2024-02-24-ciclos-lunares-2.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 Cada año experimentamos 13 fases lunares completas: luna nueva, cuarto creciente, luna llena y cuarto menguante, lo que equivale a 4 fases cada 28 días. En cada luna nueva, el sol y la luna están en el mismo grado. Luego viene el cuarto creciente, donde la luna avanza aproximadamente 12° o 13° por día y forma una cuadratura, un aspecto de 90° con el sol. Después, cuando la luna está en oposición al sol, se forma la luna llena. Finalmente, llegamos al cuarto menguante cuando el sol está en un signo que forma una cuadratura superior con la luna, marcando el fin de un ciclo. Para comprender completamente el proceso evolutivo que cada luna nueva propone, es necesario entender el ciclo Metónico.
 
