@@ -14,9 +14,9 @@ Cada año experimentamos 13 fases lunares completas: luna nueva, cuarto crecient
 
 # Ciclo Metónico 
 
-Este ciclo en principio fue descubierto por Meton un Astrónomo Griego del Siglo V de a.C. Se refiere a un periodo de 19 años donde la luna regresa al mismo lugar y forma la misma fase sinódica, significa que en 19 años se tendrá la misma fase en su relación con el sol. Si uno nace en un eclipse cada 19 años tendrá un nuevo eclipse y marcará un nuevo ciclo prominente.
+Este ciclo en principio fue descubierto por Meton un Astrónomo Griego del Siglo V de a.C. Se refiere a un periodo de 19 años donde la luna regresa al mismo lugar y forma la misma fase sinódica, significa que en 19 años se tendrá la misma fase en su relación con el sol. Si uno nace en un eclipse, cada 19 años tendrá la misma lunación y marcará un nuevo ciclo importante en la vida.
 
-En el ciclo metónico cada ciclo comienza con una luna nueva, 9 meses más tarde se hará una luna cuarto creciente en el mismo grado y signo. 18 meses desde que inició el ciclo se formará una luna llena en el mismo grado y signo de la luna nueva del comienzo. 27 meses después también se hará una luna en cuarto menguante en ese mismo grado.
+El ciclo metónico comienza con una luna nueva en un signo y grado, 9 meses más tarde se hará una luna cuarto creciente en el mismo signo y grado. 18 meses desde que inició el ciclo se formará una luna llena en el mismo grado y signo de la luna nueva del comienzo. 27 meses después también se hará una luna en cuarto menguante en ese mismo grado. 
 
 
 
