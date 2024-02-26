@@ -6,13 +6,15 @@ categories: [ Luna, Mitología ]
 image: assets/images/posts/2024-02-24-ciclos-lunares.jpg
 ---
 
-Las fases de la luna nos recuerdan el ciclo de la naturaleza: nacimiento, crecimiento, maduración y descomposición. La luna y su ciclo también son una metáfora de la menstruación femenina, donde el cuerpo de la mujer que se sincroniza con el ciclo cósmico de la luna. En cada fase se experimenta la encarnación de un arquetipo proveniente del inconsciente colectivo, que produce una sensación de oscilación y mutabilidad. Esta mutabilidad emocional atribuida al costado femenino, no tiene buena prensa y es motivo de vergüenza en el mundo solar patriarcal en el que vivimos, la realidad es que los arquetipos solares y lunares danzan de forma equilibrada y equilibrante pero nosotros aún no podemos vivenciarlo conscientemente, lo que al final termina quitándonos poder.
+Las fases de la luna nos recuerdan el ciclo de la naturaleza: nacimiento, crecimiento, maduración y descomposición. La luna y su ciclo también son una metáfora de la menstruación femenina, donde el cuerpo de la mujer se sincroniza con el ciclo cósmico de la luna. En cada fase se experimenta la encarnación de un arquetipo proveniente del inconsciente colectivo, que produce una sensación de oscilación y mutabilidad. Esta mutabilidad emocional atribuida al costado femenino, no tiene buena prensa y es motivo de vergüenza en el mundo solar patriarcal en el que vivimos, la realidad es que los arquetipos solares y lunares danzan de forma equilibrada y equilibrante pero nosotros aún no podemos vivenciar conscientemente, lo que al final termina quitándonos poder.
 
-# Ciclo Lunar
+## Ciclo Lunar
+
+<img src='assets/images/posts/2024-02-24-ciclos-lunares-2.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 Cada año experimentamos 13 fases lunares completas: luna nueva, cuarto creciente, luna llena y cuarto menguante, lo que equivale a 4 fases cada 28 días. En cada luna nueva, el sol y la luna están en el mismo grado. Luego viene el cuarto creciente, donde la luna avanza aproximadamente 12° o 13° por día y forma una cuadratura, un aspecto de 90° con el sol. Después, cuando la luna está en oposición al sol, se forma la luna llena. Finalmente, llegamos al cuarto menguante cuando el sol está en un signo que forma una cuadratura superior con la luna, marcando el fin de un ciclo. Para comprender completamente el proceso evolutivo que cada luna nueva propone, es necesario entender el ciclo Metónico.
 
-# Ciclo Metónico 
+## Ciclo Metónico 
 
 Este ciclo en principio fue descubierto por Meton un Astrónomo Griego del Siglo V de a.C. Se refiere a un periodo de 19 años donde la luna regresa al mismo lugar y forma la misma fase sinódica, significa que en 19 años se tendrá la misma fase en su relación con el sol. Si uno nace en un eclipse, cada 19 años tendrá la misma lunación y marcará un nuevo ciclo importante en la vida.
 
