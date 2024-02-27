@@ -26,9 +26,11 @@ Esta fase es una siembra, un nuevo comienzo que también tiene correspondencia c
 
 Una luna nueva propone un inicio, pero en el momento de la lunación no tenemos completa claridad sobre cuál es ese inicio porque no hay luz; todo es inconsciente. Lo más probable es que, nueve meses después, cuando esa luna (signo y grados) está en cuarto creciente, tengamos suficiente distancia para ver aquello que había comenzado. Y no será sino hasta el mes 18 del ciclo metónico cuando veremos la culminación de lo que comenzamos con esa luna nueva. Esta luna tendrá mucha más fuerza si al evento confluyen las siguientes configuraciones:
 
-[x] Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares, con mayor influencia en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida.
-[x] Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
-[x] A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
+1. Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares, con mayor influencia en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida.
+
+2. Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
+
+3. A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
 
 ### ¿Cómo trabajar en mí en luna nueva?
 
@@ -62,9 +64,9 @@ Esta fase también tiene una correspondencia arquetípica con la madre, y en los
 
 El evento será más relevante, sobre todo si además de la lunación sucede:
 
-- Si llegara a coincidir con un eclipse de luna, porque los nodos también participan, si en este período hay un eclipse no hay luz porque hay ocultamiento y no se puede ver con claridad.
-- Si en una luna llena se forma en conjunción con un planeta, lo que lo haría muy visible en su función.
-- O si en una carta personal hace conjunción a un planeta de la carta natal, iluminando una posible cosecha en relación al planeta al que toca. Para hacer estos análisis de la luna llena debemos ver los regentes; ¿dónde está la luna si está en Aries? ¿Dónde está el regente? Y ¿dónde está el sol y el regente?
+1. Si llegara a coincidir con un eclipse de luna, porque los nodos también participan, si en este período hay un eclipse no hay luz porque hay ocultamiento y no se puede ver con claridad.
+2. Si en una luna llena se forma en conjunción con un planeta, lo que lo haría muy visible en su función.
+3. O si en una carta personal hace conjunción a un planeta de la carta natal, iluminando una posible cosecha en relación al planeta al que toca. Para hacer estos análisis de la luna llena debemos ver los regentes; ¿dónde está la luna si está en Aries? ¿Dónde está el regente? Y ¿dónde está el sol y el regente?
 
 ### ¿Cómo trabajar en mí en luna llena?
 
@@ -78,8 +80,6 @@ El evento será más relevante, sobre todo si además de la lunación sucede:
 Si es más del tipo victimista, pensemos a la inversa: ¿qué me falta desarrollar para no sentirme víctima en una situación? Primero veo en qué me siento víctima y después cultivo la capacidad para generar una virtud de la cual carezco.
 
 3. Clarifico mi propósito, lo ilumino con consciencia y  lo realizo.
-
-
 
 
 
