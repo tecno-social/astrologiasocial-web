@@ -30,7 +30,7 @@ Una luna nueva propone un inicio, pero en el momento de la lunación no tenemos 
 - Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
 - A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
 
-### ¿Cómo trabajar la energía en luna nueva?
+### ¿Cómo trabajar en mí en luna nueva?
 
 1. Es una época de recogimiento y de contacto interior, voy a lo profundo de mi oscuridad y en ese viaje se libera una semilla. Se recomienda buscar espacios de soledad e intimidad. 
 2. Me doy cuenta de esos seres que se liberan de mi interior y les permito encarnar sin juzgarlos pero observando su potencial. Meditar es un buen ejercicio para ejercitar el punto de vista del observador compasivo.  
@@ -44,7 +44,7 @@ Nueve meses más tarde de la luna nueva, se ve el brote. Esta fase es primaveral
 
 Esta es la fase relacionada con la virgen o doncella, por lo tanto, es una etapa magnética, activa, movida por la voluntad y el deseo, donde se manifiesta fuerza creativa, un actuar impulsivo, con capacidad de movimiento y cambio. En la mitología, unas de las diosas que mejor encarnan esta energía son Afrodita y Atenea. Aunque cada una con un enfoque distinto, dependerá del nivel de madurez cómo se encarne este arquetipo. Una hará despliegue de una acción más instintiva y muy sexual; el otro arquetipo tenderá a la planeación antes de la acción.
 
-### ¿Cómo trabajar mi energía en luna creciente?
+### ¿Cómo trabajar en mí en luna creciente?
 
 1. Se da una liberación de energía que se manifiesta en el cuerpo; estoy lista para luchar y seguir adelante. Es una etapa que favorece la acción y el ir hacia afuera; aquí se toman decisiones y se emprende el camino.
 2. Activo los dones que reconozco como propios y me muestro para actuar y construir. Hay una necesidad de ser visto y reconocido; es importante compartir con otros lo que hacemos o lo que iniciamos en esta etapa.
