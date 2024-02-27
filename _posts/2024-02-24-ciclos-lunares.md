@@ -99,11 +99,12 @@ Para llevar a cabo este proceso con las fases lunares, es importante entender el
 
 
 
-## Fuentes
+### Fuentes
+
 * Congreso 2022, El Ciclo Metónico de la Luna por Maria Blanquier. Link: El Ciclo Metonico de la Luna 
 * George, Demetra. 2008. Finding Our Way through the Dark. Editor: American Federation of Astrology.
 * Bolen, Jean Shinoda. 2015. Las diosas de cada mujer. Editorial Kairos
-* Artículo de wikipedia: https://es.wikipedia.org/wiki/Luna_llena* 
+* Artículo de wikipedia: https://es.wikipedia.org/wiki/Luna_llena 
 
 
 
