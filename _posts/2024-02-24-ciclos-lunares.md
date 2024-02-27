@@ -35,7 +35,7 @@ Una luna nueva propone un inicio, pero en el momento de la lunación no tenemos 
 1. Es una época de recogimiento y contacto interior, voy a lo profundo de mi oscuridad y en ese viaje se libera una semilla. Se recomienda buscar espacios de soledad e intimidad. 
 2. Me doy cuenta de esos seres que se liberan de mi interior y les permito encarnar sin juzgarlos pero observando su potencial. Meditar es un buen ejercicio para ejercitar el punto de vista del observador compasivo.  
 3. Dejo que emerja lo que está adentro y lo proyecto. Este es un momento para escribir, pintar, usar alguna forma para plasmar. 
-4. En general hay poca claridad por eso todo debe dejarse reposar y no ir hacia fuera ni tomar decisiones solo, sentir y fluir. 
+4. En general hay poca claridad, por eso todo debe dejarse reposar y no ir hacia afuera ni tomar decisiones, solo sentir y fluir. 
 
 
 ## Luna cuarto creciente
