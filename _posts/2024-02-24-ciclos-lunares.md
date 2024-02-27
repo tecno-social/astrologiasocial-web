@@ -30,7 +30,7 @@ Una luna nueva propone un inicio, pero en el momento de la lunación no tenemos 
 - Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
 - A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
 
-# ¿Cómo trabajar la luna nueva?
+### ¿Cómo trabajar la energía en luna nueva?
 
 1. Es una época de recogimiento y de contacto interior, voy a lo profundo de mi oscuridad y en ese viaje se libera una semilla. Se recomienda buscar espacios de soledad e intimidad. 
 2. Me doy cuenta de esos seres que se liberan de mi interior y les permito encarnar sin juzgarlos pero observando su potencial. Meditar es un buen ejercicio para ejercitar el punto de vista del observador compasivo.  
@@ -44,11 +44,43 @@ Nueve meses más tarde de la luna nueva, se ve el brote. Esta fase es primaveral
 
 Esta es la fase relacionada con la virgen o doncella, por lo tanto, es una etapa magnética, activa, movida por la voluntad y el deseo, donde se manifiesta fuerza creativa, un actuar impulsivo, con capacidad de movimiento y cambio. En la mitología, unas de las diosas que mejor encarnan esta energía son Afrodita y Atenea. Aunque cada una con un enfoque distinto, dependerá del nivel de madurez cómo se encarne este arquetipo. Una hará despliegue de una acción más instintiva y muy sexual; el otro arquetipo tenderá a la planeación antes de la acción.
 
-# ¿Cómo trabajar mi energía en luna creciente?
+### ¿Cómo trabajar mi energía en luna creciente?
 
 1. Se da una liberación de energía que se manifiesta en el cuerpo; estoy lista para luchar y seguir adelante. Es una etapa que favorece la acción y el ir hacia afuera; aquí se toman decisiones y se emprende el camino.
 2. Activo los dones que reconozco como propios y me muestro para actuar y construir. Hay una necesidad de ser visto y reconocido; es importante compartir con otros lo que hacemos o lo que iniciamos en esta etapa.
-3. Se va ganando claridad a través de la acción; es importante poder hacer movimientos reflexivos, dando tiempo al análisis durante el movimiento.   
+3. Se va ganando claridad a través de la acción; es importante poder hacer movimientos reflexivos, dando tiempo al análisis durante el movimiento.
+
+## Luna llena 
+
+Las lunas llenas son un despertar, un llamado a la iluminación, a darnos cuenta de la vulnerabilidad y ponerle una luz a toda la información absorbida y las huellas emocionales, en los golpes y movimientos y ondulación emocional. Ponerle la luz a un punto que no le gusta dejarse ver. Si se ha escondido mucho debajo de las aguas, en luna llena se levanta el telón y se ilumina lo oculto.
+
+Esta fase lunar sucede 14 días después de un novilunio. El plenilunio es una fase lunar en la que la tierra se interpone, alineándose entre el sol y la luna. En ese momento, el sol y la luna hacen una oposición, estando a 180°, y la iluminación es del 100%. La luna refleja la luz del sol a la tierra con la totalidad de su cara visible. Esto ocurre cada 29 días con la culminación de un ciclo lunar, a este período se denomina lunación, mes lunar o mes sinódico.
+
+En el ciclo metónico, es una fase donde se ve con claridad lo que comenzó con una luna nueva, en el mismo grado y signo, 18 meses antes. Quiere decir que hay algo que se hace público porque los hechos visibles son muy de luna llena, ya que en general se ilumina todo.
+
+Esta fase también tiene una correspondencia arquetípica con la madre, y en los ciclos menstruales es la etapa de ovulación. También es correspondiente al verano y la cosecha. En la mitología, la Diosa Demeter vivencia este arquetipo; es la diosa de la cosecha y representa una realización al traer al mundo un fruto para alimentarse de él o un hijo.
+
+El evento será más relevante, sobre todo si además de la lunación sucede:
+
+- Si llegara a coincidir con un eclipse de luna, porque los nodos también participan, si en este período hay un eclipse no hay luz porque hay ocultamiento y no se puede ver con claridad.
+- Si en una luna llena se forma en conjunción con un planeta, lo que lo haría muy visible en su función.
+- O si en una carta personal hace conjunción a un planeta de la carta natal, iluminando una posible cosecha en relación al planeta al que toca. Para hacer estos análisis de la luna llena debemos ver los regentes; ¿dónde está la luna si está en Aries? ¿Dónde está el regente? Y ¿dónde está el sol y el regente?
+
+### ¿Cómo trabajar en mí en luna llena?
+
+1. Evalúo mis expresiones, analizo y perfecciono. Las emociones son expresiones de nuestra vulnerabilidad, la luna siempre se trabaja en la relación con los otros, que son los espejos de nuestras proyecciones para hacer un proceso de discernimiento. Por otro lado, ser honestos con los otros y animarme a mostrar lo que hay en la otra cara de la luna es exponerse, entrar en contacto con la vulnerabilidad, hay que ser valiente para hacerlo porque cuesta relacionarse con aquello que se genera en el otro, pero es la única forma de saber si estamos en la misma resonancia para conectar profundamente, convirtiéndonos en seres más permeables y empáticos, superando las máscaras de lo políticamente correcto.
+
+2. Mostrar la vulnerabilidad es diferente al victimismo, que está mostrándonos aquello de lo cual no me he empoderado en mi propia vida. Siempre que te encuentres frente a un problema con un otro, reconoce si la historia que estás contando en cuál de estas dos formas se ajusta más:
+
+- Vulnerable: acepto mi recorrido con omisiones y carencias, también con conquistas, para tomar acción.
+- Victimista: me hago el ciego y responsabilizo a los demás de mis necesidades y expectativas irresueltas.
+
+Si es más del tipo victimista, pensemos a la inversa: ¿qué me falta desarrollar para no sentirme víctima en una situación? Primero veo en qué me siento víctima y después cultivo la capacidad para generar una virtud de la cual carezco.
+
+3. Clarifico mi propósito, lo ilumino con consciencia y  lo realizo.
+
+
+
 
 
 ## Fuentes
