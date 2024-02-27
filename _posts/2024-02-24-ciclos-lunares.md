@@ -26,9 +26,9 @@ Esta fase es una siembra, un nuevo comienzo que también tiene correspondencia c
 
 Una luna nueva propone un inicio, pero en el momento de la lunación no tenemos completa claridad sobre cuál es ese inicio porque no hay luz; todo es inconsciente. Lo más probable es que, nueve meses después, cuando esa luna (signo y grados) está en cuarto creciente, tengamos suficiente distancia para ver aquello que había comenzado. Y no será sino hasta el mes 18 del ciclo metónico cuando veremos la culminación de lo que comenzamos con esa luna nueva. Esta luna tendrá mucha más fuerza si al evento confluyen las siguientes configuraciones:
 
-- Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares, con mayor influencia en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida.
-- Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
-- A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
+[x] Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares, con mayor influencia en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida.
+[x] Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
+[x] A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
 
 ### ¿Cómo trabajar en mí en luna nueva?
 
