@@ -25,10 +25,10 @@ El ciclo metónico comienza con una luna nueva en un signo y grado, 9 meses más
 Esta fase es una siembra, un nuevo comienzo que también tiene correspondencia con la época de invierno. En nuestro inconsciente, es el arquetipo de la mujer sabia, "La vieja bruja", y entra en relación con lo sagrado. En la mitología, nos recuerda a Hécate, Diosa de las encrucijadas, aquella que tiene claro de dónde viene, dónde está y hacia dónde va. Ella tiene una aguda intuición y sabe leer los patrones vinculares, mensajes del inconsciente y las sincronicidades. Su sabiduría procede de la experiencia y está presente en la antesala de las grandes transformaciones, ayudándonos a dejar ir lo que va a morir para vaciarnos y darle espacio a lo nuevo.
 
 Una luna nueva propone un inicio, pero en el momento de la lunación no tenemos completa claridad sobre cuál es ese inicio porque no hay luz; todo es inconsciente. Lo más probable es que, nueve meses después, cuando esa luna (signo y grados) está en cuarto creciente, tengamos suficiente distancia para ver aquello que había comenzado. Y no será sino hasta el mes 18 del ciclo metónico cuando veremos la culminación de lo que comenzamos con esa luna nueva. Esta luna tendrá mucha más fuerza si al evento confluyen las siguientes configuraciones:
-
 1. Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares, con mayor influencia en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida.
 2. Una luna nueva que forma conjunción con un planeta en tránsito involucra la función del planeta y tendrá mayor impacto.
 3. A nivel personal, también será más fuerte si hace conjunción con un planeta de la carta natal.
+   
 
 ### ¿Cómo trabajar en mí durante la fase de luna nueva?
 
