@@ -6,7 +6,7 @@ categories: [ Luna, Mitología ]
 image: assets/images/posts/2024-02-24-ciclos-lunares.jpg
 ---
 
-Las fases de la luna nos recuerdan el ciclo de la naturaleza: nacimiento, crecimiento, maduración y descomposición. La luna y su ciclo también son una metáfora de la menstruación femenina, donde el cuerpo de la mujer se sincroniza con el ciclo cósmico de la luna. En cada fase se experimenta la encarnación de un arquetipo proveniente del inconsciente colectivo, que produce una sensación de oscilación y mutabilidad. Esta mutabilidad emocional atribuida al costado femenino, no tiene buena prensa y es motivo de vergüenza en el mundo solar patriarcal en el que vivimos, la realidad es que los arquetipos solares y lunares danzan de forma equilibrada y equilibrante pero nosotros aún no podemos vivenciar conscientemente, lo que al final termina quitándonos poder.
+La luna en astrología, es una función femenina que representa el cuerpo emocional, el inconsciente y el vinculo con nuestros ancestros. Las fases de la luna son el principio cíclico de la naturaleza: nacimiento, crecimiento, maduración y descomposición que se expresa como una metáfora de las estaciones, la menstruación femenina, los signos zodiacales y todo lo que tenga un proceso asociado. En cada fase se experimenta la encarnación de un arquetipo proveniente del inconsciente colectivo, que produce una sensación de oscilación y mutabilidad. Esta mutabilidad emocional atribuida al costado femenino, no tiene buena prensa y es motivo de vergüenza en el mundo solar patriarcal en el que vivimos, la realidad es que los arquetipos solares y lunares danzan de forma equilibrada y equilibrante pero nosotros aún no podemos vivenciar conscientemente, lo que al final termina quitándonos poder. 
 
 ## Ciclo Lunar
 
