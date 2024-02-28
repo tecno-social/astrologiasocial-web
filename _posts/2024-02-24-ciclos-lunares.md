@@ -72,8 +72,8 @@ El evento será más relevante, sobre todo si además de la lunación sucede:
 
 2. Mostrar la vulnerabilidad es diferente al victimismo, que está mostrándonos aquello de lo cual no me he empoderado en mi propia vida. Siempre que te encuentres frente a un problema con un otro, reconoce si la historia que estás contando en cuál de estas dos formas se ajusta más:
 
-- Vulnerable: acepto mi recorrido con omisiones y carencias, también con conquistas, para tomar acción.
-- Victimista: me hago el ciego y responsabilizo a los demás de mis necesidades y expectativas irresueltas.
+*   Vulnerable: acepto mi recorrido con omisiones y carencias, también con conquistas, para tomar acción.
+*   Victimista: me hago el ciego y responsabilizo a los demás de mis necesidades y expectativas irresueltas.
 
 Si es más del tipo victimista, pensemos a la inversa: ¿qué me falta desarrollar para no sentirme víctima en una situación? Primero veo en qué me siento víctima y después cultivo la capacidad para generar una virtud de la cual carezco.
 
