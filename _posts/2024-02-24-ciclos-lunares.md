@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La importancia de los ciclos de la luna como metáfora de la vida social y lo personal. "
+title:  "La importancia de los ciclos de la luna como metáfora de la vida social y personal. "
 author: Lina
 categories: [ Luna ]
 image: assets/images/posts/2024-02-24-ciclos-lunares.jpg
