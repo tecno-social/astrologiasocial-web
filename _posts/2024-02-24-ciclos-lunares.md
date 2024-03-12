@@ -36,6 +36,7 @@ El ciclo metónico comienza con una luna nueva en un signo y grado específicos;
 
 ## Generalidades de las fases del ciclo lunar
 
+
 ### Fase luna Nueva
 *Temporada de Primavera | Elemento: Aire*
 
