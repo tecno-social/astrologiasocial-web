@@ -37,8 +37,7 @@ El ciclo metónico comienza con una luna nueva en un signo y grado específicos;
 ## Generalidades de las fases del ciclo lunar
 
 ### Fase luna Nueva
-Temporada de Primavera
-Elemento: Aire
+*Temporada de Primavera | Elemento: Aire*
 
 Es el punto más cercano al sol, donde no se ve ningún reflejo de luz porque la luna se interpone completamente entre el sol y la tierra. En astrología, decimos que esto crea un aspecto de conjunción con el sol, marcando el comienzo del ciclo lunar. Por lo tanto, es un punto cardinal lleno de energía que impulsa los nuevos comienzos; un tiempo propicio para comenzar algo nuevo debido a su fuerte energía. Hay mucha subjetividad e inconsciencia en esta etapa, este potencial para iniciar algo está conectado con la intuición y viene de un nivel profundo interior más instintivo. 
 
@@ -46,15 +45,13 @@ Ver todo sobre la luna nueva
 
 
 ### Fase luna cuarto creciente
-Temporada de verano
-Elemento: Fuego
+*Temporada de verano | Elemento: Fuego*
 
 La luna está en un aspecto separativo del sol, alejándose y recibiendo más luz. En esta segunda fase, la energía está en construcción y tomando forma. Es un período de acción creativa y de fuego, donde se requieren atributos de fuerza y poder que serán importantes en esta etapa del ciclo, ya que se están adquiriendo habilidades y generando autoconfianza. Es una fase en la que es posible experimentar crisis a nivel interno para tomar decisiones, elegir un camino y actuar. Se suele estar muy presionado por generar resultados y se experimentan miedos por perder estatus y aceptación del exterior. Si se tiene un ego muy fuerte se puede tener un comportamiento irritable y explosivo. 
 
 
 ### Fase luna llena 
-Temporada de otoño
-Elemento: Agua
+*Temporada de otoño | Elemento: Agua*
 
 La luna está en oposición al sol, es tiempo de ver la forma de lo que se está desarrollando en las etapas anteriores. Es el momento de mayor claridad, es un momento de sentir y estar emocionalmente despierto. Con este despertar se busca el sentido, estamos en la concreción de lo que se hizo y esto debe tener un sentido en nuestras vidas, el conflicto en esta fase es precisamente sentirse dividido, desintegrado, no obtener algo con un sentido que unifique. Este es un buen momento para integrarnos internamente y las relaciones y los vínculos con los otros nos muestran lo que tenemos negado o ensombrecido.
 
@@ -62,8 +59,7 @@ Ver todo sobre la luna llena
 
 
 ### Fase luna cuarto menguante
-Temporada de Invierno
-Elemento: Tierra
+*Temporada de Invierno | Elemento: Tierra*
 
 La luna se encuentra en un movimiento aplicativo hacia el sol, perdiendo luz en el proceso. Esta fase representa el descenso de la forma, donde todo debe ser reabsorbido para nutrir una nueva semilla. Es un momento para dejar ir el pasado y prepararse para un nuevo comienzo, marcando así el final del ciclo. En esta etapa, el sentido debe estar establecido; es un período para experimentar la crisis de conciencia de todo lo aprendido en las fases anteriores. Surgen preguntas sobre los valores, las creencias y la posibilidad de dejar atrás viejas formas de pensar y comportarse. Se busca una verdad y un propósito en esta etapa.
 
