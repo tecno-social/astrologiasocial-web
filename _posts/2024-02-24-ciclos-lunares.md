@@ -32,7 +32,7 @@ En astrología, existe otro ciclo importante para comprender el proceso evolutiv
 
 Este ciclo fue descubierto inicialmente por Metón, un astrónomo griego del siglo V a.C., y se refiere a un periodo de 19 años en el cual la luna regresa al mismo lugar y forma la misma fase sinódica, lo que significa que cada 19 años se experimentará la misma fase en su relación con el sol. Si alguien nace durante un eclipse, cada 19 años experimentará la misma lunación, marcando así un nuevo ciclo importante en su vida.
 
-El ciclo metónico comienza con una luna nueva en un signo y grado específicos; 9 meses más tarde, se produce un cuarto creciente en el mismo signo y grado. Luego, pasados 18 meses desde el inicio del ciclo, se forma una luna llena en el mismo grado y signo que la luna nueva inicial. Finalmente, 27 meses después, se produce un cuarto menguante en ese mismo grado. Mi fuente para esta información es la astróloga argentina María Blanquier, quien explica este ciclo de manera detallada en un video que adjunto en las fuentes para aquellos que deseen consultarla.
+El ciclo metónico comienza con una luna nueva en un signo y grado específicos; 9 meses más tarde, se produce un cuarto creciente en el mismo signo y grado. Luego, pasados 18 meses desde el inicio del ciclo, se forma una luna llena en el mismo grado y signo que la luna nueva inicial. Finalmente, 27 meses después, se produce un cuarto menguante en ese mismo grado. Mi fuente para esta información es la astróloga argentina [María Blaquier](https://www.instagram.com/astrologiamariablaquier/?hl=es), quien explica este ciclo de manera detallada.
 
 ## Generalidades de las fases del ciclo lunar
 
@@ -70,7 +70,7 @@ Entendiendo el ciclo lunar, puedes evaluar diversos aspectos de tu vida. Como ej
 
 ### Fuentes
 
-* Congreso 2022, El Ciclo Metónico de la Luna por Maria Blanquier. Link: [El Ciclo Metonico de la Luna](https://www.youtube.com/watch?v=fxvbNMPW258) 
+*Blaquier Maria. 2022. Ponencia: "El Ciclo Metónico de la Luna". [Link al video](https://www.youtube.com/watch?v=fxvbNMPW258) 
 * George, Demetra. 2008. Finding Our Way through the Dark. Editor: American Federation of Astrology.
 
 
