@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Piscis"
+title:  "Sol Piscis"
 author: Lina
 categories: [ Piscis, Signo zodiacal, Neptuno, Agua ]
 image: assets/images/posts/2024-2-23-signo-zodiacal-piscis.jpg
