@@ -14,7 +14,7 @@ Una luna nueva propone un comienzo, una imagen, una idea; también puede ser una
 Si observamos el ciclo metónico lunar, solo 9 meses después, en el cuarto creciente (con la luna en el mismo signo y grado), tendremos la distancia suficiente para ver lo que se había iniciado. Y no será hasta 18 meses después, cuando se complete una luna llena en el mismo signo y grado, que veremos la culminación de lo que comenzó a crecer, un nacimiento.
 
 
-# Astrológicamente, una luna nueva será mucho más influyente si al evento confluyen las siguientes configuraciones:
+## Astrológicamente, una luna nueva será mucho más influyente si al evento confluyen las siguientes configuraciones:
 
 
 1. Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares. Estos eventos generalmente tienen un fuerte impacto en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida social.
@@ -106,5 +106,6 @@ Piscis es un signo de agua mutable que se relaciona con la sensibilidad, la comp
 
 
 ## Fuentes
-Blaquier Maria. 2022. Ponencia: "El Ciclo Metónico de la Luna". Link al video
-George, Demetra. 2008. Finding Our Way through the Dark. Editor: American Federation of Astrology.
+
+* Blaquier Maria. 2022. Ponencia: "El Ciclo Metónico de la Luna". [Link al video](https://www.youtube.com/watch?v=fxvbNMPW258)
+* George, Demetra. 2008. Finding Our Way through the Dark. Editor: American Federation of Astrology.
