@@ -5,7 +5,7 @@ author: Lina
 categories: [ Luna ]
 image: assets/images/posts/2024-02-24-ciclos-lunares.jpg
 ---
-# Donde todo comienza, en principio no había nada…
+### Donde todo comienza, en principio no había nada…
 
 Si alguna vez leyeron el libro “La Historia Interminable” de Michael Ende o si nacieron en los 80s quizás recuerden la película “La historia sin fin”. Un niño, Bastián Baltasar Bux, personaje central, había viajado a través de un libro al reino de fantasía que había sido aniquilado por la nada y se encontraba en la oscuridad más profunda para darle un nombre a la emperatriz infantil para salvarla a ella y a su reino. Bastián no sabía cuál era el nombre que tenía que dar a aquel personaje tan especial porque sentía miedo a equivocarse, juzgando las cosas como; bonitas o feas, buenas o malas; pero él ya no estaba en la realidad y en ese lugar oscuro, primitivo, simbólico y emotivo, donde habitaban su madre muerta, la hija de la señora que les cocinaba a él y a su padre, la vulnerabilidad, el hogar y la belleza y era la fuente de las imágenes y los símbolos. Él se zambulló y sacó lo que necesitaba para salvar ambos mundos, la fantasía y la realidad, de desaparecer porque uno depende del otro y la llamó: “Hija de la Luna”. Un nuevo comienzo, no fue el primero, pero sí un nuevo ciclo que busca el equilibrio de los polos, la luna y el sol se encuentran en el mismo punto para iniciar un nuevo ciclo emergiendo de la oscuridad. 
 
