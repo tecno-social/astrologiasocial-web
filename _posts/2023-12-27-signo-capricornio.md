@@ -6,7 +6,7 @@ categories: [ Capricornio, Signo zodiacal, Tierra ]
 image: assets/images/posts/2023-12-27-signo-capricornio.jpg
 ---
 
-*la inquebrantable cabra de la montaña.* Quienes han nacido bajo el signo de Capricornio, son personas ambiciosas que emprenden la búsqueda de estabilidad material y reconocimiento social. Su deseo de reconocimiento se fundamenta en las metas alcanzadas y en la tenacidad que demuestran para lograrlas. Se destacan por su responsabilidad y su compromiso con el cumplimiento de normas en diversos ámbitos. Son realistas y tienen los pies firmemente asentados en la tierra, evitando adoptar comportamientos que puedan percibirse como transgresores. Únicamente en situaciones específicas, como cuando tienen una influencia fuerte de Géminis, podrían mostrar una tendencia a una expresión más comunicativa. 
+*la inquebrantable cabra de la montaña.* Quienes han nacido bajo el signo de Capricornio se caracterizan por ser personas ambiciosas que emprenden la búsqueda de la estabilidad material y el reconocimiento social. Su necesidad de reconocimiento se fundamenta, en su poder para alcanzar metas y en la tenacidad que demuestran para lograrlas. Destacan por su sentido de la responsabilidad y su compromiso con el cumplimiento de normas sociales en diversos ámbitos. Son realistas y tienen los pies en la tierra, evitando adoptar comportamientos que puedan percibirse como transgresores. Únicamente en situaciones específicas, como cuando tienen una influencia fuerte de Géminis, podrían mostrar una tendencia a una expresión más comunicativa y libre. 
 
 
 **Elemento:** tierra
@@ -18,9 +18,9 @@ image: assets/images/posts/2023-12-27-signo-capricornio.jpg
 
 ## La personalidad capricorniana 
 
-Tienen un tinte de melancolía e introversión ; no se sienten cómodxs atrayendo atención y, cuando sucede, lo asumen con sobriedad, analizando el contexto y actuando con delicadeza. Se mueve en función de sus objetivos a largo plazo, incluso al tomar decisiones sobre trabajo, pareja, amistades, círculos sociales, etc, si esto no les aporta a sus metas personales pueden negarse a participar para no perder tiempo y eso es algo que Capricornio, regido Saturno, señor del tiempo y los límites, no quiere perder. 
+Tienen un tinte de melancolía e introversión ; no se sienten cómodxs atrayendo atención y, cuando sucede, lo asumen con sobriedad, analizando el contexto y actuando con delicadeza. Se mueve en función de sus objetivos a largo plazo, incluso al tomar decisiones sobre trabajo, pareja, amistades, círculos sociales, etc, si esto no les aporta a sus metas personales pueden negarse a participar para no perder tiempo y eso es algo que Capricornio; regido Saturno, señor del tiempo y los límites, no quiere perder. 
 
-Hay una gran ambición, estas personas se preparan para subir una montaña muy alta de reconocimiento y autoridad, por eso no dilapidan, administran sus energías para el ascenso, el cuerpo, la energía, las emociones y hasta las ideas, porque la cúspide no es para quien se relaja ni para el que improvisa; por eso, las mejores vistas las tiene la cabra, no por ser la más rápida ni la más lista, sino por su resistencia y perseverancia. Esta energía no abandona ante las adversidades y está llena de voluntad.
+Estas personas se preparan para subir una montaña muy alta de reconocimiento y autoridad, por eso no dilapidan, administran sus energías para el ascenso, el cuerpo, las emociones y hasta las ideas, porque la cúspide no es para quien se relaja ni para el que improvisa; por eso, las mejores vistas las tiene la cabra y no por ser la más rápida ni la más lista, sino por su astucia, resistencia y perseverancia. Esta energía no abandona ante las adversidades y está llena de voluntad.
 
 Otro rasgo importante de su personalidad es la amabilidad y delicadeza, lo que les hace parecer inofensivxs. Sin embargo, son muy resistentes a los ataques externos y parece que las obligaciones, agresiones y demandas de otros no pudieran afectarles, asumiéndolas con mucha tolerancia y prudencia, en algunas ocasiones a un costo personal elevado.
 
