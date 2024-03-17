@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Acuario"
+title:  "Sol Acuario"
 author: Lina
 categories: [ Acuario, Signo zodiacal, Urano, Aire ]
 image: assets/images/posts/2024-01-31-signo-zodiacal-acuario.jpg
