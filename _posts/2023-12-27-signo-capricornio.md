@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Capricornio"
+title:  "Sol Capricornio"
 author: Lina
 categories: [ Capricornio, Signo zodiacal, Tierra ]
 image: assets/images/posts/2023-12-27-signo-capricornio.jpg
