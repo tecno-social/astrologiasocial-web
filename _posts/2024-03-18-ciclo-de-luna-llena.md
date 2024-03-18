@@ -14,7 +14,9 @@ El plenilunio también tiene una correspondencia con el ciclo menstrual y la agr
 
 Astronómicamente, esta fase lunar ocurre cada 29 días, marcando la culminación de un ciclo lunar. A este período se le denomina lunación, mes lunar o mes sinódico, y tiene lugar 14 días después de la luna nueva. Durante el plenilunio, la Tierra se interpone entre el sol y la luna, alineándose de manera que el sol y la luna parecen estar en oposición, separados por 180°. Esto permite que la luna refleje la luz solar en su totalidad, iluminando la Tierra con la totalidad de su cara visible. Para comprender el ciclo completo de la luna llena, recurrimos al ciclo Metónico, que nos permite ver con claridad lo que comenzó con una luna nueva en el mismo grado y signo hace 18 meses.
 
-Además, esta fase lunar puede ser aún más significativa si se presentan alguna de las siguientes configuraciones:
+Las personas que nacen en luna llena, vienen con una tensión interior sobre brillar con luz propia o ser el reflejo de la luz de otros, por supuesto los vínculos traerán muchos retos entendiendo que el otro se refleja en mí y yo me reflejo en el otro, así que aquellas relaciones que hagan aflorar fuertes sentimientos de admiración o fastidio serán las que traen trabajo personal y crecimiento.
+
+### Esta fase lunar puede ser aún más significativa si se presentan alguna de las siguientes configuraciones:
 
 * Coincidencia con un eclipse lunar: en este caso, los nodos también participan, y la falta de luz durante el eclipse debido al ocultamiento por parte de la Tierra influye en la percepción del evento.
 * Formación de una conjunción con un planeta durante la luna llena: esto resalta la función del planeta de manera notable.
@@ -102,11 +104,20 @@ Piscis
 
 ## ¿Cómo trabajar la luna llena?
 
-1. Se recomienda buscar espacios de soledad e intimidad. Es una época de recogimiento y de contacto interior, voy a lo profundo de mi oscuridad y en ese viaje se libera una semilla.
-2. Meditar es un buen ejercicio para ejercitar el punto de vista del observador compasivo.  Me doy cuenta de esos seres que se liberan de mi interior y les permito encarnar sin juzgarlos pero observando su potencial.
-3. Este es un momento para escribir, pintar, usar alguna forma para plasmar. Dejo que emerja lo que está adentro y lo proyecto.
-4. En general hay poca claridad por eso todo debe dejarse reposar y no ir hacia afuera ni tomar decisiones solo, sentir y fluir.
-5. Hazte las siguientes preguntas:
+1. Evalúo mis expresiones, analizándolas y perfeccionándolas. Las emociones reflejan nuestra vulnerabilidad; la luna siempre se trabaja en relación con los demás, quienes actúan como espejos de nuestras proyecciones, lo que nos permite un proceso de discernimiento. Por otro lado, ser honestos con los demás y animarnos a mostrar lo que hay en la otra cara de la luna implica exponerse y entrar en contacto con nuestra vulnerabilidad. Requiere valentía porque implica relacionarse con lo que se refleja en el otro, pero es la única forma de saber si estamos en la misma sintonía para conectar profundamente, convirtiéndonos en seres más permeables y empáticos, superando las máscaras de lo políticamente correcto.
+   
+3. Mostrar la vulnerabilidad es diferente al victimismo que consiste en mostrar aquello en lo que no nos hemos empoderado en nuestra propia vida. Siempre que te encuentres frente a un problema con otro, reconoce si la historia que estás contando se ajusta más a estas dos formas:
+
+* Vulnerable: acepto mi recorrido con omisiones y carencias, pero también con conquistas, para tomar acción.
+* Victimista: me hago el ciego y responsabilizo a los demás de mis necesidades y expectativas irresueltas.
+
+Si te identificas más con el victimismo, considera ¿Qué necesito desarrollar para no sentirme víctima en esta situación? 
+1. Identifica en qué te sientes víctima.
+2. Cultiva la capacidad para generar una virtud de la que carezcas.
+
+3. Clarifico mi propósito, lo ilumino con consciencia y lo realizo.
+   
+4. También puedes hacerte las siguientes preguntas:
 * ¿Qué tipo de nuevas posibilidades estoy tratando que emerjan de mi interior?
 * ¿Cómo me proyecto a mi mismo sobre el mundo exterior? ¿Estoy consciente de mis emociones y de por qué hago las cosas?
 * ¿Hasta qué punto opero sobre la base del instinto y la improvisación sin pensar en un plan? ¿Esta es una forma de funcionamiento exitosa para mi?
