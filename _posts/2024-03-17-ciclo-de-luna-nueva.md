@@ -18,7 +18,7 @@ Si observamos el ciclo metónico lunar, tan solo 9 meses después, en el cuarto 
 
 # Luna Nueva Astrológica
 
-La Astrología nos puede dar más información sobre la influencia de este evento en nosotros, porque nos indica que área de la vida esta siendo influenciada por este evento (casa astrológica) y que carácteristicas puede tener (Signo zodiacal). Por otro lado, una luna nueva será mucho más influyente si al evento confluyen las siguientes configuraciones:
+La astrología puede proporcionarnos una comprensión más profunda de la influencia de este evento en nuestras vidas, ya que nos indica qué área específica de nuestra vida está siendo afectada por este acontecimiento (casa astrológica) y qué características pueden manifestarse (signo zodiacal). Además, una luna nueva adquiere mayor relevancia cuando se presentan algunas de las siguientes configuraciones simultáneas:
 
 
 1. Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares. Estos eventos generalmente tienen un fuerte impacto en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida social.
