@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La luna nueva u oscura, novilunio."
+title:  "La luna nueva u oscura."
 author: Lina
 categories: [ Luna ]
 image: assets/images/posts/2024-03-17-ciclo-de-luna-nueva.jpg
