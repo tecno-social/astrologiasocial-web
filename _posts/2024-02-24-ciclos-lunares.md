@@ -12,7 +12,7 @@ Un ciclo puede reconocerse por su flujo de energía circular y espiralado, que c
 
 Estos ciclos lunares han sido clave en la comprensión de nuestra existencia a lo largo de la historia. Por ejemplo, hace 35.000 años, se utilizaron las fases lunares para medir los periodos, marcando el inicio del primer calendario. Este conocimiento también reveló la relación entre la luna y la menstruación femenina. Este entendimiento ancestral ha dado forma en nuestra imaginación colectiva a un poderoso arquetipo femenino lunar, conocido como "La Gran Madre", que simboliza no sólo el origen de la vida, sino también su nutrición. Gracias a estos ciclos, la agricultura y las primeras sociedades matriarcales pudieron florecer en la tierra.
 
-Ver post ciclos lunares y menstruación 
+Leer el blog ciclos lunares y menstruación 
 
 Para la astrología, el sol y la luna tienen una influencia constitutiva en la personalidad del individuo. El sol, como centro simbólico de la vida y el corazón humano, magnetiza a los planetas, aumentando su velocidad a medida que se acercan, lo que nos hace más conscientes de su influencia. La luna, por otro lado, es esencialmente mutable, con un ciclo de 29 días. Actúa como un espejo del sol, simbolizando el cuerpo emocional, la memoria, el inconsciente, la familia y los vínculos. Sus oscilaciones son fácilmente perceptibles para nosotros.
 
@@ -42,7 +42,7 @@ El ciclo metónico comienza con una luna nueva en un signo y grado específicos;
 
 Es el punto más cercano al sol, donde no se ve ningún reflejo de luz porque la luna se interpone completamente entre el sol y la tierra. En astrología, decimos que esto crea un aspecto de conjunción con el sol, marcando el comienzo del ciclo lunar. Por lo tanto, es un punto cardinal lleno de energía que impulsa los nuevos comienzos; un tiempo propicio para comenzar algo nuevo debido a su fuerte energía. Hay mucha subjetividad e inconsciencia en esta etapa, este potencial para iniciar algo está conectado con la intuición y viene de un nivel profundo interior más instintivo. 
 
-Ver todo sobre la luna nueva
+[Ver artículo sobre la fase de luna nueva](https://www.astrologia.social/blog/ciclo-de-luna-nueva)
 
 
 ### Fase luna cuarto creciente
