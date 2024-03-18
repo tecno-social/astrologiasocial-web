@@ -46,27 +46,35 @@ La luna llena en esta posición nos pone a valorar y cuidar lo que tenemos, reco
 
 ### Luna llena en Géminis o casa 3
 
-Géminis, 
+El jóven versátil y comunicativo, personificado por Géminis y la Casa 3, representa la curiosidad, la comunicación y el intercambio de ideas. Géminis nos recuerda la importancia de la flexibilidad mental y la adaptabilidad en nuestras interacciones diarias. La luna llena en esta posición ilumina las posibilidades que trae mantener la mente abierta, estar dispuestos a aprender constantemente y a el aprendizaje del mundo a través del movimiento y el intercambio. Esta posición lunar puede traer frutos provenientes del ejercicio de comunicarnos de manera clara y efectiva, y a estar abiertos a diferentes puntos de vista y formas de pensar. Integrar la energía de Géminis en nuestra vida implica ser activos en nuestras interacciones sociales, compartiendo nuestras ideas y escuchando a los demás para enriquecer nuestro entendimiento del mundo que nos rodea.
 
 
 ### Luna llena en Cáncer o casa 4
 
-Cáncer, 
+La madre, la pertenencia y la raíz, representa a Cáncer y la Casa 4, simboliza la conexión con nuestras raíces, el hogar y la familia. Cáncer nos recuerda la importancia de nutrir nuestras emociones y cuidar de nuestros seres queridos. La luna llena en esta posición revela el flujo emocional, los patrones familiares inconscientes, la necesidad de encontrar un equilibrio entre la seguridad emocional y la capacidad de adaptarse a los cambios. 
+
+Esta posición lunar puede dar claridad y ser un llamado a sanar heridas emocionales del pasado y a establecer una base sólida para el futuro. Integrar la energía de Cáncer en nuestra vida implica ser valientes en la expresión de nuestras emociones, protegiendo y cuidando tanto de nosotros mismos como de los demás, creando un ambiente seguro y amoroso donde todos puedan crecer y florecer.
 
 
 ### Luna llena en Leo o casa 5
 
-Leo,
+El héroe creativo y apasionado, personificado por Leo y la Casa 5, representa la expresión de uno mismo, la creatividad y el amor. Leo nos recuerda la importancia de brillar con luz propia y de disfrutar la vida con entusiasmo y alegría. 
+
+La luna llena en esta posición enfatiza la expresión de nuestra creatividad de manera auténtica y de buscar el placer y la diversión en todo lo que hacemos. Esta posición lunar puede ser una liberación de nuestros talentos y que ahora podemos compartirlos con el mundo, sin miedo al juicio o la crítica. También nos puede mostrar nuestra negación a emprender el camino del héroe que es leal a sus valores y visión del mundo, el que hace las cosas por amor y afecto que trae alegría y tiene la capacidad de crear un mundo lleno de luz  donde todos puedan sentirse inspirados y vivir plenamente.
 
 
 ### Luna llena en Virgo o casa 6
 
-Virgo 
+El compañero detallista y servicial, representado por Virgo y la Casa 6, simboliza la atención al detalle, el servicio y la salud. Virgo nos recuerda la importancia de la organización y la eficiencia en nuestra vida diaria, así como el valor de cuidar de nuestra salud física y emocional. 
+
+La luna llena en esta posición resalta la necesidad de encontrar un equilibrio entre el perfeccionismo y la aceptación de nuestras imperfecciones. La energía de Virgo en la lunación puede estar mostrando lo que ganamos o perdemos en la búsqueda de la perfección personal, si has dejado todo al azar o  por lo contrario intentas controlar todos los detalles. Por otro lado, virgo nos puede dar buenos frutos relacionados con la importancia de cuidar de nosotros mismos y de los demás, creando un ambiente de orden y armonía en el que todos puedan prosperar y crecer.
 
 
 ### Luna llena en libra o casa 7
 
-Libra 
+La influencia de Libra y la Casa 7 se manifiesta en la búsqueda del equilibrio y la armonía en las relaciones interpersonales. En el contexto del calendario judeocristiano, la luna llena de Libra marca una fecha significativa, como la Semana Santa, destacando la importancia de encontrar un punto medio entre opuestos, tal como Jesús crucificado entre los dos ladrones, Dimas y Gestas. Según la tradición cristiana, Dimas fue el "buen ladrón" que reconoció a Jesús como el Mesías y le pidió que se acordara de él en su reino. Por otro lado, Gestas, el "malo", se burlaba de Jesús. Esta historia simboliza el equilibrio entre dar y recibir, entre la redención y la condena, una dualidad presente en Libra.
+
+Esta fecha históricamente intensa refleja la dualidad presente en Libra, donde el afuera y el adentro, el nosotros y el yo, buscan un equilibrio constante. La energía de Libra, regida por Venus al igual que Tauro, representa un tipo diferente de amor, uno que busca la belleza y la armonía en las relaciones humanas. Sin embargo, esta búsqueda puede llevar a una tendencia perfeccionista y autocrítica, ya que Libra tiende a juzgarse duramente a sí mismo en su afán por verse bien ante los demás. La luna llena en Libra ilumina este mecanismo de racionalizar y justificar las emociones, se deja ver la verdadera dificultad de permitirse sentir en lugar de buscar entender racionalmente. En última instancia, Libra nos recuerda la importancia de encontrar un equilibrio saludable entre nuestras necesidades emocionales y las demandas del mundo exterior, manteniendo una balanza en constante movimiento pero siempre buscando la armonía interior. 
 
 
 ### Luna llena en Escorpio o casa 8
