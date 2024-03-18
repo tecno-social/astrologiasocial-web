@@ -3,7 +3,7 @@ layout: post
 title:  "La luna nueva u oscura, novilunio."
 author: Lina
 categories: [ Luna ]
-image: assets/images/posts/2024-02-24-ciclos-lunares.jpg
+image: assets/images/posts/2024-03-17-ciclo-de-luna-nueva.jpg
 ---
 ### Donde todo comienza, en principio no había nada…
 
