@@ -32,7 +32,9 @@ Una vez hayamos generado la carta, debemos buscar el signo y el grado de la luna
 
 ### Luna llena en Aries o casa 1
 
-Aries es un signo de fuego cardinal. En sí mismo, este signo habla de un nuevo comienzo personal, y la Casa 1 representa la forma en que nos vemos a nosotros mismos. Una luna nueva en esta área es una afirmación de la individualidad que configura la percepción que tenemos de nosotros mismos, incluyendo los recursos físicos y psíquicos, así como la vitalidad con la que nos enfrentamos al mundo para llevar a cabo nuestra voluntad. Puede indicar que encontramos una nueva forma que corresponde más a lo que queremos y somos en este momento de la vida, generando un cambio en la autopercepción.
+El guerrero activo, representado por Aries, encarna la expresión individual y la voluntad de manifestarse. Este arquetipo refleja la creencia de que el fin justifica los medios. La presencia de la luna llena en esta constelación resalta la limitación del poder y la no garantía de obtener siempre gloria. Reconocer tanto los propios límites como los de los demás se vuelve crucial. La luna llena en esta posición puede ser un llamado a la humildad y la empatía para lograr un equilibrio en nuestros propósitos y los de los demás. Otra revelación posible en este contexto es la de integrar al guerrero que lucha por nuestros deseos, mostrando valentía sin temor al error o al fracaso.
+
+En cuanto a la relación con el arquetipo de la acción y del guerrero, ¿consideras que estás orientadx  con valentía en el camino hacia la autorrealización, sirviendo como una fuente de inspiración y motivación para aquellos que buscan alcanzar su máximo potencial? La respuestas a esta pregunta te ayudará a entender lo que está iluminando esta luna llena.
 
 
 ### Luna nueva en Tauro o casa 2
