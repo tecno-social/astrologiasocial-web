@@ -5,41 +5,32 @@ author: Lina
 categories: [ Luna ]
 image: assets/images/posts/2024-03-18-ciclo-de-luna-llena.jpg
 ---
-### Donde todo comienza, en principio no había nada…
+Las lunas llenas son un despertar, un llamado a la iluminación, a darnos cuenta de la vulnerabilidad y aclarar toda la información absorbida y los golpes, movimientos y ondulación de las emociones. Si se ha escondido mucho debajo de las aguas, en luna llena se levanta el telón, es una etapa en la que podemos iluminar cosas nuestras que por lo general permanecen ocultas, saliendo a la consciencia. 
 
-Si alguna vez leyeron el libro “La Historia Interminable” de Michael Ende o si nacieron en los 80s quizás recuerden la película “La historia sin fin”. La trama sigue a un niño llamado Bastián Baltasar Bux, quien viaja a través de un libro al reino de fantasía para salvar a la emperatriz infantil y su reino de la destrucción causada por una nada voraz que consume todo a su paso. Bastián se enfrenta a la tarea de darle un nuevo nombre a la emperatriz, pero siente miedo de equivocarse, pues en su mundo "La realidad" las cosas se juzgaban como buenas o malas, bonitas o feas.  Sin embargo, en este nuevo lugar oscuro y simbólico, Bastián se sumerge en sus propios recuerdos íntimos, incluyendo la imagen de su madre fallecida, su padre, un odontólogo entristecido y otros aspectos de su interior. Aquí, encuentra la fuerza necesaria para salvar tanto al reino de fantasía como a la realidad misma, comprendiendo que uno no puede existir sin el otro. Finalmente, decide nombrar a la emperatriz "Hija de la Luna", marcando así un nuevo ciclo, un comienzo único y significativo.
-
-Astronómicamente, el novilunio marca una alineación entre la luna y el sol. Desde nuestra perspectiva terrestre, el sol se sitúa detrás de la luna, lo que crea la ilusión de que se esconde tras ella, generando un punto sin luz donde la luna no puede reflejar la claridad solar. Simbólicamente, el sol representa la luz de la conciencia, mientras que la luna simboliza lo que oculta el inconsciente. Por lo tanto, el novilunio representa una etapa de falta de conciencia, donde la razón debe ceder espacio a una percepción más simbólica, onírica y poética. En esa oscuridad yace una parte de nosotros mismos que anhela ser reconocida y revitalizada para sentirnos completos en medio del vacío de la vida material.
-
-Así, la luna nueva propone un inicio, una imagen, una idea, una pulsión que puede significar una nueva perspectiva sobre algo. Sin embargo, no está del todo claro qué es exactamente ni cómo se llevará a cabo, ya que no nos proponemos emprender algo de forma consciente. Todo surge desde el inconsciente y está motivado por la necesidad de llenar un espacio vacío con una semilla de vida.
-
-Si observamos el ciclo metónico lunar, tan solo 9 meses después, en el cuarto creciente (con la luna en el mismo signo y grado), tendremos la distancia suficiente para ver lo que se había iniciado. Y no será hasta 18 meses después, cuando se complete una luna llena en el mismo signo y grado, que veremos la culminación de lo que comenzó a gestarse, un verdadero nacimiento.
+El plenilunio también tiene una correspondencia con el ciclo menstrual y la agricultura, en uno es la etapa de ovulación y en el otro la cosecha. Simbólicamente representa el arquetipo de “la madre", en la mitología griega, Démeter era la diosa de la agricultura y protectora de la fertilidad; asimismo, la relación entre esta deidad y su hija Koré- Perséfone representaba la fortaleza del vínculo maternal.
 
 
-# Luna Nueva Astrológica
+# Luna llena Astrológica
 
-La astrología puede proporcionarnos una comprensión más profunda de la influencia de este evento en nuestras vidas, ya que nos indica qué área específica de nuestra vida está siendo afectada por este acontecimiento (casa astrológica) y qué características pueden manifestarse (signo zodiacal). Además, una luna nueva adquiere mayor relevancia cuando se presentan algunas de las siguientes configuraciones simultáneas:
+Astronómicamente, esta fase lunar ocurre cada 29 días, marcando la culminación de un ciclo lunar. A este período se le denomina lunación, mes lunar o mes sinódico, y tiene lugar 14 días después de la luna nueva. Durante el plenilunio, la Tierra se interpone entre el sol y la luna, alineándose de manera que el sol y la luna parecen estar en oposición, separados por 180°. Esto permite que la luna refleje la luz solar en su totalidad, iluminando la Tierra con la totalidad de su cara visible. Para comprender el ciclo completo de la luna llena, recurrimos al ciclo Metónico, que nos permite ver con claridad lo que comenzó con una luna nueva en el mismo grado y signo hace 18 meses.
 
+Además, esta fase lunar puede ser aún más significativa si se presentan alguna de las siguientes configuraciones:
 
-1. Hay un eclipse solar, que es una luna nueva en la que intervienen los nodos lunares. Estos eventos generalmente tienen un fuerte impacto en los lugares donde se puede observar el eclipse, lo que implica cambios más radicales en la vida social.
+* Coincidencia con un eclipse lunar: en este caso, los nodos también participan, y la falta de luz durante el eclipse debido al ocultamiento por parte de la Tierra influye en la percepción del evento.
+* Formación de una conjunción con un planeta durante la luna llena: esto resalta la función del planeta de manera notable.
+* Conjunción con un planeta en la carta natal: ilumina una posible cosecha en relación con el planeta y la casa que activa.
 
-2. Tendrá mucho más fuerza una luna nueva que forme conjunción con un planeta en tránsito, involucrando en ese nuevo comienzo la función del planeta.
-
-3. Si la luna nueva contacta a un planeta de la carta natal, tendrá mucha más fuerza e influencia en la vida de la persona.
-
-4. Si la persona nace en luna nueva, ya que trae al mundo una nueva semilla que dará frutos para ellos o sus descendientes. Desde la perspectiva de la reencarnación, estas personas se sitúan en el umbral de un octavo ciclo de reencarnación, donde el alma consciente tiene la intención de desarrollar nuevos aspectos durante su crecimiento en un nivel físico, mental, emocional y/o espiritual. En esta trayectoria de vida, buscan crear una identidad con sentido y propósito. No son necesariamente almas jóvenes; son almas viejas que inician un nuevo nivel de evolución espiritual.
-   
-   
+Para comprender la influencia personal de este evento, es necesario analizar la ubicación y el signo de la luna y el sol, así como sus regentes. El signo en el que se encuentra la luna nos indica qué aspectos debemos desarrollar para superar los desafíos, mientras que la casa astrológica nos proporciona el escenario específico donde se manifiestan estas energías.
+    
 
 ## Las lunas nuevas por signo y casa
 
+Si queremos entender en qué área de la vida la lunación está dándonos un fruto o iluminando algo, debemos hacer nuestra carta astral con el lugar, la fecha y la hora de nacimiento. Una de las plataformas más usadas es astro.com, pero existen muchas otras.
 
-Si queremos entender en qué área de la vida la lunación está sembrando una semilla o iniciando algo, debemos hacer nuestra carta astral con el lugar, la fecha y la hora de nacimiento. Una de las plataformas más usadas es astro.com, pero existen muchas otras.
-
-Una vez hayamos generado la carta, debemos buscar el signo y el grado de la luna nueva. Por ejemplo, si es Aries en el 10°, buscamos el símbolo de Aries, que es este ♈. Esta zona está dividida por 30 líneas, por lo que debemos contar 10 de izquierda a derecha; ahí se hará la luna nueva. Por otro lado, esa línea está dentro de una división del mandala, que es el número de la casa. Con esa información, podemos ver su significado por signo y casa.
+Una vez hayamos generado la carta, debemos buscar el signo y el grado de la luna llena. Por ejemplo, si es Luna llena en Aries en el 10°, buscamos el símbolo de Aries, que es este ♈. Esta zona está dividida por 30 líneas, por lo que debemos contar 10 de izquierda a derecha; ahí se hará la luna llena. Por otro lado, esa línea está dentro de una división del mandala, que es el número de la casa. Con esa información, podemos ver su significado por signo y casa.
 
 
-### Luna nueva en Aries o casa 1
+### Luna llena en Aries o casa 1
 
 Aries es un signo de fuego cardinal. En sí mismo, este signo habla de un nuevo comienzo personal, y la Casa 1 representa la forma en que nos vemos a nosotros mismos. Una luna nueva en esta área es una afirmación de la individualidad que configura la percepción que tenemos de nosotros mismos, incluyendo los recursos físicos y psíquicos, así como la vitalidad con la que nos enfrentamos al mundo para llevar a cabo nuestra voluntad. Puede indicar que encontramos una nueva forma que corresponde más a lo que queremos y somos en este momento de la vida, generando un cambio en la autopercepción.
 
