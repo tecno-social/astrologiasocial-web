@@ -56,7 +56,7 @@ La luna está en un aspecto separativo del sol, alejándose y recibiendo más lu
 
 La luna está en oposición al sol, es tiempo de ver la forma de lo que se está desarrollando en las etapas anteriores. Es el momento de mayor claridad, es un momento de sentir y estar emocionalmente despierto. Con este despertar se busca el sentido, estamos en la concreción de lo que se hizo y esto debe tener un sentido en nuestras vidas, el conflicto en esta fase es precisamente sentirse dividido, desintegrado, no obtener algo con un sentido que unifique. Este es un buen momento para integrarnos internamente y las relaciones y los vínculos con los otros nos muestran lo que tenemos negado o ensombrecido.
 
-Ver todo sobre la luna llena
+[Ver artículo sobre la fase de luna llena](https://www.astrologia.social/blog/ciclo-de-luna-llena)
 
 
 ### Fase luna cuarto menguante
