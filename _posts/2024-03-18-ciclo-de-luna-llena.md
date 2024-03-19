@@ -80,47 +80,66 @@ Esta fecha históricamente intensa refleja la dualidad presente en Libra, donde 
 
 
 ### Luna llena en Escorpio o casa 8
-Escorpio 
+
+El apasionado y transformador, representado por Escorpio y la Casa 8, simboliza la intensidad emocional, la transformación y el poder de la regeneración. Escorpio nos trae la importancia de sumergirnos en las profundidades de nuestra psique y enfrentar nuestras verdades más profundas. No es una posición sencilla porque iluminar esta zona puede revivir traumas, pero es la única forma de aprender a vivir con ellos y de encontrarles un sentido. 
+
+La luna llena en esta posición resalta la necesidad de encontrar un equilibrio entre el deseo de control y la necesidad de soltar y permitir que la transformación ocurra naturalmente. La energía de Escorpio en la lunación puede mostrar las áreas de nuestra vida en las que necesitamos dejar ir el control y confiar en el proceso de transformación. Por otro lado, Escorpio puede revelar los aspectos más oscuros de nuestra psique que necesitan ser sanados y transformados para alcanzar un mayor nivel de autenticidad y plenitud emocional. Integrar la energía de Escorpio en nuestra vida implica ser valientes en enfrentar nuestras sombras y permitirnos renacer de las cenizas, transformándonos en seres más fuertes y conscientes de nuestra verdadera naturaleza.
 
 
 ### Luna llena en Sagitario o casa 9
 
-Sagitario 
+El aventurero filosófico, representado por Sagitario y la Casa 9, simboliza la búsqueda de significado, la expansión y el conocimiento superior. Sagitario nos recuerda la importancia de mantener una mente abierta y de buscar la verdad en todas las áreas de nuestra vida. 
+
+La luna llena en esta posición alumbra la búsqueda de la verdad y la aceptación de diferentes puntos de vista y culturas que podemos integrar en nuestra propia filosofía de vida para dar sentido. La energía de Sagitario en la lunación puede mostrar las áreas de la vida en las que necesitamos expandir nuestros horizontes y buscar un mayor entendimiento del mundo que nos rodea, el balance de un viaje o una nueva maestría puede ser una experiencia de ello. Por otro lado, Sagitario puede revelar la importancia de mantener una actitud optimista y de confianza en el futuro, incluso en medio de la incertidumbre y los desafíos. Una luna llena en esta zona puede instar a ser valientes en nuestra búsqueda de significado y en nuestra disposición a explorar lo desconocido, convirtiéndonos en seres más sabios y compasivos en el proceso.
+
 
 
 ### Luna llena en capricornio o casa 10
 
-Capricornio 
+La luna llena en Capricornio, especialmente en la Casa 10, marca un período importante para la autorreflexión y la consolidación de metas profesionales. Capricornio representa la ambición, la responsabilidad y el logro a través del trabajo arduo y la disciplina. En esta posición, la luna llena nos insta a evaluar nuestras ambiciones profesionales y a reconocer los logros obtenidos hasta el momento.
+
+Esta fase lunar puede iluminarnos para encontrar un equilibrio entre nuestra vida profesional y personal, así como la importancia de establecer metas realistas y alcanzables. La energía de Capricornio en la lunación puede mostrar las áreas en las que necesitamos ser más disciplinados y comprometidos para alcanzar el éxito en nuestra carrera.
+
+Por otro lado, la luna llena en Capricornio también puede mostrar la importancia de mantener la integridad y la ética en nuestro trabajo, así como de buscar el reconocimiento y la autoridad de manera justa y equitativa. Integrar la energía de Capricornio en nuestra vida implica ser perseverantes en alcanzar nuestras metas profesionales, manteniendo siempre la humildad y el respeto hacia nosotros mismos y hacia los demás en el camino hacia el éxito.
 
 
 ### Luna llena en Acuario o casa 11
 
-Acuario 
+La luna llena en Acuario, especialmente en la Casa 11, marca un momento propicio para la reflexión sobre la comunidad, la amistad y nuestros ideales colectivos. Acuario representa la innovación, la originalidad y la búsqueda de un mundo mejor a través de la colaboración y la igualdad. En esta posición, la luna llena examina nuestra relación con la sociedad y nos invita a considerar cómo podemos contribuir de manera positiva al bienestar de todos.
+
+Esta fase lunar resalta la necesidad de encontrar un equilibrio entre nuestra individualidad y nuestro compromiso con el grupo. La energía de Acuario en la lunación puede mostrar las áreas en las que necesitamos ser más abiertos y receptivos a las ideas y opiniones de los demás, así como la importancia de trabajar en equipo para lograr objetivos comunes.
+
+Por otro lado, podremos ver con más claridad cuánto nos animamos a ser auténticos y fieles a nosotros mismos, incluso cuando estamos trabajando en colaboración con otros. Integrar la energía de Acuario en nuestra vida implica ser valientes en la defensa de nuestros ideales y en la búsqueda de un mundo más justo y equitativo para todos, manteniendo siempre una mente abierta y un corazón generoso hacia los demás.
 
 
 ### Luna llena en Piscis o casa 12
 
-Piscis 
+La luna llena en Piscis, especialmente en la Casa 12, marca un período de profunda introspección, espiritualidad y conexión con el inconsciente. Piscis representa la compasión, la sensibilidad y la conexión con lo divino y lo trascendental. En esta posición, la luna llena explora emociones más profundas y busca la sanación a través de la conexión con nuestro yo interior y con el universo.
+
+Esta fase lunar nos podría estar mostrando la necesidad de equilibrar la realidad material y el mundo espiritual. La energía de Piscis en la lunación puede revelar las áreas en las que necesitamos soltar el control y confiar en el proceso de la vida, permitiendo que la intuición y la sabiduría interior nos guíen.
+
+Esta luna ilumina las áreas donde debemos poner en práctica el desapego y el perdon tanto a nosotros mismos como a los demás, liberándonos de cargas emocionales y kármicas. Integrar la energía de Piscis en nuestra vida implica ser valientes en nuestra búsqueda de la verdad espiritual y en nuestra disposición a dejar ir todo aquello que nos impide crecer y evolucionar, convirtiéndonos en seres más compasivos, amorosos y en paz con nosotros mismos y con el mundo que nos rodea.
+
 
 ## ¿Cómo trabajar la luna llena?
 
-1. Evalúo mis expresiones, analizándolas y perfeccionándolas. Las emociones reflejan nuestra vulnerabilidad; la luna siempre se trabaja en relación con los demás, quienes actúan como espejos de nuestras proyecciones, lo que nos permite un proceso de discernimiento. Por otro lado, ser honestos con los demás y animarnos a mostrar lo que hay en la otra cara de la luna implica exponerse y entrar en contacto con nuestra vulnerabilidad. Requiere valentía porque implica relacionarse con lo que se refleja en el otro, pero es la única forma de saber si estamos en la misma sintonía para conectar profundamente, convirtiéndonos en seres más permeables y empáticos, superando las máscaras de lo políticamente correcto.
-   
-3. Mostrar la vulnerabilidad es diferente al victimismo que consiste en mostrar aquello en lo que no nos hemos empoderado en nuestra propia vida. Siempre que te encuentres frente a un problema con otro, reconoce si la historia que estás contando se ajusta más a estas dos formas:
+1. Evalúo mis expresiones, analizándolas y perfeccionándolas. Las emociones reflejan nuestra vulnerabilidad; la luna siempre se trabaja en relación con los demás, quienes actúan como espejos de nuestras proyecciones, lo que nos permite un proceso de discernimiento. Por otro lado, ser honestos con los demás y animarnos a mostrar lo que hay en la otra cara de la luna implica exponerse y entrar en contacto con nuestra vulnerabilidad. Requiere valentía porque implica relacionarse con lo que se refleja en el otro, pero es la única forma de saber si estamos en la misma sintonía para conectar profundamente, convirtiéndonos en seres más permeables y empáticos, superando las máscaras de lo políticamente correcto. Puedes hacerte las siguientes preguntas:
+
+* ¿De qué manera estoy buscando un sentido, razón o propósito para mi vida?
+* ¿Hasta qué punto busco la realización a través de los demás? ¿Cómo evalúo la calidad de mi vida y la razón para vivir basándose en relaciones significativas o sin significado?
+* ¿Hasta qué punto estoy pensando y sintiendo antes de actuar particularmente en las relaciones con otros? Estoy dispuestx a tomar responsabilidad de mis actos hacia los demás?
+
+2. Mostrar la vulnerabilidad es diferente al victimismo que consiste en mostrar aquello en lo que no nos hemos empoderado en nuestra propia vida. Siempre que te encuentres frente a un problema con otro, reconoce si la historia que estás contando se ajusta más a estas dos formas:
 
 * Vulnerable: acepto mi recorrido con omisiones y carencias, pero también con conquistas, para tomar acción.
-* Victimista: me hago el ciego y responsabilizo a los demás de mis necesidades y expectativas irresueltas.
+* Victimista: me hago el ciego y responsabilizo a los demás de mis necesidades y expectativas irresueltas. 
 
 Si te identificas más con el victimismo, considera ¿Qué necesito desarrollar para no sentirme víctima en esta situación? 
+
 1. Identifica en qué te sientes víctima.
 2. Cultiva la capacidad para generar una virtud de la que carezcas.
 
 3. Clarifico mi propósito, lo ilumino con consciencia y lo realizo.
-   
-4. También puedes hacerte las siguientes preguntas:
-* ¿Qué tipo de nuevas posibilidades estoy tratando que emerjan de mi interior?
-* ¿Cómo me proyecto a mi mismo sobre el mundo exterior? ¿Estoy consciente de mis emociones y de por qué hago las cosas?
-* ¿Hasta qué punto opero sobre la base del instinto y la improvisación sin pensar en un plan? ¿Esta es una forma de funcionamiento exitosa para mi?
 
 
 ## Fuentes
