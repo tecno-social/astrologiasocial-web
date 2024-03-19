@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Solsticio de Capricornio 2023"
+title:  "Los Equinoccios"
 author: Lina
-categories: [ Solsticio, Capricornio ] 
+categories: [ Equinoccios, Aries, Libra ] 
 image: assets/images/posts/2023-12-21-solsticio-de-capricornio-01.jpg
 ---
 
