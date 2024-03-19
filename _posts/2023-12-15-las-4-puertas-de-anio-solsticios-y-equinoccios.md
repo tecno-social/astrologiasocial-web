@@ -20,12 +20,11 @@ Estas "Puertas del año" esencialmente se inician en los grados 0° de los signo
 
 **La última puerta del año está en 0° Capricornio** coincidiendo con el solsticio de invierno. Esta etapa podría denominarse "El punto más alto". Durante esta época del año, en el hemisferio norte, se experimenta el día más corto hasta que comienza a retroceder, y la luz prevalece sobre la oscuridad, indicando el nacimiento de un nuevo sol que vence a la oscuridad. También se alinea con la celebración de la Navidad, que en latín significa "nativitas" o "natividad" (nacimiento), haciendo referencia al nacimiento del sol celebrado el 25 de diciembre. Aunque la relación con Jesús no está clara en la Biblia en cuanto a su fecha de nacimiento, la alineación estelar muestra una coincidencia notable.
 
-Mirar artículo: los solsticios
-
 Aunque la Astrología tuvo su desarrollo inicial en el hemisferio norte, ambos hemisferios, norte y sur, comparten relaciones fundamentales y características similares. Aunque uno experimente primavera y el otro otoño, ambos comparten el mismo eje de Aries y Libra y los comienzos se manifiestan en este eje, donde las estaciones son más agradables e intermedias, el clima deja de ser inhóspito y emerge una mejor calidad de vida, representando así el eje de la relación, el yo y nosotros. Se busca compartir más y explorar el mundo, simbolizando un equilibrio significativo.
 
 Por otro lado, cuando las puertas atraviesan el 0° de Cáncer y Capricornio, que simboliza el eje del poder, nos encontramos con los solsticios, marcando el día más corto y largo del año. Cáncer y Capricornio están vinculados a climas extremos, los más desafiantes. Aquellas personas en cualquiera de estos hemisferios deben prepararse para afrontar estas condiciones, ajustando sus comportamientos y estados de ánimo, dirigiendo su energía hacia la conservación y el logro de metas.
 
+Mirar artículo: los solsticios
+
 Un hecho mítico asociado con el cambio de estaciones, los equinoccios y solsticios, es la historia de Perséfone. Ella retorna a la tierra en primavera y verano, pero regresa al Inframundo en otoño e invierno. Este mito surge después de que Ceres o Deméter, su madre y Diosa de la agricultura, hiciera un trato con Zeus para evitar que los hombres dejaran de adorar a los dioses porque la pérdida de fe por la divinidad surge cuando todo está sumido en oscuridad y dolor. debido a la tristeza de ceres por la pérdida de su hija Core o Perséfone a manos de Hades el dios del inframundo. 
 
-Conoce más sobre este mito aquí
