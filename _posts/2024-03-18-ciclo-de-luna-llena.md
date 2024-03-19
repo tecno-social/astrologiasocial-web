@@ -136,10 +136,10 @@ Esta luna ilumina las áreas donde debemos poner en práctica el desapego y el p
 
 Si te identificas más con el victimismo, considera ¿Qué necesito desarrollar para no sentirme víctima en esta situación? 
 
-1. Identifica en qué te sientes víctima.
-2. Cultiva la capacidad para generar una virtud de la que carezcas.
+* Identifica en qué te sientes víctima.
+* Cultiva la capacidad para generar una virtud de la que carezcas.
 
-3. Clarifico mi propósito, lo ilumino con consciencia y lo realizo.
+3. Por último el principal objetivo de esta fase es clarificar mi propósito para trabajar coherentemente en su realización.
 
 
 ## Fuentes
