@@ -13,7 +13,7 @@ Astronómicamente, el novilunio marca una alineación entre la luna y el sol. De
 
 Así, la luna nueva propone un inicio, una imagen, una idea, una pulsión que puede significar una nueva perspectiva sobre algo. Sin embargo, no está del todo claro qué es exactamente ni cómo se llevará a cabo, ya que no nos proponemos emprender algo de forma consciente. Todo surge desde el inconsciente y está motivado por la necesidad de llenar un espacio vacío con una semilla de vida.
 
-Si observamos el ciclo metónico lunar, tan solo 9 meses después, en el cuarto creciente (con la luna en el mismo signo y grado), tendremos la distancia suficiente para ver lo que se había iniciado. Y no será hasta 18 meses después, cuando se complete una luna llena en el mismo signo y grado, que veremos la culminación de lo que comenzó a gestarse, un verdadero nacimiento.
+Si observamos el ciclo metónico lunar, tan solo 9 meses después, en el cuarto creciente (con la luna en el mismo signo y grado), tendremos la distancia suficiente para ver lo que se había iniciado. Y no será hasta 18 meses después, cuando se complete una [luna llena](https://www.astrologia.social/blog/ciclo-de-luna-llena) en el mismo signo y grado, que veremos la culminación de lo que comenzó a gestarse, un verdadero nacimiento.
 
 
 # Luna Nueva Astrológica
