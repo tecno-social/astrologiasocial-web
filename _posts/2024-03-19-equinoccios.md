@@ -5,6 +5,19 @@ author: Lina
 categories: [ Equinoccios, Aries, Libra ] 
 image: assets/images/posts/2023-12-21-solsticio-de-capricornio-01.jpg
 ---
+Los Equinoccios
+El concepto “equinoccio” proviene del vocablo griego euqus: Igual y nox: Noche. En astronomía los equinoccios se dan cuando la tierra se ubica en la mitad respecto a su órbita alrededor del sol, entonces se produce un equilibrio y el día tiene la misma duración que la noche. Cada año se dan este acontecimiento dos veces marcando la entrada de la estación de primavera y otoño. 
+
+Este evento natural ha organizado la vida en la tierra y ha hecho que el hombre lo tome como un punto de referencia dando forma a sus mitos y ritos pero también a diferentes áreas del conocimiento que le ha permitido la subsistencia y el desarrollo. En la antigüedad se llevaba un registro muy puntual del fenómeno a partir de la observación del cielo y los astros y su correspondencia con los cambios en la naturaleza, especialmente las alineaciones que hacían los planetas más visibles el sol, la luna, venus sobre las diferentes constelaciones, dando cuenta a su vez de eventos como los eclipses. Algunos monumentos de la antigüedad dan cuenta de esta actividad de observación ya que fueron construidos especialmente para estos eventos como: 
+
+Monumento megalítico de Stonehenge, Inglaterra
+Esfinge de Gizeh en Egipto.
+
+Por su parte las sociedades mesoamericanas también construyeron observatorios para éstos eventos, los más conocidos son los de el Monte de Albán en Oaxaca y Chichen Itza, México. Logrando calendarios mucho más exactos que los europeos.
+
+## Equinoccio de primavera o vernal
+*0° de Aries que ocurre aproximadamente del 19 al 21 de marzo.*
+
 Para el hemisferio norte, el equinoccio de marzo marca el inicio de la temporada de primavera. Este período simboliza el triunfo del sol sobre el invierno, con días más largos y soleados. La naturaleza también experimenta cambios; todo se vuelve más verde y la agricultura se convierte en una actividad principal, lo que también afecta a los aspectos psicológicos y sociales de las personas. Una de las festividades más importantes para el cristianismo asociada con este equinoccio es la Pascua o "Semana Santa".
 
 Desde la perspectiva de las culturas nativas mesoamericanas, el mes de marzo era llamado "Tlacaxipehualiztli", que significa "Renovación de la Tierra", correspondiente a la primavera, época en la que se trabajaba la tierra y se iniciaba la siembra. El compromiso con las fuerzas de la naturaleza era tan profundo que sus rituales para obtener un buen clima y condiciones de vida incluían sacrificios humanos para honrar a los dioses; la vida individual no era más importante que la supervivencia de la comunidad.
