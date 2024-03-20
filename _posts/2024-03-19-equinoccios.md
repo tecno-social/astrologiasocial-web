@@ -33,6 +33,15 @@ Estas culturas construyeron monumentos sagrados, como observatorios o altares ce
 
 El grado 0° de Aries marca también el inicio del año astrológico, ya que la rueda zodiacal comienza con este signo de fuego cardinal, simbolizando el inicio, "La chispa de vida". El fuego ariano propone un tiempo de acción. En el calendario gregoriano, ya ha pasado un cuarto del año y sentimos que estamos listos para actuar, que debemos acelerar todo; seguramente ya sabemos qué hacer y vemos cómo hacerlo, así que no queremos esperar más. En esta puerta del año, no debemos temer equivocarnos, porque el error es parte del proceso; debemos actuar con determinación para que el ciclo comience. La magia implícita de esta etapa del ciclo solar es reconocer que la vida sabe más y que somos canales de una sabiduría mayor; al aceptar en qué momento estamos, con nuestras capacidades y limitaciones, podemos reorganizarnos y construir.
 
+## Equinoccio otoñal
+### 0° de Libra se da entre el 21 al 22 de septiembre. 
+
+En esta etapa se considera la tercera puerta del año que nos invita a hacer un balance, manifestando el equilibrio de la naturaleza. Los días y las noches se equilibran y después empezarán a perder luz acá comienza el otoño y anticipa la temporada del frío, de la nieve; es el momento cuando los animales y las plantas se retraen, esperando el regreso de la primavera para volver a florecer. 
+
+En el hemisferio sur los Incas celebran el inicio de la primavera, llamado el Quya Raymi Killa, o pascua del agua, ceremonias pidiendo el líquido fecundante de la tierra y la preparación de la naturaleza floreciente. Killa Raymi, que ocurre durante el equinoccio de otoño en septiembre. Esta celebración está relacionada con la luna y es una oportunidad para honrarla y conectarse con su energía femenina, es el fin de la preparación de la tierra y el inicio del momento del sembrío, es el agradecimiento a la luna y a la tierra por su fecundidad.
+
+En este punto nos preguntamos: ¿Cuál fue nuestro recorrido desde que atravesamos la primera puerta con el equinoccio en Aries de marzo? Dónde he puesto mi energía, en el afuera o en el interior? La respuesta nos llevará a invertir el enfoque al atravesar este umbral, sí hemos estado más hacia adentro, entonces es el momento de actuar, de llevarle al mundo lo que hemos trabajado en el interior. Libra aunque tiende a repensar las cosas y procrastinar en la búsqueda del equilibrio, también tiene una capacidad y dinamismo de energía yang. Hay que balancear las intensidades, es un ir y vuelta, en este punto podemos preguntarnos ¿qué tenemos que dejar?¿Qué necesitamos apreciar?.
+
 
 ## Fuentes
 
