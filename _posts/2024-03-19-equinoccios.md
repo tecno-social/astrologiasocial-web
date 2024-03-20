@@ -25,8 +25,7 @@ Desde la perspectiva de las culturas nativas mesoamericanas, el mes de marzo era
 
 En el hemisferio sur, las comunidades andinas celebran en esta fecha el Pawkar Raymi. Esta festividad destaca la renovación de la naturaleza y la conexión con los ciclos de vida y muerte, siendo una celebración del florecimiento. También marca la transición de la niñez a la adultez, con un ritual que incluye la bendición de flores y agua en relación con el florecimiento de los árboles. Además, marca el inicio del año, llamado "Mushuk Nina" que significa "Fuego Nuevo", un ritual que representa un nuevo ciclo de vida del "Pachakutin", que significa la eterna renovación del tiempo-espacio, un círculo continuo que avanza constantemente autorrenovándose en relación con la Tierra, la Luna, el Sol y el universo.
 
-<img src='/assets/images/posts/2024-03-19-equinoccios-monte-alban-oaxaca.JPG' style='float:right; width: 45%; padding: 1em;' />
-*Zona Arqueológica de Monte Albán, Oaxaca México*
+<img src='/assets/images/posts/2024-03-19-equinoccios-monte-alban-oaxaca.JPG' style='float:right; width: 45%; padding: 1em;' />*Zona Arqueológica de Monte Albán, Oaxaca México*
 
 Estas culturas construyeron monumentos sagrados, como observatorios o altares ceremoniales, 800 años antes de nuestra era. Hoy en día, estos monumentos son un legado cultural y de saberes ancestrales que se han perdido en los procesos de colonización, en la educación para el desarrollo y en la marea de información. De hecho, estos monumentos están en peligro de ser destruidos por la industria del turismo y la espiritualidad con el auge de la "New Age", que intenta hacer que las personas compren experiencias espirituales para absorber la energía de estos lugares, poniendo en riesgo el patrimonio cultural de la región.
 
