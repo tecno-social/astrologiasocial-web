@@ -15,6 +15,8 @@ Esfinge de Gizeh en Egipto.
 
 Por su parte las sociedades mesoamericanas también construyeron observatorios para éstos eventos, los más conocidos son los de el Monte de Albán en Oaxaca y Chichen Itza, México. Logrando calendarios mucho más exactos que los europeos.
 
+<img src='/assets/images/posts/2024-03-19-equinoccios-monte-alban-oaxaca.JPG' style='float:right; width: 45%; padding: 1em;' />
+
 ## Equinoccio de primavera o vernal
 *0° de Aries que ocurre aproximadamente del 19 al 21 de marzo.*
 
