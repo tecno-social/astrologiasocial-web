@@ -10,8 +10,8 @@ El concepto “equinoccio” proviene del vocablo griego euqus: Igual y nox: Noc
 
 Este evento natural ha organizado la vida en la tierra y ha hecho que el hombre lo tome como un punto de referencia dando forma a sus mitos y ritos pero también a diferentes áreas del conocimiento que le ha permitido la subsistencia y el desarrollo. En la antigüedad se llevaba un registro muy puntual del fenómeno a partir de la observación del cielo y los astros y su correspondencia con los cambios en la naturaleza, especialmente las alineaciones que hacían los planetas más visibles el sol, la luna, venus sobre las diferentes constelaciones, dando cuenta a su vez de eventos como los eclipses. Algunos monumentos de la antigüedad dan cuenta de esta actividad de observación ya que fueron construidos especialmente para estos eventos como: 
 
-Monumento megalítico de Stonehenge, Inglaterra
-Esfinge de Gizeh en Egipto.
+* Monumento megalítico de Stonehenge, Inglaterra.
+* Esfinge de Gizeh, Egipto.
 
 Por su parte las sociedades mesoamericanas también construyeron observatorios para éstos eventos, los más conocidos son los de el Monte de Albán en Oaxaca y Chichen Itza, México. Logrando calendarios mucho más exactos que los europeos.
 
@@ -47,4 +47,5 @@ En este punto nos preguntamos: ¿Cuál fue nuestro recorrido desde que atravesam
 
 * Delgadillo, Rosa. 2008. “El equinoccio de primavera, mitos y realidades”. Artículo para UAM México. [URL](https://www.uam.mx/difusion/casadeltiempo/13_iv_nov_2008/casa_del_tiempo_eIV_num13_57_62.pdf)
 * Jym Qhapaq Amaru . 2012. “INKA PACHAQAWAY - Cosmovisión Andina”. Publicado por Reduii.org. [Link del PDF](https://www.reduii.org/cii/sites/default/files/field/doc/Apu-Qun-Illa-Tiqsi-Wiraqucha-Pachayachachiq-El-Ordenador-Del-Cosmos.pdf)
+* Foto de portada, Ashley Blanton. "tunnel book made with cut paper, collage, image transfer, and watercolor" [www.ashleyblanton.com](https://www.ashleyblanton.com/new-page-3)
 
