@@ -71,7 +71,7 @@ Entendiendo el ciclo lunar, puedes evaluar diversos aspectos de tu vida. Como ej
 ### Fuentes
 
 * Blaquier Maria. 2022. Ponencia: "El Ciclo Metónico de la Luna". [Link al video](https://www.youtube.com/watch?v=fxvbNMPW258) 
-* George, Demetra. 2008. Finding Our Way through the Dark. Editor: American Federation of Astrology.
+* George, Demetra. 2008. Finding Our Way through the Dark. Editor: American Federation of Astrology. Leer en [Google eBooks](https://books.google.com.ar/books?id=llN4k1dB0soC&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 
 
 
