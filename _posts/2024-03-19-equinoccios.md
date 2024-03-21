@@ -5,7 +5,7 @@ author: Lina
 categories: [ Equinoccios, Aries, Libra ] 
 image: assets/images/posts/assets/images/posts/2024-03-19-equinoccios-Ashley-Blaton.jpg
 ---
-Los Equinoccios
+
 El concepto “equinoccio” proviene del vocablo griego euqus: Igual y nox: Noche. En astronomía los equinoccios se dan cuando la tierra se ubica en la mitad respecto a su órbita alrededor del sol, entonces se produce un equilibrio y el día tiene la misma duración que la noche. Cada año se dan este acontecimiento dos veces marcando la entrada de la estación de primavera y otoño. 
 
 Este evento natural ha organizado la vida en la tierra y ha hecho que el hombre lo tome como un punto de referencia dando forma a sus mitos y ritos pero también a diferentes áreas del conocimiento que le ha permitido la subsistencia y el desarrollo. En la antigüedad se llevaba un registro muy puntual del fenómeno a partir de la observación del cielo y los astros y su correspondencia con los cambios en la naturaleza, especialmente las alineaciones que hacían los planetas más visibles el sol, la luna, venus sobre las diferentes constelaciones, dando cuenta a su vez de eventos como los eclipses. Algunos monumentos de la antigüedad dan cuenta de esta actividad de observación ya que fueron construidos especialmente para estos eventos como: 
