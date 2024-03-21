@@ -33,6 +33,8 @@ Estas culturas construyeron monumentos sagrados, como observatorios o altares ce
 
 El grado 0° de Aries marca también el inicio del año astrológico, ya que la rueda zodiacal comienza con este signo de fuego cardinal, simbolizando el inicio, "La chispa de vida". El fuego ariano propone un tiempo de acción. En el calendario gregoriano, ya ha pasado un cuarto del año y sentimos que estamos listos para actuar, que debemos acelerar todo; seguramente ya sabemos qué hacer y vemos cómo hacerlo, así que no queremos esperar más. En esta puerta del año, no debemos temer equivocarnos, porque el error es parte del proceso; debemos actuar con determinación para que el ciclo comience. La magia implícita de esta etapa del ciclo solar es reconocer que la vida sabe más y que somos canales de una sabiduría mayor; al aceptar en qué momento estamos, con nuestras capacidades y limitaciones, podemos reorganizarnos y construir.
 
+[Ver artículo "Las 4 puertas del año. Solsticios y Equinoccios"](https://www.astrologia.social/blog/las-4-puertas-de-anio-solsticios-y-equinoccios)
+
 ## Equinoccio otoñal
 ### 0° de Libra se da entre el 21 al 22 de septiembre. 
 
