@@ -3,7 +3,7 @@ layout: post
 title:  "Los Equinoccios"
 author: Lina
 categories: [ Equinoccios, Aries, Libra ] 
-image: assets/images/posts/2023-12-21-solsticio-de-capricornio-01.jpg
+image: assets/images/posts/assets/images/posts/2024-03-19-equinoccios-Ashley-Blaton.jpg
 ---
 Los Equinoccios
 El concepto “equinoccio” proviene del vocablo griego euqus: Igual y nox: Noche. En astronomía los equinoccios se dan cuando la tierra se ubica en la mitad respecto a su órbita alrededor del sol, entonces se produce un equilibrio y el día tiene la misma duración que la noche. Cada año se dan este acontecimiento dos veces marcando la entrada de la estación de primavera y otoño. 
