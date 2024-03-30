@@ -3,7 +3,7 @@ layout: post
 title:  "Sol en Aries"
 author: Lina
 categories: [ Aries, Signo zodiacal, Marte, Fuego ]
-image: assets/images/posts/2024-2-23-signo-zodiacal-piscis.jpg
+image: assets/images/posts/2024-03-29-signo-zodiacal-aries.jpg
 ---
 
 *Para el ciclo energético propuesto por el zodiaco, Aries marca el comienzo. Se necesita un fuego agresivo que insufle vida y potencie el movimiento de la rueda. Este fuego intenso y calcinante desarrolla valentía, heroísmo e ímpetu en su portador. Las personas nacidas bajo el signo de Aries estarán motivadas por sus propios deseos y voluntad, de los cuales tienen un gran registro, opacando a veces los deseos y voluntades de otros. Este puede ser uno de los mayores retos en la vida de los arianos, quienes, como polaridad del eje “yo y tú”, deberán ir integrando cualidades más comunes en la energía de Libra, como el equilibrio, la empatía y el respeto de los límites externos, así como el espacio personal en el que se mueve el otro. Esto tiene como fin canalizar el fuego interior para que el movimiento hacia la vida no sea egoísta y agresivo, sino que se equilibre con la existencia del otro, lo que a su vez dará sentido a la vida de una persona tan activa (yang). "Yo soy", por tanto, implica la existencia de un otro que reconoce y valora lo que "Yo soy".*
