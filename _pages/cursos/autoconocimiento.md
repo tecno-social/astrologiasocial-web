@@ -1,40 +1,65 @@
 ---
 layout: page
-title: Curso de Astrología para el Autonocimiento 33
+title: Curso de Astrología para el Autonocimiento 
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/banners/sinastria.jpg
 imageshadow: true
 ---
 
-La sinastría es un método que permite estudiar la relación entre dos personas y consiste en la superposición de dos cartas natales lo que nos mostrará su aﬁnidad, atracción, puntos en común, puntos conﬂictivos, escenarios de aprendizaje para cada uno, etc.
+¡Te invitamos a unirse a nuestro curso de iniciación en el lenguaje astrológico! A través del conocimiento de esta herramienta y su simbología, podrás descubrir elementos que te ayudarán a madurar patrones o creencias limitantes, además de conectar con tu sentido y propósito personal.
 
-La sinastría no solo puede aplicarse a relaciones de pareja, también a padres e hijos, socios, amigos, amantes, parientes, compañeros, o cualquier otro tipo de vinculo.
+## Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizaje.
 
-El estudio de las interrelaciones personales por medio de la astrología permite establecer
-estrategias que potencien la cooperación y la interacción positiva entre dos personas.
+## Primer encuentro 
 
-## ¿Cómo es la lectura?
+### Descubriendo la Astrología.
 
-Es una sesión virtual que tiene una duración de 1 hora 30, dónde interpretamos teniendo en cuenta la superposición de las carta natales de ambas personas y los tránsitos actuales. A la consulta pueden asistir las dos personas o una. Al final te compartimos la grabación de la sesión y un documento con tu carta en formato PDF.
+Duración 2 horas
+En este espacio descubriremos el potencial de la astrología como herramienta de autoconocimiento. 
 
-## Costo de la sesión
+* La Astrología ayer, hoy y siempre.
+* Somos energía
+* Reconociendo "Mi mapa natal". 
+* Presentación de la bitácora de autoconocimiento. (Slides de google)
+* El equilibrio de los elementos en nosotros
 
-50 USD o el equivalente en la moneda local.
+## Segundo encuentro 
 
+Duración 2 horas
+Los planetas del sistema solar y su impacto.
 
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc93qRPjPDShA3dqWU6YXi5nqhko4lcpTrCeAib_yX0lK6r2w/viewform?usp=sf_link" class="btn btn-astro"> Queremos nuestra Sinastría &rarr;</a>
+* Bitácora reconociendo el simbolismo y la ubicación de cada uno
+* Planetas personales Sol, Luna, Mercurio, Marte, Venus.
+* Planetas sociales Júpiter y Saturno
+* Planetas transpersonales
+  
+## Tercer encuentro 
+
+Viajando a través de las fuerzas zodiacales y sus escenarios. 2 horas
+Aries, Tauro, Géminis, Cáncer, Leo, Virgo, y sus casas por regencia.
+Espacio sobre la bitácora de autoconocimiento. 
+
+## Cuarto encuentro  
+
+Viajando a través de las fuerzas zodiacales y sus escenarios. 2 horas
+Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis y sus casas por regencia.
+Espacio sobre la bitácora de autoconocimiento. 
+
+5ta etapa: Desarrollando mi bitácora astrológica
+Cuáles energías me gobiernan, Elementos y modalidades personales.
+La ubicación de los actores de la obra y sus características. 
+Escenarios de experiencia de la vida en la que la energía me propone madurar. 
+
+6ta etapa: aportes de la red y al proceso
+Meditación “El ciclo del tiempo”
+Diálogos presentaciones en lenguaje astrológico. 
+Cómo continuar…
+
+## Costo del Curso
+
+80 USD o el equivalente en la moneda local.
+
+<a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Inscríbete &rarr;</a>
 
 <hr>
-
-# Sesiones de profundización para la sinastría
-
-<img src='/assets/images/venus.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
-
-Este es un espacio para el trabajo de asuntos vinculares. Se hacen a solicitud del consultante y se trabaja con la carta natal propia con cada una de las partes.
-
-## Costo de la sesión
-
-20 USD o el equivalente en la moneda local.
-
-<a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Agéndate &rarr;</a>
