@@ -7,9 +7,11 @@ image: assets/images/banners/sinastria.jpg
 imageshadow: true
 ---
 
-¡Te invitamos a unirse a nuestro curso de iniciación en el lenguaje astrológico! A través del conocimiento de esta herramienta y su simbología, podrás descubrir elementos que te ayudarán a madurar patrones o creencias limitantes, además de conectar con tu sentido y propósito personal.
+¡Te invitamos a unirte a nuestro curso de iniciación en el lenguaje astrológico! A través del conocimiento de esta herramienta y su simbología, podrás descubrir elementos que te ayudarán a madurar patrones o creencias limitantes, además de conectar con tu sentido y propósito personal.
 
-## Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizaje.
+### Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizaje.
+
+
 
 ## Primer encuentro 
 
