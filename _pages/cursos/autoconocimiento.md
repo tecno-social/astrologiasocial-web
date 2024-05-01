@@ -15,31 +15,26 @@ imageshadow: true
 <img src='assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 
-## 1er. Encuentro: Descubriendo la Astrología.
-
-En este espacio deconstruiremos nuestra relación con la Astrología y su potencial como herramienta de autoconocimiento. 
+## 1. Encuentro 
+Descubriendo la Astrología. En este espacio deconstruiremos nuestra relación con la Astrología y su potencial como herramienta de autoconocimiento. 
   
 
-## 2do. Encuentro: Los planetas más cercanos a la conciencia y cómo nos influyen.
+## 2. Encuentro 
+Los planetas más cercanos a la conciencia y cómo nos influyen. Descubriremos las analogías presentes entre los planetas  personales y nuestra vida a través de los mitos. 
 
-Descubriremos las analogías presentes entre los planetas  personales y nuestra vida a través de los mitos. 
 
-
-## 3er. Encuentro: Somos un sistema que busca equilibrio a través de las historias.
-
-Descubriremos las analogías presentes entre los planetas  personales y nuestra vida a través de los mitos. 
+## 3. Encuentro 
+Somos un sistema que busca equilibrio a través de las historias. Descubriremos las analogías presentes entre los planetas  personales y nuestra vida a través de los mitos. 
 
   
-## 4to. Encuentro: primera parte de las fuerzas zodiacales y sus escenarios.
-
+## 4. Encuentro: primera parte de las fuerzas zodiacales y sus escenarios.
 Aries, Tauro, Géminis, Cáncer, Leo, Virgo, y sus casas por regencia.
 
 
-## 5to. Encuentro: segunda parte de las fuerzas zodiacales y sus escenarios. 
-
+## 5. Encuentro: segunda parte de las fuerzas zodiacales y sus escenarios. 
 Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis y sus casas por regencia.
 
-## 6to. Encuentro: Conectando con nuestro potencial
+## 6. Encuentro: Conectando con nuestro potencial
 * Escenarios de experiencia de la vida en la que la energía me propone madurar.
 * Ritual de cierre
 
