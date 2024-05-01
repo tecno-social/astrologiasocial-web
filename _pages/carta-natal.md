@@ -17,7 +17,7 @@ Es una sesión virtual que tiene una duración de 1 hora y 30 minutos, dónde in
 
 ## Costo de la sesión
 
-40 USD o el equivalente en la moneda local.
+50 USD o el equivalente en la moneda local.
 
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSffgRfr03iVMD--kQCl-BUMg8V6g0qj3me0Xl098s6xyGf4hQ/viewform?usp=sf_link" class="btn btn-astro">Quiero mi Carta Natal &rarr;</a>
@@ -32,7 +32,7 @@ Dentro de la sesión trabajamos con el hermoso "Tarot de las ﬂores" lo que nos
 
 ## Costo de la sesión
 
-20 USD o el equivalente en la moneda local.
+25 USD o el equivalente en la moneda local.
 
 <a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Agéndate &rarr;</a>
 
