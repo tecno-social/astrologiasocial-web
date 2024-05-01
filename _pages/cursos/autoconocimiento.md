@@ -45,6 +45,6 @@ Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis y sus casas por regenci
 
 80 USD o el equivalente en la moneda local.
 
-<a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Inscríbete &rarr;</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScfVBE6ok4vvBbeqD4ijSR-AzpWb6DLCOiZyniIWWBf6MVTbg/viewform?usp=sf_link" class="btn btn-astro">Inscríbete &rarr;</a>
 
 <hr>
