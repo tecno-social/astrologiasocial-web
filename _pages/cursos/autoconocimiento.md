@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curso de Astrología para el Autonocimiento 
+title: Astrología para el Autonocimiento 
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
