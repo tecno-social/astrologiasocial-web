@@ -3,7 +3,7 @@ layout: page
 title: Curso de Astrología para el Autonocimiento 
 permalink: /cursos/autoconocimiento
 comments: false
-image: assets/images/banners/sinastria.jpg
+image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
