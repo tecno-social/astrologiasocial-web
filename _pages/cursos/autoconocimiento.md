@@ -14,33 +14,25 @@ imageshadow: true
 
 ## 1er. Encuentro: Descubriendo la Astrología.
 
-En este espacio descubriremos el potencial de la astrología como herramienta de autoconocimiento y profundizaremos en los elementos y cómo nos influyen.
-
-* La Astrología ayer y hoy.
-* Somos energía.
-* Reconociendo el mapa natal. 
-* El equilibrio de los elementos.
+En este espacio deconstruiremos nuestra relación con la Astrología y su potencial como herramienta de autoconocimiento. 
   
 
-## 2do. Encuentro: Somos un microcosmos que madura en cada ciclo.
+## 2do. Encuentro: Los planetas más cercanos a la conciencia y cómo nos influyen.
 
-En este encuentro descubriremos las analogías presentes entre los planetas y nuestra vida a través de los mitos. 
+Descubriremos las analogías presentes entre los planetas  personales y nuestra vida a través de los mitos. 
 
-* Planetas personales Sol, Luna, Mercurio, Marte, Venus.
- 
 
 ## 3er. Encuentro: Somos un sistema que busca equilibrio a través de las historias.
 
-* Planetas sociales Júpiter y Saturno
-* Planetas transpersonales
+Descubriremos las analogías presentes entre los planetas  personales y nuestra vida a través de los mitos. 
 
   
-## 4to. Encuentro: Viajando a través de las fuerzas zodiacales y sus escenarios.
+## 4to. Encuentro: primera parte de las fuerzas zodiacales y sus escenarios.
 
 Aries, Tauro, Géminis, Cáncer, Leo, Virgo, y sus casas por regencia.
 
 
-## 5to. Encuentro: Viajando a través de las fuerzas zodiacales y sus escenarios. 
+## 5to. Encuentro: segunda parte de las fuerzas zodiacales y sus escenarios. 
 
 Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis y sus casas por regencia.
 
