@@ -12,6 +12,9 @@ imageshadow: true
 ### Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizaje:
 
 
+<img src='assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+
+
 ## 1er. Encuentro: Descubriendo la Astrología.
 
 En este espacio deconstruiremos nuestra relación con la Astrología y su potencial como herramienta de autoconocimiento. 
