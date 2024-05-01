@@ -15,15 +15,14 @@ imageshadow: true
 
 ## Primer encuentro 
 
-### Descubriendo la Astrología.
+Descubriendo la Astrología.
 
-Duración 2 horas
+
 En este espacio descubriremos el potencial de la astrología como herramienta de autoconocimiento. 
 
-* La Astrología ayer, hoy y siempre.
+* La Astrología ayer, hoy y siempre
 * Somos energía
-* Reconociendo "Mi mapa natal". 
-* Presentación de la bitácora de autoconocimiento. (Slides de google)
+* Reconociendo mi mapa natal 
 * El equilibrio de los elementos en nosotros
 
 ## Segundo encuentro 
