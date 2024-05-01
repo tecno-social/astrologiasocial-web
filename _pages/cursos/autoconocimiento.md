@@ -9,53 +9,45 @@ imageshadow: true
 
 ¡Te invitamos a unirte a nuestro curso de iniciación en el lenguaje astrológico! A través del conocimiento de esta herramienta y su simbología, podrás descubrir elementos que te ayudarán a madurar patrones o creencias limitantes, además de conectar con tu sentido y propósito personal.
 
-### Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizaje.
+### Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizaje:
 
 
+## 1er. Encuentro: Descubriendo la Astrología.
 
-## Primer encuentro 
+En este espacio descubriremos el potencial de la astrología como herramienta de autoconocimiento y profundizaremos en los elementos y cómo nos influyen.
 
-Descubriendo la Astrología.
+* La Astrología ayer y hoy.
+* Somos energía.
+* Reconociendo el mapa natal. 
+* El equilibrio de los elementos.
+  
 
+## 2do. Encuentro: Somos un microcosmos que madura en cada ciclo.
 
-En este espacio descubriremos el potencial de la astrología como herramienta de autoconocimiento. 
+En este encuentro descubriremos las analogías presentes entre los planetas y nuestra vida a través de los mitos. 
 
-* La Astrología ayer, hoy y siempre
-* Somos energía
-* Reconociendo mi mapa natal 
-* El equilibrio de los elementos en nosotros
-
-## Segundo encuentro 
-
-Duración 2 horas
-Los planetas del sistema solar y su impacto.
-
-* Bitácora reconociendo el simbolismo y la ubicación de cada uno
 * Planetas personales Sol, Luna, Mercurio, Marte, Venus.
+ 
+
+## 3er. Encuentro: Somos un sistema que busca equilibrio a través de las historias.
+
 * Planetas sociales Júpiter y Saturno
 * Planetas transpersonales
+
   
-## Tercer encuentro 
+## 4to. Encuentro: Viajando a través de las fuerzas zodiacales y sus escenarios.
 
-Viajando a través de las fuerzas zodiacales y sus escenarios. 2 horas
 Aries, Tauro, Géminis, Cáncer, Leo, Virgo, y sus casas por regencia.
-Espacio sobre la bitácora de autoconocimiento. 
 
-## Cuarto encuentro  
 
-Viajando a través de las fuerzas zodiacales y sus escenarios. 2 horas
+## 5to. Encuentro: Viajando a través de las fuerzas zodiacales y sus escenarios. 
+
 Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis y sus casas por regencia.
-Espacio sobre la bitácora de autoconocimiento. 
 
-5ta etapa: Desarrollando mi bitácora astrológica
-Cuáles energías me gobiernan, Elementos y modalidades personales.
-La ubicación de los actores de la obra y sus características. 
-Escenarios de experiencia de la vida en la que la energía me propone madurar. 
+## 6to. Encuentro: Conectando con nuestro potencial
+* Escenarios de experiencia de la vida en la que la energía me propone madurar.
+* Ritual de cierre
 
-6ta etapa: aportes de la red y al proceso
-Meditación “El ciclo del tiempo”
-Diálogos presentaciones en lenguaje astrológico. 
-Cómo continuar…
 
 ## Costo del Curso
 
