@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Astrología para un Viaje de Autonocimiento 
+title: Astrología, un viaje de autonocimiento 
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
