@@ -13,7 +13,7 @@ imageshadow: true
 
 ## Itinerario de viaje
 
-Nos aventuraremos juntos en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizajes. Cada reunión será una oportunidad para profundizar en la comprensión de nosotros mismos y de nuestro lugar en el cosmos.
+Nos aventuraremos juntxs en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizajes. Cada reunión será una oportunidad para profundizar en la comprensión de nosotrxs mismxs y de nuestro lugar en el cosmos.
 
 <img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
@@ -27,7 +27,7 @@ En los encuentros 2 y 3 de nuestro viaje, exploraremos los planetas de nuestro s
 
 
 ### 3. Somos un sistema que busca equilibrio. 
-xploraremos los mitos, ciclos y funciones de los planetas sociales, como Júpiter y Saturno, y los transpersonales, como Urano, Neptuno y Plutón, para descubrir cómo influyen en nuestras vidas y cómo podemos trabajar con ellos de manera constructiva.
+Exploraremos los mitos, ciclos y funciones de los planetas sociales, como Júpiter y Saturno, y los transpersonales, como Urano, Neptuno y Plutón, para descubrir cómo influyen en nuestras vidas y cómo podemos trabajar con ellos de manera constructiva.
 
 
 ### 4. Las fuerzas zodiacales y sus escenarios, primera parte.
@@ -35,10 +35,10 @@ En esta parte, acompañaremos los estados energéticos a través de los signos z
 
 
 ### 5. Las fuerzas zodiacales y sus escenarios, segunda parte.
-En esta etapa de nuestro viaje astrológico, nos embarcaremos en un recorrido a través de los signos zodiacales que van desde Libra y la casa 7,  el signo de la balanza y las relaciones. Hasta sumergirnos en las profundidades de Piscis, el soñador y el sanador. A lo largo de este recorrido, desentrañaremos los misterios y significados de cada signo y su casa, y exploraremos cómo influyen en nuestras vidas y relaciones.
+En esta etapa de nuestro viaje astrológico, nos embarcaremos en un recorrido a través de los signos zodiacales que van desde Libra y la casa 7,  el signo de la balanza y las relaciones. Hasta sumergirnos en las profundidades de Piscis, el soñador y el sanador. A lo largo de este recorrido, desentrañaremos los misterios y significados de cada signo y su casa, y exploraremos cómo nos influyen.
 
 ### 6. Conectando con nuestro potencial.
-En esta última etapa de nuestro viaje, realizaremos la síntesis de todo lo aprendido. Analizaremos los escenarios de experiencia de mi carta astral, reconociendo que enfrentar las situaciones más desafiantes es crucial para el crecimiento de nuestro estado de conciencia. Concluiremos con un ritual de cierre para honrar y celebrar nuestra actividad juntos. 
+En el último tramo de nuestro viaje, realizaremos la síntesis de todo lo aprendido. Analizaremos los escenarios de experiencia en las carta natales, reconociendo que enfrentar las situaciones más desafiantes es crucial para el crecimiento de nuestro estado de conciencia. Concluiremos con un ritual de cierre para honrar y celebrar nuestra actividad juntos. 
 
 <hr>
 
@@ -48,9 +48,9 @@ La duración del curso será de 2 horas, con un descanso de 15 minutos incluido.
 
 ## Costo del Curso
 
-80 USD o el equivalente en la moneda local.
+80 USD o el equivalente en la moneda local. Se puede dividir en dos pagos.
 
-## *¿Estás listo para embarcarte en este viaje de autodescubrimiento y conexión con el universo?*
+## *¿Estás listx para embarcarte en este viaje de autodescubrimiento y conexión con el universo?*
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScfVBE6ok4vvBbeqD4ijSR-AzpWb6DLCOiZyniIWWBf6MVTbg/viewform?usp=sf_link" class="btn btn-astro">Inscríbete &rarr;</a>
 
