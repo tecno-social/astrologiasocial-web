@@ -13,17 +13,17 @@ imageshadow: true
 
 ## Itinerario de viaje
 
-Nos aventuraremos juntxs en este emocionante viaje de exploración astrológica, dividido en seis encuentros llenos de descubrimientos y aprendizajes. Cada reunión será una oportunidad para profundizar en la comprensión de nosotrxs mismxs y de nuestro lugar en el cosmos.
+Nos aventuraremos juntxs en este emocionante viaje de exploración astrológica, dividido en 6 encuentros llenos de descubrimientos y aprendizajes. Cada reunión será una oportunidad para profundizar en la comprensión de nosotrxs mismxs y de nuestro lugar en el cosmos.
 
 <img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 
 ### 1. Descubriendo la Astrología. 
-En este espacio deconstruiremos nuestra relación con la Astrología y su potencial como herramienta de autoconocimiento. Además, realizaremos un análisis del mapa astral personal, identificando los elementos que tienen mayor influencia en nuestra vida.
+En este espacio deconstruiremos nuestra relación con la Astrología y su potencial como herramienta de autoconocimiento. Además, realizaremos un análisis del mapa astral personal, identificando los elementos con mayor influencia en nuestra vida.
   
 
 ### 2. Los planetas más cercanos a la conciencia. 
-En los encuentros 2 y 3 de nuestro viaje, exploraremos los planetas de nuestro sistema solar y descubriremos las analogías que existen entre ellos, la Luna y el Sol, y diferentes aspectos de nuestra vida, todo a través de los ricos tejidos de los mitos. Nos adentraremos en cómo estos cuerpos celestiales impactan nuestras vidas y qué significan sus tránsitos.  
+En este encuentro, nos sumergiremos en la exploración de los planetas personales, la Luna y el Sol, para descubrir las analogías que existen entre ellos y nuestra personalidad, así como nuestras motivaciones, todo a través de los ricos tejidos de los mitos. Exploraremos cómo estos cuerpos celestiales impactan nuestras vidas y qué significan sus tránsitos. 
 
 
 ### 3. Somos un sistema que busca equilibrio. 
@@ -35,10 +35,10 @@ En esta parte, acompañaremos los estados energéticos a través de los signos z
 
 
 ### 5. Las fuerzas zodiacales y sus escenarios, segunda parte.
-En esta etapa de nuestro viaje astrológico, nos embarcaremos en un recorrido a través de los signos zodiacales que van desde Libra y la casa 7,  el signo de la balanza y las relaciones. Hasta sumergirnos en las profundidades de Piscis, el soñador y el sanador. A lo largo de este recorrido, desentrañaremos los misterios y significados de cada signo y su casa, y exploraremos cómo nos influyen.
+En esta segunda parte, nos embarcaremos en un recorrido a través de los signos zodiacales que van desde Libra y la casa 7,  el signo de la balanza y las relaciones; hasta sumergirnos en las profundidades de Piscis, el soñador y el sanador. A lo largo de este recorrido, intentaremos develar los misterios y significados de cada signo y su casa, y exploraremos cómo nos influyen.
 
 ### 6. Conectando con nuestro potencial.
-En el último tramo de nuestro viaje, realizaremos la síntesis de todo lo aprendido. Analizaremos los escenarios de experiencia en las carta natales, reconociendo que enfrentar las situaciones más desafiantes es crucial para el crecimiento de nuestro estado de conciencia. Concluiremos con un ritual de cierre para honrar y celebrar nuestra actividad juntos. 
+En el último tramo de nuestro viaje, realizaremos la síntesis de todo lo aprendido. Analizaremos los escenarios de experiencia en las carta natales, reconociendo que enfrentar las situaciones más desafiantes es crucial para el crecimiento de nuestro estado de conciencia. Concluiremos con un ritual de cierre para honrar y celebrar nuestra actividad juntxs. 
 
 <hr>
 
