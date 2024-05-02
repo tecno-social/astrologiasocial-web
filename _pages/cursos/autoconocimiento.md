@@ -44,11 +44,11 @@ En el último tramo de nuestro viaje, realizaremos la síntesis de todo lo apren
 
 ## Modalidad de las actividades
 
-La duración total del curso será de mes y medio, con un encuentro semanal con un total de 6 sesiones. Cada sesión tendrá una duración de 2 horas, con un descanso de 15 minutos incluido. Todas las sesiones se llevarán a cabo de manera virtual y sincrónica a través de Google Meet. Además, al final del día de cada sesión, se proporcionará la grabación completa para aquellos que no puedan asistir en vivo. Dado que los cupos son limitados, te recomendamos reservar tu lugar cuanto antes para asegurar tu participación.
+La duración total del curso será de mes y medio, con un encuentro semanal. Cada encuentro tendrá una duración de 2 horas, con un descanso de 15 minutos incluido. Todas las sesiones se llevarán a cabo de manera virtual y sincrónica a través de Google Meet. Además, al final del día de cada sesión, se proporcionará la grabación completa para aquellos que no puedan asistir en vivo. **¡Dado que los cupos son limitados, te recomendamos reservar tu lugar cuanto antes!**
 
 ## Costo del Curso
 
-80 USD o el equivalente en la moneda local. Se puede dividir en dos pagos.
+80 USD o el equivalente en la moneda local. Este valor se puede dividir en dos pagos para mayor comodidad.
 
 ## *¿Estás listx para embarcarte en este viaje de autodescubrimiento y conexión con el universo?*
 
