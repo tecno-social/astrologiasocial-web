@@ -44,7 +44,7 @@ En el último tramo de nuestro viaje, realizaremos la síntesis de todo lo apren
 
 ## Modalidad de las actividades
 
-La duración del curso será de 2 horas, con un descanso de 15 minutos incluido. Se llevará a cabo de manera virtual y sincrónica a través de Google Meet, y al final del día se proporcionará la grabación completa de la sesión. Los cupos son limitados, así que asegúrate de reservar tu lugar cuanto antes.
+La duración total del curso será de mes y medio, con un encuentro semanal con un total de 6 sesiones. Cada sesión tendrá una duración de 2 horas, con un descanso de 15 minutos incluido. Todas las sesiones se llevarán a cabo de manera virtual y sincrónica a través de Google Meet. Además, al final del día de cada sesión, se proporcionará la grabación completa para aquellos que no puedan asistir en vivo. Dado que los cupos son limitados, te recomendamos reservar tu lugar cuanto antes para asegurar tu participación.
 
 ## Costo del Curso
 
