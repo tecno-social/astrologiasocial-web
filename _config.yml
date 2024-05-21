@@ -28,9 +28,10 @@ authors:
     avatar: 'assets/images/miembros/franco.jpg'
     email: info@tecno.social
     description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
+    bio: "Senior muy sensual"
   Lina:
     codename: lina
-    name: "Lina Marco"
+    name: Lina
     display_name: Lina
     avatar: 'assets/images/miembros/lina.jpg'
     email: lina@astrologia.social
