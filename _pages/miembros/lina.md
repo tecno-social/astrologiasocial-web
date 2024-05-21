@@ -1,6 +1,6 @@
 ---
 layout: author
-author: Lina Marco
+author: Lina
 permalink: /miembros/lina
 comments: false
 ---
