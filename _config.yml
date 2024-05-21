@@ -28,7 +28,7 @@ authors:
     avatar: 'assets/images/miembros/franco.jpg'
     email: info@tecno.social
     description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
-    bio: "Senior muy sensual"
+    bio: ""
   Lina:
     codename: lina
     name: Lina
@@ -37,7 +37,7 @@ authors:
     email: lina@astrologia.social
     web: https://lina.tecno.social
     description: "Astrología para la claridad no para la perfección"
-    bio: "Nacida en Colombia, con sol y luna en Géminis y ascendente en Escorpio, tiene formación en comunicación, publicidad y marketing. Su relación con la astrología comenzó como un camino de autoconocimiento y sanación. En 2020, estudió en la escuela de astrología La Maletra (Bogotá, Colombia), donde, a través de la escritura íntima, profundizó en el misterio astrológico. Desde entonces, no ha dejado de intentar entender este enigma desde su propia curiosidad y capacidad de investigación. En el 2023, cursó la especialización en Astrología Mundana con Lu Gaitan en Aprende Astrología y actualmente está cursando la formación profesional en el Instituto Superior de Astrología (ISAA) de Argentina. En este tiempo, ha acompañado en la interpretación de mapas natales con un enfoque humanista y psicológico, utilizando también técnicas predictivas tradicionales con una mirada crítica y no determinista. Es cofundadora del proyecto Astrología Social, que apunta a la creación de una plataforma de diálogo y experimentación para albergar proyectos vinculados a diversos estudios del cosmos en relación con la experiencia humana, incluyendo la astrología occidental, pero no limitada a ella."
+    bio: "Algo"
 # Plugins
 plugins:
   - jekyll-paginate
