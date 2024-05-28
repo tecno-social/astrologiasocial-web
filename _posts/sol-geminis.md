@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "Sol en Géminis"
+author: Lina
+categories: [ Géminis, Sol, Mercurio, Aire]
+image: assets/images/posts/2024-04-24-sol-tauro.jpg
+---
+
+*Siempre que las cosas parecen fijas, rígidas y estancadas, Géminis aporta fluidez, movimiento y nuevos comienzos; generando el caos y la confusión que son casi inevitables ante un inicio.*
+
+Mercurio, conocido como Hermes en la cosmología romana, poseía la gracia de su padre, Zeus. Tal vez esa fue la razón de ser considerado el dios de la suerte y la sincronicidad. Era un dios joven, ágil, grácil, con una increíble elocuencia que le otorgó el título de “Mensajero de los Dioses”. Su imagen también ha sido representada con cabeza y pies alados, lo que evoca la agilidad de movimiento y de la mente, habilidades que bien podrían ser usadas para causas nobles u oscuras. Este mismo dios que guiaba los espíritus por el inframundo también era un ser que engañaba para cumplir sus propósitos. Un espíritu indómito, jóven y a la vez ingenuo, amigo y amante de las ninfas, tiene tanto de luz como de oscuridad.
+
+
+**Elemento:** Aire
+**Modalidad:** Mutable
+**Planeta:** Mercurio
+**Equivalencia en el tarot:** Arcano VI "Los Enamorados"
+
+**Arquetipos:** ***Iluminado:** El guía, el mensajero interior.*  ***Neurótico:** El superfluo, el falso*
+
+**Famosos:** Marylin Monroe y Alfonsina Storni 
+
+
+
+
+## Símbolo de Géminis
+
+Representado por dos gémelos, nos hace recordar la forma del Ying y el yang, de la polaridad. la energía de géminis busca hermanar los polos integrarlos, revelar la unidad a través del opuesto y sus múltiples posibilidades.
+
+
+## La personalidad de Géminis
+
+Si un ser humano vibra intensamente en la cualidad donde se registran las necesidades materiales, el deseo de poseer, el gozo sensorial y la búsqueda de seguridad, es posible que sea Tauro. Estas características otorgan rasgos distintivos a su psique, personalidad y comportamiento. A continuación, comentaré algunas de las más destacadas que he observado en amigos y consultantes con el Sol en Tauro.
+
+* En apariencia, pueden transmitir cierta "sencillez", pero en realidad, un individuo taurino enfoca su energía en adquirir para vivir en abundancia y comodidad, asegurando así su estabilidad material. Venus, la diosa del amor, la belleza y la abundancia, transmitió a Tauro su aprecio por el lujo y el disfrute de lo material. Una persona Tauro no duda en invertir en posesiones costosas, con la intención de conservarlas a largo plazo; sin embargo, no son derrochadores ni extravagantes. Por lo tanto, la palabra *"Seguridad"* es inherente a esta energía, que busca estabilidad y permanencia.
+
+La seguridad que quiere Tauro implica una acumulación de lo material en el sentido de lo concreto, esa acumuación puede ser de objetos, premios o experiencias y les detona la necesidad de ocupar más espacio. Inconscientemente significa que entre más pertenencias/cuerpo, más recursos tienen, más espacio ocupan, más fuerte y sólidos son, más seguro se sienten. 
+
+* *El dinero* representa la materialización del intercambio energético: uno entrega trabajo y recibe un pago, que a su vez le permite acumular más recursos mediante la adquisición de bienes materiales y simbólicos. No todos los Tauro son millonarios, pero tarde o temprano, logran obtener dinero y, por lo general, saben conservarlo. Van acumulando recursos gradualmente, agregando valor hasta haber construido un negocio o una profesión estable y consolidada.
+
+Para Tauro, el poder que trae el dinero no pasa desapercibido; de hecho, disfruta acumularlo. Sin embargo, no lo busca para ejercer dominio sobre otros, como lo haría Escorpio. Más bien, busca una sensación de seguridad que una posición económica sólida proporciona. Una vez que se siente seguro, Tauro prefiere hacer una siestecita, comer algo rico y respirar aire fresco. Valora tanto sus recursos como a su familia, sin ser tacaño. Tauro sabe compartir y se muestra generoso con los verdaderos amigos que enfrentan dificultades.
+
+* En el sistema taurino, tener un *lugar propio* es de suma importancia. Este hecho lo he observado en los Tauro que conozco; están dispuestos a hacer cualquier cosa por ser propietarios de su casa, y algún día lo lograrán. Y cuando lo hagan, será lo más grande y cómodo posible, ya que la austeridad no es una característica común en Tauro. Sin embargo, un detalle crucial en el hogar de un Tauro es el contacto con su elemento, la tierra. Es probable que deseen contar con un espacio verde, incluso con huerta y/o jardín. Si, por alguna razón, un Tauro se ve obligado a vivir en un apartamento, es muy probable que tenga plantas en la ventana o el balcón, e incluso podría tener la paciencia y habilidad necesarias para cuidar de una huerta vertical. Todo sugiere que disfrutan de su hogar, son personas hogareñas y les gusta relajarse en un ambiente cómodo y familiar. ¡Ay de aquel que se atreva a perturbar la paz del hogar de un Tauro!  
+
+* Las personas taurinas poseen una notable habilidad para sintonizar con los procesos orgánicos de la naturaleza, lo que les confiere una particular paciencia. Sin embargo, esta cualidad tiene su contraparte: el principal desafío de Tauro radica en enfrentar situaciones de cambio, las cuales pueden resultarles sumamente estresantes. Frente a nuevos desafíos e ideas, la acción necesaria para abordarlos puede desequilibrarlos, llevándolos a quedarse estancados en su zona de confort. A menos que cuenten con la Luna o el ascendente en Géminis, Sagitario o Acuario, lo que les otorgaría cierta flexibilidad.
+
+
+## Las relaciones en un sistema taurino
+
+En lo social y en sus relaciones, Tauro se distingue por su actitud fuerte y silenciosa. Hasta que uno no llega a conocerlo a fondo, es posible que se exprese con pocas palabras, a menos que esté influenciado por Géminis, Aries o Sagitario, lo que podría hacerlo más charlatán y ágil. Además, la energía taurina, al no ser tan comunicativa, no busca activamente a otras personas; prefiere atraerlas hacia sí misma. Basta con observar las leyes de la naturaleza para comprender cómo se activan las emociones taurinas, tanto en cuestiones de amor como de amistad. La pasividad es su comportamiento típico. Tauro prefiere recibir hospitalariamente en su casa en lugar de molestarse en ir de visita. Tampoco le interesa ser el más popular, debido al esfuerzo que eso conlleva. Si alguien lo necesita, Tauro estará allí. Su afecto y capacidad para el amor son grandes, duraderos y estables.
+
+En general, los Tauro son personas muy tranquilas. No suelen pasar por encima de nadie; respetan el espacio de los demás y esperan lo mismo a cambio. Simplemente desean no ser molestados, y con eso están satisfechos. Por lo general, un Tauro es firme y no se altera con facilidad, incluso puede tolerar agresiones de otros sin moverse de su lugar.
+
+Sin embargo, si se le ejerce demasiada presión, se mostrará obstinado en su posición. Es capaz de aguantar durante meses o años con gran dominio y control, haciendo caso omiso del conflicto que lo rodea. En este sentido, todo será cuestión de tiempo para que el otro ceda por agotamiento.
+
+No obstante, cualquier día una pequeña gota puede derramar el vaso y superar su límite. En ese momento, aparecerá una furia violenta e incontenible. El majestuoso toro bufará, golpeará la tierra, entornará los ojos y se lanzará a la carga para demolerlo todo.
+
+## El lado oscuro de Tauro
+
+Las personas de Tauro suelen ser "posesivas" porque retienen las emociones. Son muy sensibles y conservan las marcas emocionales por mucho tiempo, sin borrarlas fácilmente. Este sistema es lento pero posee una enorme resistencia. Tienen la tendencia a quedarse rumiando las sensaciones.
+
+Siente apego hacia las personas cercanas, a las que inconscientemente percibe como parte de sí mismo. Es un tipo de psique que tiende a atraer todo hacia sí, un movimiento centrípeto que busca incorporar la energía para su propia vitalidad. Por lo tanto, la separación o distancia de un ser querido no es fácil de aceptar para la psique taurina, sino que se percibe como amenazante. 
+
+Por otro lado, la cualidad tranquila y relajada puede conferirles rasgos de vagancia. Pueden optar por la contemplación y la observación de todo lo que denote estabilidad. Sin embargo, sin movimiento no hay generación. Poco a poco, este sistema tendrá que reconciliarse con la soltura que necesita el movimiento y con el equilibrio que implica dejar ir, para evitar que lo contenido se deteriore.
+
+
+## Maduración del sol en Tauro
+
+*Madurar el sol significa llevar la energía de mi signo al máximo brillo, a nuestro máximo potencial y el sol como centro de nuestro sistema nos va a proporcionar una sensación de vida y de sentido.* 
+
+Para madurar el sol en Tauro es necesaria la integración de su opuesto complementario, Escorpio, esto sería como hablar de una intensa - pasividad. Que tienda a ser plasmadora de lo pasivo, una gozosa y placentera expresión de voluntad y deseo. Activando una dimensión masculina en el centro de lo femenino. 
+
+Básicamente, estamos hablando de la comprensión de la famosa ley de la atracción que rige las fuerzas magnéticas. Este principio de coherencia construye las formas en las que el alma se manifiesta. Esta ley produce la estabilidad que se demuestra en la persistencia de la forma durante todo su ciclo de existencia y concierne a la interrelación entre lo que construye la forma y la forma misma, entre el polo positivo y negativo, entre el espíritu y la materia, entre el yo y el no yo, entre el macho y la hembra y así entre los opuestos.
+
+Escorpio es un principio que logra unir opuestos y que habilita, mediante el proceso de muerte y transformación, despertar la potencia y la creatividad dormidas. La integración de esta energía le permitirá a Tauro desechar aquellas cosas caducas o sin vida que están ocupando espacio en su sistema, para dar lugar y atraer aquellas que le darán al final mayor potencia y seguridad.
+
+Tauro es el signo de la generación, representando la cualidad de receptividad en su forma más creativa y fecunda. La vida que fluye a través de Tauro necesita apropiarse del deseo y su potencia para dar lugar a la creatividad y así dar nacimiento a un nuevo ser o identidad. Una función principal de este signo es contener la energía del yin y el yang, dándoles forma en el mundo de la experiencia sensorial, llevando la semilla del mundo trascendental a través del cual el misticismo y la ciencia, lo interno y externo, el espíritu y la materia, se unen en un solo mundo. Lo femenino es capaz de resolver el conflicto entre los polos a través del amor.
+
+Disfrutar sin apegos implica no creerse con el derecho de apropiarse de las personas. El disfrute personal está directamente conectado con el goce de participar en un proceso transformador y regenerativo que trasciende los propósitos estrictamente individuales.
+
+
+## Famosos Tauro
+
+### Salvador Dalí
+Gran exponente del arte surrealista, Salvador Dalí es reconocido por su personalidad excéntrica y difícil, siendo calificado como narcisista. En su carta natal se observa un stellium de su Sol con Marte y Mercurio en la casa 11, lo que lo convierte en un personaje ampliamente reconocido, amado y odiado en los círculos intelectuales en los que se movía, destacando por su presencia imponente que nunca pasaba desapercibida. Es notable el aspecto de Saturno hacia su Sol, ubicado en Acuario y en la casa 8, ya que su obra surrealista exploraba en el inconsciente, representando tanto los instintos y miserias humanas como la grandeza de la belleza y el amor. Algunas de sus obras presentan alimentos y elementos comestibles, lo que parece reflejar cómo su obra se muestra en si misma comestible y nutrida de cada pulsación de vida.
+
+Dalí también es conocido por su relación de amor y odio con Picasso, quien coincidentemente era un Sol en Escorpio. Se dice que en una ocasión, el impredecible Dalí preparó una cena con sus propios excrementos para Picasso, demostrando una enorme pasionalidad y animosidad hacia él.
+
+### Adele
+Esta cantante, compositora y pianista de sol en Tauro, cuyo brillo radica en su potente voz y sus profundas letras. Con una unión del Sol y Júpiter en la casa 11, ha obtenido una enorme aceptación de su estilo musical y su propuesta artística en todo el mundo, rompiendo récords de ventas, ganando diversos premios y obteniendo el amor y la admiración de todos. Además, el aspecto que Plutón en Escorpio hace desde su casa 5, la vocación, le otorga no solo creatividad sino también una conexión íntima y emocional con su público, atrayéndolos profundamente hacia ella.
+
+
+## Físico y salud de Tauro
+
+Las personas Tauro tienden a ser robustas, firmes y bien plantadas, con una mirada serena y fija. Se mueven con gracia e indolencia, sugiriendo una fuerza oculta. Son conocidas por su sensualidad y magnetismo, con cuerpos curvos y receptivos que combinan una cualidad femenina con una fortaleza representada por el Toro. Sus hombros, pecho y espalda suelen ser anchos y fuertes, independientemente de su estatura. Aunque también hay Tauro delgados, estos suelen tener una presencia arraigada en la tierra.
+
+Por ejemplo, Adele es Tauro y tiene un cuerpo curvilíneo y robusto. Otra característica física destacada es el cuello, que suele ser ancho y transmite estabilidad, con la cabeza bien asentada en el cuerpo y conectada con el mundo concreto. La garganta y el arte de la voz y el canto están relacionados con Tauro.
+
+**En cuanto a la salud,** Tauro generalmente goza de buena salud y fortaleza. Sin embargo, cuando enferman, pueden tardar en recuperarse debido a su tendencia a no seguir las recomendaciones médicas y a su pesimismo. Son susceptibles a infecciones y accidentes en la garganta, cuello, piernas, tobillos, órganos reproductores, espalda y columna vertebral. Los resfriados suelen provocar dolores de garganta, y el exceso de peso puede afectar al corazón y causar problemas circulatorios, debilidad en los tobillos y venas varicosas. Aquellos que evitan la obesidad, el sedentarismo y las infecciones renales pueden disfrutar de mejor salud que otros.
+
+
+## ¿Quieres saber qué tan madura está la energía de Tauro en tu vida? 
+Responde las siguientes preguntas con SÍ o NO: 
+
+1. ¿Para ti lo único que importa es estar bien?
+2. ¿La mayor parte de tu tiempo la dedicas a obligaciones y no te queda energía para lo que te gustaría hacer realmente?
+3. ¿Hay que pasárselo bien y no hacer caso a los malos momentos?
+4. ¿Crees que todo se consigue con mucho esfuerzo?
+5. Para que las cosas salgan bien ¿tienes que estar en todo?
+6. ¿Eres muy exigente?
+7. ¿Hace mucho que no te ríes?
+8. ¿Empiezas muchas cosas y no las acabas?
+9. ¿Te gusta criticar?
+10. ¿Te conformas con lo que tienes?
+11. ¿Necesitas siempre más de los demás?
+
+**Entre 0 y 3 «sí».** La energía de Tauro no está bloqueada. Es un buen momento para que te dediques a crear un jardín y tu lugar en la tierra.
+
+**Entre 4 y 7 «sí».** La energía de Tauro está un poco bloqueada. Necesitas observarte con calma. ¿Te estás tomando las cosas demasiado a pecho? ¿Puedes divertirte más con lo que haces? ¿Cómo?
+
+**Entre 8 y 11 «sí».** La energía de Tauro parece estar completamente bloqueada. Un toro puede llorar y reír en su casa. ¿También es así para ti? Un toro debería tener un lugar cerca de la tierra. ¿Cómo es tu casa? Sería beneficioso que tuvieras al menos una planta, algo que inspire vida. Si ya las tienes, deberías dedicar más tiempo a cuidarlas.
+
+
+## Fuentes
+
+* Goodman, Linda. (2021). Los signos del zodiaco y su carácter. Kepler.
+* MacCarthy, Juliana. 2018. Somos Estrellas. Editorial Koan. 
+* Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
+* Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
+* Astro Bio Salvador Dalí [Link](https://www.astro.com/astro-databank/Dali,_Salvador)
+* Astro Bio Adele [Link](https://www.astro.com/astro-databank/Adele)
