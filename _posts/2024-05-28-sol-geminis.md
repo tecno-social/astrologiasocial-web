@@ -42,14 +42,14 @@ Por lo general, en los cumpleaños y fiestas, invitan a grupos de diversos estil
 
 Géminis tiene una enorme capacidad de apertura que implica no dejar nada afuera. No cierra el círculo de amigos, las experiencias, lo que aprende ni su corazón. En su naturaleza indagadora e impaciente, busca un ideal, y su principal problema consiste en saber cual es. Podría ser cualquier cosa, ya que su imaginación no conoce límites. Mercurio siempre lleva a Géminis más y más adelante, con la promesa de algo un poco mejor. Las estrellas son más brillantes en otras latitudes. ¿Qué es lo que busca? un misterio, aún sin descubrir, dentro de sí mismo. Géminis es el explorador de la mente.
 
-## Las relaciones en un sistema geminiano
+### Las relaciones en un sistema geminiano
 
 A modo de prejuicio se cree que las personas geminianas no son profundas ni intensas. A ellos le sale más un pensamiento asociativo que tiene una tendencia a pensar demasiado, en ese sentido el mundo emocional tiende a quedar disociado, es alguien que no está muy conectado con el registro del sentir. Porque es un sistema que está hacia afuera, hacia la curiosidad, hacia lo que pasa con los otros, en todo caso, toma las emociones como un dato más. A pesar de que es mucha la gente que le rodea, sus emociones más profundas las comparte únicamente con su único compañero constante: el gemelo que lleva dentro de sí. El aire es su elemento y su hogar. Géminis es ajeno a la tierra. hasta que se detiene, y espera, y aprende a escuchar los latidos de su propio corazón.
 
 Les puede faltar compromiso en las relaciones, para no aburrise algunos pueden llegar a mantener multiples relaciones, no tanto por una necesidad sexual (Depende del caso) sino más por una necesidad de atención o autoafirmación. Pero cuando un Geminiano esta conectado con alguien a través del amor, sorprenderá el grado de compromiso al que puede llegar y lo dispuesto que estará a vivir en libertad y armonia. 
 
 
-## El lado oscuro de Géminis
+### El lado oscuro de Géminis
 
 La mutabilidad propia de Géminis los lleva a cambiar de ropa, de trabajo, de amor o de residencia con la misma rapidez con que cambian de opinión. Tienden a aburrirse muy rápido en trabajos repetitivos o extensos, lo que también explica su conocida habilidad multitasking, aunque esto no siempre implique calidad ni profundidad. En general, los ambientes muy estructurados tienden a hacer sentir a estas personas enjauladas; por eso tampoco son los más puntuales, y no tanto por olvido, sino porque en el camino iniciaron otras cosas o mantuvieron otras conversaciones.
 
@@ -58,7 +58,7 @@ También pueden ser impacientes; hablan rápido y escuchan con prisa, les cuesta
 Por otro lado, es conocido por acomodar la información para hacerla más interesante o atractiva. Esto no los hace de inmediato unos maestros del engaño pero pueden algunos usar sus habiidades de negociación y palabra para conseguir algo.  
 
 
-## Maduración del sol en Géminis
+### Maduración del sol en Géminis
 
 *Madurar el sol significa llevar la energía de mi signo al máximo brillo, a nuestro máximo potencial y el sol como centro de nuestro sistema nos va a proporcionar una sensación de vida y de sentido.* 
 
