@@ -25,14 +25,14 @@ Mercurio, conocido como Hermes en la cosmología romana, poseía la gracia de su
 
 ## Símbolo de Géminis
 
-Representado por dos gémelos, nos hace recordar la forma del Ying y el yang, de la polaridad. Géminis busca hermanar los polos e integrarlos, revelando la unidad a través del opuesto y sus múltiples posibilidades.
+Representado por dos gémelos, recuerda la forma del Ying y el yang, la polaridad. Géminis busca hermanar los polos e integrarlos, revelando la unidad a través del opuesto y sus múltiples posibilidades.
 
 
 ## La energía de Géminis
 
 Géminis es el tercer signo de la rueda zodiacal. La energía proviene de la cualidad material en Tauro y antes de eso era energía pura en Aries. La energía y la materia son una misma cosa pero a diferentes velocidades, y se podría percibir como una secuencia (sin serlo). Primero la energía, segundo la masa y tercero la relación entre ambas.
 
-Según Jung, la energía en sí no es buena ni mala, no es útil o dañina, valiosa o no valiosa, es indiferente, igual que la forma. Pero la forma da a la energía su cualidad de valor, lo que nos recuerda al signo de Tauro. En Géminis, a través de las relaciones y asociaciones, se atribuye el tipo de valor. El estímulo adaptativo llega al entendimiento de que la realidad posee diferencias de cargas magnéticas, cargas positivas y negativas; todo en la vida es la relación entre estas cargas. Géminis es lo creativo del vínculo de la relación entre dos diferencias, permitiendo que se multipliquen en diferentes formas. En el plano de la creatividad, necesitamos dos células diferenciadas que se van a atraer y combinar, generando todas las múltiples combinaciones de cargas diferenciales en el universo. Así, Géminis percibe la realidad como un juego, una dinámica, la posibilidad de hacer todas las combinaciones posibles.
+Según Jung, la energía en sí no es buena ni mala, no es útil o dañina, valiosa o no valiosa, es indiferente, igual que la forma. Pero la forma da a la energía su cualidad de valor (Tauro). En Géminis, a través de las relaciones y asociaciones, se atribuye el tipo de valor. El estímulo adaptativo llega al entendimiento de que la realidad posee diferencias de cargas magnéticas, cargas positivas y negativas; todo en la vida es la relación entre estas cargas. Géminis es lo creativo del vínculo de la relación entre dos diferencias, permitiendo que se multipliquen en diferentes formas. En el plano de la creatividad, necesitamos dos células diferenciadas que se van a atraer y combinar, generando todas las múltiples combinaciones de cargas diferenciales en el universo. Así, Géminis percibe la realidad como un juego, una dinámica, la posibilidad de hacer todas las combinaciones posibles.
 
 ## La personalidad de Géminis
 
