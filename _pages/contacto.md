@@ -8,7 +8,7 @@ imageshadow: true
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">
-<p class="mb-4">Envíanos tu correo usando el siguiente formulario o escribiendo a <b><a href="mailto:info@astroologia.social">info@astroologia.social</a></b>. ¡Responderemos lo mas pronto posible!</p>
+<p class="mb-4">Envíanos tu correo usando el siguiente formulario o escribiendo a <b><a href="mailto:info@astrologia.social">info@astrologia.social</a></b>. ¡Responderemos lo más pronto posible!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Nombre*" required>
