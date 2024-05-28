@@ -25,100 +25,88 @@ Mercurio, conocido como Hermes en la cosmología romana, poseía la gracia de su
 
 ## Símbolo de Géminis
 
-Representado por dos gémelos, nos hace recordar la forma del Ying y el yang, de la polaridad. la energía de géminis busca hermanar los polos integrarlos, revelar la unidad a través del opuesto y sus múltiples posibilidades.
+Representado por dos gémelos, nos hace recordar la forma del Ying y el yang, de la polaridad. Géminis busca hermanar los polos e integrarlos, revelando la unidad a través del opuesto y sus múltiples posibilidades.
 
+
+## La energía de Géminis
+
+Géminis es el tercer signo de la rueda zodiacal. La energía proviene de la cualidad material en Tauro y antes de eso era energía pura en Aries. La energía y la materia son una misma cosa pero a diferentes velocidades, y se podría percibir como una secuencia (sin serlo). Primero la energía, segundo la masa y tercero la relación entre ambas.
+
+Según Jung, la energía en sí no es buena ni mala, no es útil o dañina, valiosa o no valiosa, es indiferente, igual que la forma. Pero la forma da a la energía su cualidad de valor, lo que nos recuerda al signo de Tauro. En Géminis, a través de las relaciones y asociaciones, se atribuye el tipo de valor. El estímulo adaptativo llega al entendimiento de que la realidad posee diferencias de cargas magnéticas, cargas positivas y negativas; todo en la vida es la relación entre estas cargas. Géminis es lo creativo del vínculo de la relación entre dos diferencias, permitiendo que se multipliquen en diferentes formas. En el plano de la creatividad, necesitamos dos células diferenciadas que se van a atraer y combinar, generando todas las múltiples combinaciones de cargas diferenciales en el universo. Así, Géminis percibe la realidad como un juego, una dinámica, la posibilidad de hacer todas las combinaciones posibles.
 
 ## La personalidad de Géminis
 
-Si un ser humano vibra intensamente en la cualidad donde se registran las necesidades materiales, el deseo de poseer, el gozo sensorial y la búsqueda de seguridad, es posible que sea Tauro. Estas características otorgan rasgos distintivos a su psique, personalidad y comportamiento. A continuación, comentaré algunas de las más destacadas que he observado en amigos y consultantes con el Sol en Tauro.
+La persona geminiana necesariamente tiene un psiquismo muy dirigido hacia el exterior, con muchas ganas de entender todas las diferencias que se presentan. Muy sociable, amistosa, y amiguera, posee una gran capacidad para dialogar con personas de toda índole, sin discriminar. Es una persona simpática, no muy seria, ni taciturna ni extrovertida, sino hipervincular y muy asociativa. Son aquellas personas con agendas repletas de contactos; quieren estar en todo y enterarse de todo. Tienen una gran capacidad de hacer de puente y conectar, una cualidad fraterna y hermanadora, ligada a la imagen de los gemelos.
 
-* En apariencia, pueden transmitir cierta "sencillez", pero en realidad, un individuo taurino enfoca su energía en adquirir para vivir en abundancia y comodidad, asegurando así su estabilidad material. Venus, la diosa del amor, la belleza y la abundancia, transmitió a Tauro su aprecio por el lujo y el disfrute de lo material. Una persona Tauro no duda en invertir en posesiones costosas, con la intención de conservarlas a largo plazo; sin embargo, no son derrochadores ni extravagantes. Por lo tanto, la palabra *"Seguridad"* es inherente a esta energía, que busca estabilidad y permanencia.
+Por lo general, en los cumpleaños y fiestas, invitan a grupos de diversos estilos. que seguramente serán personas que conocen en diferentes contextos ya que están interesados en saber un poco de las múltiples disciplinas. Quieren saber de todo un poco, desde lo más complejo hasta lo más frívolo, funcionando como una enciclopedia de datos.  Lo que demuestra su apertura tanto social como intelectual. No suelen especializarse en algo en particular, a menos que tengan una influencia de Escorpio o Sagitario. La profundización constituye su mayor reto ya que esta energía abre una lógica de árbol, con ramificaciones que conectan diferentes temas.
 
-La seguridad que quiere Tauro implica una acumulación de lo material en el sentido de lo concreto, esa acumuación puede ser de objetos, premios o experiencias y les detona la necesidad de ocupar más espacio. Inconscientemente significa que entre más pertenencias/cuerpo, más recursos tienen, más espacio ocupan, más fuerte y sólidos son, más seguro se sienten. 
+Géminis tiene una enorme capacidad de apertura que implica no dejar nada afuera. No cierra el círculo de amigos, las experiencias, lo que aprende ni su corazón. En su naturaleza indagadora e impaciente, busca un ideal, y su principal problema consiste en saber cual es. Podría ser cualquier cosa, ya que su imaginación no conoce límites. Mercurio siempre lleva a Géminis más y más adelante, con la promesa de algo siempre un poco mejor. Las estrellas son más brillantes en otras latitudes. ¿Qué es lo que busca? un misterio, aún sin descubrir, dentro de sí mismo. Géminis es el explorador de la mente.
 
-* *El dinero* representa la materialización del intercambio energético: uno entrega trabajo y recibe un pago, que a su vez le permite acumular más recursos mediante la adquisición de bienes materiales y simbólicos. No todos los Tauro son millonarios, pero tarde o temprano, logran obtener dinero y, por lo general, saben conservarlo. Van acumulando recursos gradualmente, agregando valor hasta haber construido un negocio o una profesión estable y consolidada.
+## Las relaciones en un sistema geminiano
 
-Para Tauro, el poder que trae el dinero no pasa desapercibido; de hecho, disfruta acumularlo. Sin embargo, no lo busca para ejercer dominio sobre otros, como lo haría Escorpio. Más bien, busca una sensación de seguridad que una posición económica sólida proporciona. Una vez que se siente seguro, Tauro prefiere hacer una siestecita, comer algo rico y respirar aire fresco. Valora tanto sus recursos como a su familia, sin ser tacaño. Tauro sabe compartir y se muestra generoso con los verdaderos amigos que enfrentan dificultades.
-
-* En el sistema taurino, tener un *lugar propio* es de suma importancia. Este hecho lo he observado en los Tauro que conozco; están dispuestos a hacer cualquier cosa por ser propietarios de su casa, y algún día lo lograrán. Y cuando lo hagan, será lo más grande y cómodo posible, ya que la austeridad no es una característica común en Tauro. Sin embargo, un detalle crucial en el hogar de un Tauro es el contacto con su elemento, la tierra. Es probable que deseen contar con un espacio verde, incluso con huerta y/o jardín. Si, por alguna razón, un Tauro se ve obligado a vivir en un apartamento, es muy probable que tenga plantas en la ventana o el balcón, e incluso podría tener la paciencia y habilidad necesarias para cuidar de una huerta vertical. Todo sugiere que disfrutan de su hogar, son personas hogareñas y les gusta relajarse en un ambiente cómodo y familiar. ¡Ay de aquel que se atreva a perturbar la paz del hogar de un Tauro!  
-
-* Las personas taurinas poseen una notable habilidad para sintonizar con los procesos orgánicos de la naturaleza, lo que les confiere una particular paciencia. Sin embargo, esta cualidad tiene su contraparte: el principal desafío de Tauro radica en enfrentar situaciones de cambio, las cuales pueden resultarles sumamente estresantes. Frente a nuevos desafíos e ideas, la acción necesaria para abordarlos puede desequilibrarlos, llevándolos a quedarse estancados en su zona de confort. A menos que cuenten con la Luna o el ascendente en Géminis, Sagitario o Acuario, lo que les otorgaría cierta flexibilidad.
+A modo de prejuicio se cree que las personas geminianas no son profundas ni intensas. A ellos le sale más un pensamiento asociativo que tiene una tendencia a pensar demasiado, en ese sentido el mundo emocional tiende a quedar disociado, es alguien que no está muy conectado con el registro del sentir. Porque es un sistema que está hacia afuera, hacia la curiosidad, hacia lo que pasa con los otros, en todo caso, toma las emociones como un dato más. A pesar de que es mucha la gente que le rodea, sus emociones más profundas las comparte únicamente con su único compañero constante: el gemelo que lleva dentro de sí. El aire es su elemento y su hogar. Géminis es ajeno a la tierra. hasta que se detiene, y espera, y aprende a escuchar los latidos de su propio corazón.
 
 
-## Las relaciones en un sistema taurino
+## El lado oscuro de Géminis
 
-En lo social y en sus relaciones, Tauro se distingue por su actitud fuerte y silenciosa. Hasta que uno no llega a conocerlo a fondo, es posible que se exprese con pocas palabras, a menos que esté influenciado por Géminis, Aries o Sagitario, lo que podría hacerlo más charlatán y ágil. Además, la energía taurina, al no ser tan comunicativa, no busca activamente a otras personas; prefiere atraerlas hacia sí misma. Basta con observar las leyes de la naturaleza para comprender cómo se activan las emociones taurinas, tanto en cuestiones de amor como de amistad. La pasividad es su comportamiento típico. Tauro prefiere recibir hospitalariamente en su casa en lugar de molestarse en ir de visita. Tampoco le interesa ser el más popular, debido al esfuerzo que eso conlleva. Si alguien lo necesita, Tauro estará allí. Su afecto y capacidad para el amor son grandes, duraderos y estables.
+La mutabilidad propia de Géminis los lleva a cambiar de ropa, de trabajo, de amor o de residencia con la misma rapidez con que cambian de opinión. Tienden a aburrirse muy rápido en trabajos repetitivos o extensos, lo que también explica su conocida habilidad multitasking, aunque esto no siempre implique calidad ni profundidad. En general, los ambientes muy estructurados tienden a hacer sentir a estas personas enjauladas; por eso tampoco son los más puntuales, y no tanto por olvido, sino porque en el camino iniciaron otras cosas o mantuvieron otras conversaciones.
 
-En general, los Tauro son personas muy tranquilas. No suelen pasar por encima de nadie; respetan el espacio de los demás y esperan lo mismo a cambio. Simplemente desean no ser molestados, y con eso están satisfechos. Por lo general, un Tauro es firme y no se altera con facilidad, incluso puede tolerar agresiones de otros sin moverse de su lugar.
-
-Sin embargo, si se le ejerce demasiada presión, se mostrará obstinado en su posición. Es capaz de aguantar durante meses o años con gran dominio y control, haciendo caso omiso del conflicto que lo rodea. En este sentido, todo será cuestión de tiempo para que el otro ceda por agotamiento.
-
-No obstante, cualquier día una pequeña gota puede derramar el vaso y superar su límite. En ese momento, aparecerá una furia violenta e incontenible. El majestuoso toro bufará, golpeará la tierra, entornará los ojos y se lanzará a la carga para demolerlo todo.
-
-## El lado oscuro de Tauro
-
-Las personas de Tauro suelen ser "posesivas" porque retienen las emociones. Son muy sensibles y conservan las marcas emocionales por mucho tiempo, sin borrarlas fácilmente. Este sistema es lento pero posee una enorme resistencia. Tienen la tendencia a quedarse rumiando las sensaciones.
-
-Siente apego hacia las personas cercanas, a las que inconscientemente percibe como parte de sí mismo. Es un tipo de psique que tiende a atraer todo hacia sí, un movimiento centrípeto que busca incorporar la energía para su propia vitalidad. Por lo tanto, la separación o distancia de un ser querido no es fácil de aceptar para la psique taurina, sino que se percibe como amenazante. 
-
-Por otro lado, la cualidad tranquila y relajada puede conferirles rasgos de vagancia. Pueden optar por la contemplación y la observación de todo lo que denote estabilidad. Sin embargo, sin movimiento no hay generación. Poco a poco, este sistema tendrá que reconciliarse con la soltura que necesita el movimiento y con el equilibrio que implica dejar ir, para evitar que lo contenido se deteriore.
+A pesar de ello, también pueden ser impacientes; hablan rápido y escuchan con prisa, les cuesta sostener conversaciones con personas que no llegan al punto o que repiten mucho. Tienen dificultades para entenderse con personas muy conservadoras y estrictas. Géminis exhibe una cierta cualidad ansiosa y una inmediata y amistosa simpatía. Puede ser ácidamente satírico, su humor es brillante, tiene tacto, diplomacia y destreza, pero le falta paciencia y constancia. Está demasiado dispuesto a deshacerse de algo viejo y precioso por algo nuevo y sin probar, de lo que suele arrepentirse.
 
 
-## Maduración del sol en Tauro
+## Maduración del sol en Géminis
 
 *Madurar el sol significa llevar la energía de mi signo al máximo brillo, a nuestro máximo potencial y el sol como centro de nuestro sistema nos va a proporcionar una sensación de vida y de sentido.* 
 
-Para madurar el sol en Tauro es necesaria la integración de su opuesto complementario, Escorpio, esto sería como hablar de una intensa - pasividad. Que tienda a ser plasmadora de lo pasivo, una gozosa y placentera expresión de voluntad y deseo. Activando una dimensión masculina en el centro de lo femenino. 
+La inocencia de la vinculación geminiana es la que habilita el juego y la curiosidad, en principio es una energía que va a la experiencia con los otros sin juzgar. Esto no siempre será una experiencia luminosa y el resultado de ello le dará un mayor contacto con su interior emocional y por tanto mayor profundidad. El paso por la oscuridad, el dolor y la decepción les da madurez y los hace crecer, pero solo queda completo el ciclo cuando encuentran el sentido de esta experiencia sin rechazarla o dejarla atrás. Esto les da la gracia del padre, Júpiter. 
 
-Básicamente, estamos hablando de la comprensión de la famosa ley de la atracción que rige las fuerzas magnéticas. Este principio de coherencia construye las formas en las que el alma se manifiesta. Esta ley produce la estabilidad que se demuestra en la persistencia de la forma durante todo su ciclo de existencia y concierne a la interrelación entre lo que construye la forma y la forma misma, entre el polo positivo y negativo, entre el espíritu y la materia, entre el yo y el no yo, entre el macho y la hembra y así entre los opuestos.
+Dentro de la multiplicidad de experiencias y caminos que Géminis siempre tiene por delante, tendrá la oportunidad de escoger, sin exigirse demasiado, caminos únicos no necesariamente muy apegados a lo material como si a lo intelectual. Géminis en contacto con libra tiene una alta vibración, en el sentido que de aquel vínculo que convoca a lo desconocido tiene el potencial de ser, para un Géminis, el camino que conduce a la transformación, eso sí siempre que ese vínculo está unido por el amor como fuerza. Esto no se trata de un amor que confirme su identidad sino que por lo contrario lo transforme, conduciendo a su naturaleza más profunda. 
 
-Escorpio es un principio que logra unir opuestos y que habilita, mediante el proceso de muerte y transformación, despertar la potencia y la creatividad dormidas. La integración de esta energía le permitirá a Tauro desechar aquellas cosas caducas o sin vida que están ocupando espacio en su sistema, para dar lugar y atraer aquellas que le darán al final mayor potencia y seguridad.
-
-Tauro es el signo de la generación, representando la cualidad de receptividad en su forma más creativa y fecunda. La vida que fluye a través de Tauro necesita apropiarse del deseo y su potencia para dar lugar a la creatividad y así dar nacimiento a un nuevo ser o identidad. Una función principal de este signo es contener la energía del yin y el yang, dándoles forma en el mundo de la experiencia sensorial, llevando la semilla del mundo trascendental a través del cual el misticismo y la ciencia, lo interno y externo, el espíritu y la materia, se unen en un solo mundo. Lo femenino es capaz de resolver el conflicto entre los polos a través del amor.
-
-Disfrutar sin apegos implica no creerse con el derecho de apropiarse de las personas. El disfrute personal está directamente conectado con el goce de participar en un proceso transformador y regenerativo que trasciende los propósitos estrictamente individuales.
+Géminis elevado es el amor como inteligencia y lo podemos ver representado en la figura y enseñanzas de Cristo, por ser el puente entre el cielo y la tierra.  El mensajero de Dios. Opera entre la dimensión humana y la espiritual. La vibración de Géminis es profundamente amorosa porque es el primer punto vincular que encontramos y nos dice que el universo está hecho de vínculos. Y el vínculo sublimado es el amor más allá de la forma. 
 
 
-## Famosos Tauro
+## Famosos Géminis
 
-### Salvador Dalí
-Gran exponente del arte surrealista, Salvador Dalí es reconocido por su personalidad excéntrica y difícil, siendo calificado como narcisista. En su carta natal se observa un stellium de su Sol con Marte y Mercurio en la casa 11, lo que lo convierte en un personaje ampliamente reconocido, amado y odiado en los círculos intelectuales en los que se movía, destacando por su presencia imponente que nunca pasaba desapercibida. Es notable el aspecto de Saturno hacia su Sol, ubicado en Acuario y en la casa 8, ya que su obra surrealista exploraba en el inconsciente, representando tanto los instintos y miserias humanas como la grandeza de la belleza y el amor. Algunas de sus obras presentan alimentos y elementos comestibles, lo que parece reflejar cómo su obra se muestra en si misma comestible y nutrida de cada pulsación de vida.
+### Marilin Monroe. 1 June 1926
+Su verdadero nombre fue Norma Jeane Mortenson. Actriz, modelo y cantante estadounidense, se convirtió en el mayor sex symbol de la historia. Protagonizó varias películas de éxito comercial durante los años cincuenta y principios de los sesenta. Fue objeto de un exuberante calendario de desnudos, fotografiado el 27 de mayo de 1949. Con Sol y Mercurio cazimi en Géminis en la casa X, y Tauro en la cúspide, tenía una fuerte capacidad para ser reconocida no solo por su belleza, sino también por una cierta ingenuidad y por convertirse en una imagen popular y muy comercial que impuso un modelo de belleza. En lo personal, Jeane era una ávida lectora, con gran simpatía y carisma, lo que la llevó a relacionarse con personas de mucho poder político e intelectual. Se casó en tres ocasiones y tuvo amistades íntimas de todo tipo: políticos, escritores y deportistas. Estas vinculaciones le permitieron expansión y reconocimiento. 
 
-Dalí también es conocido por su relación de amor y odio con Picasso, quien coincidentemente era un Sol en Escorpio. Se dice que en una ocasión, el impredecible Dalí preparó una cena con sus propios excrementos para Picasso, demostrando una enorme pasionalidad y animosidad hacia él.
-
-### Adele
-Esta cantante, compositora y pianista de sol en Tauro, cuyo brillo radica en su potente voz y sus profundas letras. Con una unión del Sol y Júpiter en la casa 11, ha obtenido una enorme aceptación de su estilo musical y su propuesta artística en todo el mundo, rompiendo récords de ventas, ganando diversos premios y obteniendo el amor y la admiración de todos. Además, el aspecto que Plutón en Escorpio hace desde su casa 5, la vocación, le otorga no solo creatividad sino también una conexión íntima y emocional con su público, atrayéndolos profundamente hacia ella.
+Fue una mujer que exploró la sensualidad y la sexualidad con apertura y riesgo para la época. Cambió muchas veces de parecer en torno a los personajes que interpretaba, ya que el personaje de Marilyn no siempre la dejaba en un lugar deseable para ella; parece que en parte lo sufría y, sin embargo, lo tenía adherido a la piel. Las causas de su muerte no son del todo claras; oficialmente fue suicidio, pero su relación con los Kennedy hace pensar en un posible asesinato. Su imagen femenina, siempre joven y bella, es un ícono inmortal de nuestros tiempos.
 
 
-## Físico y salud de Tauro
+### Alfonsina Storni. 29 May 1892
 
-Las personas Tauro tienden a ser robustas, firmes y bien plantadas, con una mirada serena y fija. Se mueven con gracia e indolencia, sugiriendo una fuerza oculta. Son conocidas por su sensualidad y magnetismo, con cuerpos curvos y receptivos que combinan una cualidad femenina con una fortaleza representada por el Toro. Sus hombros, pecho y espalda suelen ser anchos y fuertes, independientemente de su estatura. Aunque también hay Tauro delgados, estos suelen tener una presencia arraigada en la tierra.
-
-Por ejemplo, Adele es Tauro y tiene un cuerpo curvilíneo y robusto. Otra característica física destacada es el cuello, que suele ser ancho y transmite estabilidad, con la cabeza bien asentada en el cuerpo y conectada con el mundo concreto. La garganta y el arte de la voz y el canto están relacionados con Tauro.
-
-**En cuanto a la salud,** Tauro generalmente goza de buena salud y fortaleza. Sin embargo, cuando enferman, pueden tardar en recuperarse debido a su tendencia a no seguir las recomendaciones médicas y a su pesimismo. Son susceptibles a infecciones y accidentes en la garganta, cuello, piernas, tobillos, órganos reproductores, espalda y columna vertebral. Los resfriados suelen provocar dolores de garganta, y el exceso de peso puede afectar al corazón y causar problemas circulatorios, debilidad en los tobillos y venas varicosas. Aquellos que evitan la obesidad, el sedentarismo y las infecciones renales pueden disfrutar de mejor salud que otros.
+Escritora multifacética. con un stellium del Sol - Neptuno - Plutón en Géminis, casa XI. Sus textos abarcan poesía, ensayo, periodismo y teatro. No cayó en estereotipo de la poesía de amor romántico que se esperaba de las mujeres en el siglo XX, sino que eran poemas de quiebre, de denuncia de la situación femenina, textos eróticos, versos irónicos y reflexivos socialmente. Fue una mujer que se desplegó con las palabras a riesgo de no ser comprendida. Alfonsina había sido operada de un cáncer de seno pero la enfermedad no la abandonó y fue que habiendo enviado el poema “Voy a dormir” al medio “La Nación” el 25 de octubre de 1938 se arrojó al mar, en Mar del Plata, Argentina. 
 
 
-## ¿Quieres saber qué tan madura está la energía de Tauro en tu vida? 
+## Físico y salud de Géminis
+
+Cuando crecen tiene un aire juvenil, un cuerpo que va para un lado y para el otro, un cuerpo que camina como dando saltitos, con mucha liviandad, la energía de un cuerpo aéreo se va hacia arriba, suele son personas muy locuaces, de conectar a través de la palabra. Tienen una apariencia atemporal. La expresión física de esta energía puede aparecer como un cuerpo largo, delgado, ágil, liviano. 
+
+Esta energía rige los brazos, manos y extremidades superiores y pulmones. Las manos son las que permiten las experiencias con el mundo externo a un bebe, los brazos enlazan y los pulmones comparten aire. Desde el punto de vista de la salud estas pueden ser áreas del cuerpo físico que pueden resultar afectadas debido a la constante necesidad de experiencia y comunicación. Pero también esta energía genera una personalidad nerviosa y mentalmente muy activa lo que puede desencadenar dolores de cabeza e insomnio por demasiada estimulación mental. Pero no es el estrés laboral lo que genera las mayores complicaciones de salud a un Géminianx, es el encierro y la monotonía lo que realmente acaba enfermando a Géminis. 
+
+
+
+## ¿Quieres saber qué tan madura está la energía de Géminis en tu vida? 
 Responde las siguientes preguntas con SÍ o NO: 
 
-1. ¿Para ti lo único que importa es estar bien?
-2. ¿La mayor parte de tu tiempo la dedicas a obligaciones y no te queda energía para lo que te gustaría hacer realmente?
-3. ¿Hay que pasárselo bien y no hacer caso a los malos momentos?
-4. ¿Crees que todo se consigue con mucho esfuerzo?
-5. Para que las cosas salgan bien ¿tienes que estar en todo?
-6. ¿Eres muy exigente?
-7. ¿Hace mucho que no te ríes?
-8. ¿Empiezas muchas cosas y no las acabas?
-9. ¿Te gusta criticar?
-10. ¿Te conformas con lo que tienes?
-11. ¿Necesitas siempre más de los demás?
+1. ¿Intentas quedar bien con todo el mundo?
+2. ¿Te cuesta elegir?
+3. ¿A veces te cuesta elegir, pasa el tiempo y finalmente te quedas sin nada?
+4. ¿Te sientes dividido, escindido?
+5. ¿Pasas por muchas pruebas?
+6. ¿Crees que te falta capacidad de resolución?
+7. ¿Te falta confianza en tus decisiones?
+8. ¿Crees que no eres suficientemente bueno para nada?
+9. ¿Te da miedo darte a conocer?
+10. ¿Luchas por ser objetivo y tomar la mejor resolución?
+11. ¿Respondes a las agresiones con la indiferencia?
 
-**Entre 0 y 3 «sí».** La energía de Tauro no está bloqueada. Es un buen momento para que te dediques a crear un jardín y tu lugar en la tierra.
+**Entre 0 y 3 «sí».** La energía de Géminis parece fluir. Eres una guía para ti y tu entorno, alimenta tus relaciones.
 
-**Entre 4 y 7 «sí».** La energía de Tauro está un poco bloqueada. Necesitas observarte con calma. ¿Te estás tomando las cosas demasiado a pecho? ¿Puedes divertirte más con lo que haces? ¿Cómo?
+**Entre 4 y 7 «sí».** La energía de Géminis está un poco bloqueada. Sólo a medida que te vayas confrontando con el exterior, irás perfilando tu experiencia y alimentando la fuente de tus decisiones. Géminis te enseña que al admirar a alguien, gran parte de ti se refleja en esa persona. Y cuando no soportas en absoluto algo de una
+persona, eso también está en ti. Las personas que odias o admiras te sirven de espejo.
 
-**Entre 8 y 11 «sí».** La energía de Tauro parece estar completamente bloqueada. Un toro puede llorar y reír en su casa. ¿También es así para ti? Un toro debería tener un lugar cerca de la tierra. ¿Cómo es tu casa? Sería beneficioso que tuvieras al menos una planta, algo que inspire vida. Si ya las tienes, deberías dedicar más tiempo a cuidarlas.
+**Entre 8 y 11 «sí».** La energía de Géminis parece estar completamente bloqueada. Parece que un buen charlatan puede hacer contigo lo que sea. Necesitas sentirte querido y aceptado, pero que no sea a cualquier precio.
 
 
 ## Fuentes
@@ -127,5 +115,9 @@ Responde las siguientes preguntas con SÍ o NO:
 * MacCarthy, Juliana. 2018. Somos Estrellas. Editorial Koan. 
 * Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
 * Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
-* Astro Bio Salvador Dalí [Link](https://www.astro.com/astro-databank/Dali,_Salvador)
-* Astro Bio Adele [Link](https://www.astro.com/astro-databank/Adele)
+* Shinoda Bolen, Jean. 2012. “Gods in everyman”. Editorial Kairós. Barcelona.
+* Jung, Carl. 2003. “Lo inconsciente”. Editorial Losada. Buenos Aires.
+* Carutti, Martina. Clase de formación en astrología Casa XI. 2024.
+* AstroChart Monroe, Marilyn. [Link](https://www.astro.com/astro-databank/Monroe,_Marilyn)
+* AstroChart. Storni, Alfonsina. [Link](https://www.astro.com/astro-databank/Storni,_Alfonsina)
+
