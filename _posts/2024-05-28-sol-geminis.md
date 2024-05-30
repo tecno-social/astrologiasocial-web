@@ -42,6 +42,13 @@ Por lo general, en los cumpleaños y fiestas, invitan a grupos de diversos estil
 
 Géminis tiene una enorme capacidad de apertura que implica no dejar nada afuera. No cierra el círculo de amigos, las experiencias, lo que aprende ni su corazón. En su naturaleza indagadora e impaciente, busca un ideal, y su principal problema consiste en saber cual es. Podría ser cualquier cosa, ya que su imaginación no conoce límites. Mercurio siempre lleva a Géminis más y más adelante, con la promesa de algo un poco mejor. Las estrellas son más brillantes en otras latitudes. ¿Qué es lo que busca? un misterio, aún sin descubrir, dentro de sí mismo. Géminis es el explorador de la mente.
 
+### Físico y salud de Géminis
+
+Cuando crecen tiene un aire juvenil, un cuerpo que va para un lado y para el otro, un cuerpo que camina como dando saltitos, con mucha liviandad, la energía de un cuerpo aéreo se va hacia arriba, suele son personas muy locuaces, de conectar a través de la palabra. Tienen una apariencia atemporal. La expresión física de esta energía puede aparecer como un cuerpo largo, delgado, ágil, liviano. 
+
+Esta energía rige los brazos, manos y extremidades superiores y pulmones. Las manos son las que permiten las experiencias con el mundo externo a un bebe, los brazos enlazan y los pulmones comparten aire. Desde el punto de vista de la salud estas pueden ser áreas del cuerpo físico que pueden resultar afectadas debido a la constante necesidad de experiencia y comunicación. Pero también esta energía genera una personalidad nerviosa y mentalmente muy activa lo que puede desencadenar dolores de cabeza e insomnio por demasiada estimulación mental. Pero no es el estrés laboral lo que genera las mayores complicaciones de salud a un Géminianx, es el encierro y la monotonía lo que realmente acaba enfermando a Géminis. 
+
+
 ### Las relaciones en un sistema geminiano
 
 A modo de prejuicio se cree que las personas geminianas no son profundas ni intensas. A ellos le sale más un pensamiento asociativo que tiene una tendencia a pensar demasiado, en ese sentido el mundo emocional tiende a quedar disociado, es alguien que no está muy conectado con el registro del sentir. Porque es un sistema que está hacia afuera, hacia la curiosidad, hacia lo que pasa con los otros, en todo caso, toma las emociones como un dato más. A pesar de que es mucha la gente que le rodea, sus emociones más profundas las comparte únicamente con su único compañero constante: el gemelo que lleva dentro de sí. El aire es su elemento y su hogar. Géminis es ajeno a la tierra. hasta que se detiene, y espera, y aprende a escuchar los latidos de su propio corazón.
@@ -79,15 +86,9 @@ Fue una mujer que exploró la sensualidad y la sexualidad con apertura y riesgo 
 
 ### Alfonsina Storni. 29 May 1892
 
-Escritora multifacética. con un stellium del Sol - Neptuno - Plutón en Géminis, casa XI. Sus textos abarcan poesía, ensayo, periodismo y teatro. No cayó en estereotipo de la poesía de amor romántico que se esperaba de las mujeres en el siglo XX, sino que eran poemas de quiebre, de denuncia de la situación femenina, textos eróticos, versos irónicos y reflexivos socialmente. Fue una mujer que se desplegó con las palabras a riesgo de no ser comprendida. Alfonsina había sido operada de un cáncer de seno pero la enfermedad no la abandonó y fue que habiendo enviado el poema “Voy a dormir” al medio “La Nación” el 25 de octubre de 1938 se arrojó al mar, en Mar del Plata, Argentina. 
+Escritora multifacética, sus textos abarcan poesía, ensayo, periodismo y teatro. Con un stellium del Sol - Neptuno - Plutón en Géminis, CasaXI. Potente energía geminiana y transpersonal en su carta. Fue un puente de la vida cotidiana a la profundidad oscura y onírica de lo femenino a través de sus poesías. No cayó en los estereotipos de amor romántico que se esperaba de las mujeres en el siglo XX, sino que eran poemas de quiebre, de denuncia de la situación femenina, textos eróticos, versos irónicos y reflexivos socialmente. Fue una mujer que se desplegó con las palabras a riesgo de no ser comprendida, no tenía miedo al caos.
 
-
-## Físico y salud de Géminis
-
-Cuando crecen tiene un aire juvenil, un cuerpo que va para un lado y para el otro, un cuerpo que camina como dando saltitos, con mucha liviandad, la energía de un cuerpo aéreo se va hacia arriba, suele son personas muy locuaces, de conectar a través de la palabra. Tienen una apariencia atemporal. La expresión física de esta energía puede aparecer como un cuerpo largo, delgado, ágil, liviano. 
-
-Esta energía rige los brazos, manos y extremidades superiores y pulmones. Las manos son las que permiten las experiencias con el mundo externo a un bebe, los brazos enlazan y los pulmones comparten aire. Desde el punto de vista de la salud estas pueden ser áreas del cuerpo físico que pueden resultar afectadas debido a la constante necesidad de experiencia y comunicación. Pero también esta energía genera una personalidad nerviosa y mentalmente muy activa lo que puede desencadenar dolores de cabeza e insomnio por demasiada estimulación mental. Pero no es el estrés laboral lo que genera las mayores complicaciones de salud a un Géminianx, es el encierro y la monotonía lo que realmente acaba enfermando a Géminis. 
-
+Alfonsina había sido operada de un cáncer de seno pero la enfermedad no la abandonó y fue que habiendo enviado el poema “Voy a dormir” al medio “La Nación” el 25 de octubre de 1938 se arrojó al mar, en Mar del Plata, Argentina.
 
 
 ## ¿Quieres saber qué tan madura está la energía de Géminis en tu vida? 
