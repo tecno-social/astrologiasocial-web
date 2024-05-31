@@ -3,7 +3,7 @@ layout: post
 title:  "Sol en Géminis"
 author: Lina
 categories: [ Géminis, Sol, Mercurio, Aire]
-image: assets/images/posts/2024-04-24-sol-tauro.jpg
+image: assets/images/posts/2024-05-28-sol-geminis.jpg
 ---
 
 *Siempre que las cosas parecen fijas, rígidas y estancadas, Géminis aporta fluidez, movimiento y nuevos comienzos; generando el caos y la confusión que son casi inevitables ante un inicio.*
