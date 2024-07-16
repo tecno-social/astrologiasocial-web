@@ -10,7 +10,6 @@ image: assets/images/posts/2024-05-28-sol-geminis.jpg
 
 En este ambiente, la criatura humana completa su desarrollo, absorbiendo lo que el medio le ofrece. Poco a poco, se desarrolla la memoria, cargada de historias familiares y de antepasados; aquí hay raíces compartidas. Es la tribu, donde se siente una sensación de unidad y afecto profundo. Las historias son compartidas, todo es conocido: los rostros, los olores, la comida, las costumbres.
 
-
 **Elemento:** Agua
 **Modalidad:** Cardinal
 **Planeta:** Luna
