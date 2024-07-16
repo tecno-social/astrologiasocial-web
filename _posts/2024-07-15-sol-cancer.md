@@ -2,7 +2,7 @@
 layout: post
 title:  "Sol en Cáncer"
 author: Lina
-categories: [ Cáncer, Sol, Luna, Agua]
+categories: [ Cancer, Sol, Luna, Agua]
 image: assets/images/posts/2024-05-28-sol-geminis.jpg
 ---
 
