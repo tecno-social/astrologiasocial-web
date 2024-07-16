@@ -98,33 +98,29 @@ La Luna en Géminis sugiere una naturaleza inquieta, curiosa y comunicativa. Hes
 ## ¿Quieres saber qué tan madura está la energía de Cáncer en tu vida? 
 Responde las siguientes preguntas con SÍ o NO: 
 
-1. ¿Intentas quedar bien con todo el mundo?
-2. ¿Te cuesta elegir?
-3. ¿A veces te cuesta elegir, pasa el tiempo y finalmente te quedas sin nada?
-4. ¿Te sientes dividido, escindido?
-5. ¿Pasas por muchas pruebas?
-6. ¿Crees que te falta capacidad de resolución?
-7. ¿Te falta confianza en tus decisiones?
-8. ¿Crees que no eres suficientemente bueno para nada?
-9. ¿Te da miedo darte a conocer?
-10. ¿Luchas por ser objetivo y tomar la mejor resolución?
-11. ¿Respondes a las agresiones con la indiferencia?
+1. ¿Te buscan los malentendidos?
+2. ¿Eres mitómano?
+3. ¿Te falta fe?
+4. ¿Estás cayendo dentro de un pozo?
+5. ¿Consideras a alguien culpable de lo que te está pasando?
+6. ¿Te sientes angustiado?
+7. ¿El miedo te paraliza?
+8. ¿La culpa te atenaza?
+9. ¿Te sientes inmóvil?
+10. ¿Te gustaría retroceder en el tiempo?
+11. ¿Tienes la culpa de lo que te pasa?
 
-**Entre 0 y 3 «sí».** La energía de Géminis parece fluir. Eres una guía para ti y tu entorno, alimenta tus relaciones.
+**Entre 0 y 3 «sí».** La energía de Cáncer no está bloqueada. Puedes seguir soñando tranquilamente con los ojos abiertos o cerrados.
 
-**Entre 4 y 7 «sí».** La energía de Géminis está un poco bloqueada. Sólo a medida que te vayas confrontando con el exterior, irás perfilando tu experiencia y alimentando la fuente de tus decisiones. Géminis te enseña que al admirar a alguien, gran parte de ti se refleja en esa persona. Y cuando no soportas en absoluto algo de una
-persona, eso también está en ti. Las personas que odias o admiras te sirven de espejo.
+**Entre 4 y 7 «sí».** «sí». La energía de Cáncer está un poco bloqueada. Cuando no liberas las capacidades que te ofrece La Luna o cáncer, el inconsciente te fuerza a una cuestión inevitable (que siempre pretendes evitar) y al tratar de remar en dirección contraria lo único que logras es caer preso de las emociones que pueden ahogarte. Antes de actuar, pregúntate si existe una base real de tus sensaciones.
 
-**Entre 8 y 11 «sí».** La energía de Géminis parece estar completamente bloqueada. Parece que un buen charlatan puede hacer contigo lo que sea. Necesitas sentirte querido y aceptado, pero que no sea a cualquier precio.
+**Entre 8 y 11 «sí».** La energía de Cáncer está bloqueada. Para escapar del caos te estás apoyando demasiado en los demás. No afirmes y pregunta por qué no estás en condiciones de ver con claridad. La culpa y el temor te están cegando. Considera seriamente el hecho de buscar un buen asesor psicológico que trabaje más directamente con imágenes del inconsciente (del tipo transformacional).
 
 
 ## Fuentes
 
 * Goodman, Linda. (2021). Los signos del zodiaco y su carácter. Kepler.
 * MacCarthy, Juliana. 2018. Somos Estrellas. Editorial Koan. 
-* Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
 * Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
-* Shinoda Bolen, Jean. 2012. “Gods in everyman”. Editorial Kairós. Barcelona.
-* Jung, Carl. 2003. “Lo inconsciente”. Editorial Losada. Buenos Aires.
-* Carutti, Martina. Clase de formación en astrología Casa XI. 2024.
-* AstroChart Monroe, Marilyn. [Link](https://www.astro.com/astro-databank/Monroe,_Marilyn)
+* AstroChart Bergman, Ingman. [Link](https://www.astro.com/astro-databank/Bergman,_Ingmar)
+* AstroChart Hesse, Herman. [Link](https://www.astro.com/astro-databank/Hesse,_Hermann)
