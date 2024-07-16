@@ -89,8 +89,11 @@ Es uno de los directores y guionistas más influyentes del cine mundial. El Sol 
 
 La Luna en Piscis sugiere una naturaleza imaginativa, introspectiva y espiritual. Bergman era conocido por su enfoque poético y a menudo surrealista, características propias de Piscis. Su habilidad para evocar atmósferas oníricas y su interés por el subconsciente se reflejan en su obra.
 
-### Herman Hesse. 29 May 1892
+### Herman Hesse. 2 de Julio 1877
 
+Fue un novelista, poeta y pintor alemán-suizo, conocido por obras como "Siddhartha", "El lobo estepario" y "Demian". Hesse era conocido por su introspección y su capacidad para explorar los aspectos más profundos de la psique humana. Su obra está llena de temas sobre la búsqueda de la identidad y el sentido de pertenencia, reflejando la naturaleza protectora y nutricia de Cáncer.
+
+La Luna en Géminis sugiere una naturaleza inquieta, curiosa y comunicativa. Hesse era un ávido lector y escritor, y su habilidad para expresarse a través de las palabras es una característica típica de esta colocación. 
 
 ## ¿Quieres saber qué tan madura está la energía de Cáncer en tu vida? 
 Responde las siguientes preguntas con SÍ o NO: 
