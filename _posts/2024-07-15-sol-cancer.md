@@ -1,1 +1,132 @@
+---
+layout: post
+title:  "Sol en Cáncer"
+author: Lina
+categories: [ Cáncer, Sol, Luna, Agua]
+image: assets/images/posts/2024-05-28-sol-geminis.jpg
+---
 
+*Es la energía que trae el registro de que al salir del útero hay un lugar resguardado de la inclemencia del mundo exterior, donde no hay miedo ni amenazas. Ese entorno es un lugar de pertenencia: cálido, acogedor y nutritivo, dónde está mamá.*
+
+En este ambiente, la criatura humana completa su desarrollo, absorbiendo lo que el medio le ofrece. Poco a poco, se desarrolla la memoria, cargada de historias familiares y de antepasados; aquí hay raíces compartidas. Es la tribu, donde se siente una sensación de unidad y afecto profundo. Las historias son compartidas, todo es conocido: los rostros, los olores, la comida, las costumbres.
+
+
+**Elemento:** Agua
+**Modalidad:** Cardinal
+**Planeta:** Luna
+**Equivalencia en el tarot:** Arcano XVIII "La Luna"
+
+**Arquetipos:** ***Iluminado:** El guía, el mensajero interior.*  ***Neurótico:** El superfluo, el falso*
+
+**Famosos:** Marylin Monroe y Alfonsina Storni 
+
+
+
+
+## Símbolo de Cáncer 
+
+Es un cangrejo que lleva su casa a cuestas, esto habla de su gran fortaleza pero también de un exterior duro y un interior pofundamente sensible, sus pinzas son para protegerse de los peligros y de todo aquello que intente entrar.
+
+
+## La personalidad de Cáncer
+
+Seres sensibles e imaginativos con un mundo interior vivo y mucha sensibilidad comparable a los cambios de la luna. movidos por la misma fuerza que afecta a las mareas. Estas personas sensibles al entorno se les verá brillar como a la luna llena, plenos de alegría y risas, pero también serán seres sin luz, como una luna nueva, inexpresivos y sombríos, en todos los casos sus emociones son muy profundas y ciclan cada tanto. 
+
+Cáncer aunque es un ser de agua, acepta con tranquilidad la atención y se puede decir que secretamente le gusta. El cangrejo guarda sus tesoros y por momentos se oculta pero la calidez del reconocimiento es algo que a los cangrejos les gusta. 
+
+Mientras el cangrejo esté brillando, tendrá calor para toda su tribu pero si se pone melancólico se hundirá profundamente en el océano de la tristeza. El pesimismo puede apoderarse de ellos y sacarlos de la más hermosa fantasía. llevan consigo una sensación de que en las sombras se ocultan peligros, es así que los miedos son el talón de Aquiles de Cáncer cuando su imaginación intenta volar demasiado alto.
+
+Sus sentimientos son delicados y la rudeza no es algo que ellos puedan dejar pasar sin sentirse afligidos y la crueldad es algo que les hará llorar y se verán retraidos. Si un cangrejo es herido se retirará en silencio lleno de reproches quizás con ganas de devolver el golpe pero con más sutileza que como lo haría un Escorpiano. Pero por lo general se retiran y ocultan en su caparazón, la soledad  los ayudará a que se sientan mejor, lo cual puede tomar días. 
+
+El mal humor también es propio de Cáncer, es una persona reactiva cuando no está bien, debe ser lo cardinal de su signo y el odio y la decepción que a veces les provoca el mundo y la vida. Pero esto es nuevamente una parte del ciclo. 
+
+A ellos los sabrás reconocer por sus muchos estados de ánimo y contrastantes; puede ser un parlanchín risueño y lleno de chistes y al tiempo estar descorazonado derramando lágrimas. Otro día de repente te conteste de forma agresiva y después sea el ser más bondadoso del mundo y te sorprenda con su creatividad e imaginación profunda. Ellos están en tal contacto con la emocionalidad que pueden contagiarte de cualquiera de sus estados de ánimo. Sus emociones hacen que todo quede completamente fijado en su memoria, absorben imágenes y las reflejan con la fidelidad de un espejo, graban cada experiencia y jamás olvidan esos momentos que les ha provocado una emoción. 
+
+Por tanto, cáncer resguarda el pasado y es un historiador de corazón, no solo le llama la atención su pasado personal y familiar sino todo el pasado cultural y social. Puede ser coleccionista de antigüedades, reliquias, el ayer despierta mucha curiosidad en cáncer. 
+
+
+
+### Físico y salud de Cáncer
+
+#### Aspecto físico
+
+Por un lado, pueden tener una cara redonda, similar a una luna llena, con ojos grandes y redondos, casi como los de un bebé. Algunos pueden ser regordetes, aunque esto no es lo más común. En su mayoría, tendrán rostros muy expresivos emocionalmente.
+
+Por otro lado, algunos presentan características más marcadas del cangrejo. Su cabeza puede ser algo grande, con facciones definidas, pómulos altos y un mentón largo, y ojos pequeños. El cuerpo puede tener extremidades más alargadas de lo normal, pareciendo más pesados en la parte superior, y pueden moverse con un ligero balanceo. Las mujeres pueden tener un busto grande o muy pequeño, sin términos medios.
+
+
+#### Salud
+La emotividad de Cáncer puede ser muy profunda y, quizás, más poderosa que su cuerpo, lo que puede llevarlos a somatizar. Ningún otro signo es tan propenso a enfermar por ideas negativas, pero tampoco ninguno es capaz de realizar sorprendentes milagros de autocuración.
+
+Las áreas más vulnerables son el pecho (tanto en hombres como en mujeres), las rodillas, los riñones, la vejiga y la piel. La zona de la cabeza y la cara también es delicada, al igual que el estómago y el sistema digestivo. Son muy susceptibles a las úlceras. Si logran aferrarse firmemente a la felicidad y no la sueltan, los cangrejos tienen el poder de aferrarse a la vida con la misma tenacidad con la que guardan periódicos y maceteros viejos.
+
+
+### Las relaciones en un sistema Canceriano
+
+A Cáncer tampoco le cuesta registrar los sentimientos y emociones de las personas que lo rodean, ellos pueden saber lo que pasa sin mediar palabra, su empatía y compasión los hará buenos confidentes. No son de juzgar pero pueden servir para reflejar las emociones para poder ser comprendidas, ellos querrán indagar a fondo en la profundidad pero esto no indica que estén dispuestos a hacerlo de la misma manera, por lo contrario, Cáncer es reservado y esconde a otros lo que siente. 
+
+Otra característica de un cangrejo es agarrar las cosas y no soltarlas, ellos no renuncian a lo que valoran de forma sencilla, aquella relación, persona u objeto que el cangrejo encuentre valioso lo atesorará por siempre. Cuando ve algo que le interesa no irá por ello directamente, va de acá para allá y en el momento preciso salta para atrapar sin soltar. Este mismo comportamiento lo tienen en otras situaciones, cuando ellos van a ayudar a alguien no lo hacen sin antes alejarse y observar a ver quién más se acerca. Aunque se conmueve con las necesidades de las personas quiere verificar si realmente lo necesita o quizás otro pueda ayudar o la misma persona pueda solucionar su propia situación, el Cangrejo no es egoísta sino que se preserva cuidando sus recursos y a sí mismo.
+
+Tienen un corazón tierno debajo del armazón duro y protector, pero sus recursos de afecto, tiempo y cuidados son limitados y los distribuye con prudencia. Los cangrejos son muy cuidadosos, calculan sus acciones basándose en experiencias propias o recomendaciones, necesita seguridad sobre todo en lo financiero, esto le da tranquilidad. Si Cáncer decide apostar por algo, ya ha corroborado que es altamente probable el éxito. Cometer errores para Cáncer es motivo de aflicción. 
+
+Al final lo más importante para Cáncer es siempre el hogar. Y en su casa tendrá sus tesoros, en busca de la seguridad guardará, dinero, tendrá seguros, comprará comida para almacenar. Otro lugar donde puedes buscar cangrejos es en el agua, nadando o navegando en el mar. Poseen un fuerte instinto maternal. Son gente que siempre está tratando de llenar a alguien con una buena comida caliente, o de protegerlos del aire húmedo de la noche.
+
+
+### El lado oscuro de Cáncer
+
+
+
+### Maduración del sol en Cáncer
+
+*Madurar el sol significa llevar la energía de mi signo al máximo brillo, a nuestro máximo potencial y el sol como centro de nuestro sistema nos va a proporcionar una sensación de vida y de sentido.* 
+
+
+
+## Famosos Cáncer
+
+### Marilyn Monroe. 1 June 1926
+Su verdadero nombre fue Norma Jeane Mortenson. Actriz, modelo y cantante estadounidense, se convirtió en el mayor sex symbol de la historia. Protagonizó varias películas de éxito comercial durante los años cincuenta y principios de los sesenta, interpretando papeles cómicos. Fue objeto de un exuberante calendario de desnudos, fotografiado el 27 de mayo de 1949. Con el Sol y Mercurio cazimi en Géminis en la casa X, y Tauro en la cúspide, su reconocimiento se debió a su belleza elegante, disruptiva y atrevida, convirtiendo su imagen en un ícono de la cultura pop. El personaje de "Marilyn Monroe" mostraba una personalidad juguetona, divertida, multifacética, con cierta ingenuidad y un toque de picardía. Por otro lado, Jeane parecía ser una persona menos vivaz que su personaje, con una infancia llena de altibajos, abandonos y ausencias; sufría de depresión y tenía adicciones. Estas dos caras nos recuerdan la dualidad geminiana de luz y oscuridad, uniendo lo divino con lo humano.
+
+Fue una mujer que exploró la sensualidad y la sexualidad con apertura y riesgo para la época, revolucionando la percepción de lo femenino. Aunque algunos de los roles de "rubia tonta" la mortificaban, su talento brilló. Las causas de su muerte no son del todo claras; oficialmente fue suicidio, pero su relación con los Kennedy hace pensar en un posible asesinato. Su imagen femenina “perfecta”, siempre joven y bella, es un ícono inmortal de nuestros tiempos.
+
+
+### Alfonsina Storni. 29 May 1892
+
+Escritora multifacética, sus textos abarcan poesía, ensayo, periodismo y teatro. Con un stellium del Sol - Neptuno - Plutón en Géminis, CasaXI. Potente energía geminiana y transpersonal en su carta. Fue un puente de la vida cotidiana a la profundidad oscura y onírica de lo femenino a través de sus poesías. No cayó en los estereotipos de amor romántico que se esperaba de las mujeres en el siglo XX, sino que eran poemas de quiebre, de denuncia de la situación femenina, textos eróticos, versos irónicos y reflexivos socialmente. Fue una mujer que se desplegó con las palabras a riesgo de no ser comprendida, no tenía miedo al caos.
+
+Alfonsina había sido operada de un cáncer de seno pero la enfermedad no la abandonó y fue que habiendo enviado el poema “Voy a dormir” al medio “La Nación” el 25 de octubre de 1938 se arrojó al mar, en Mar del Plata, Argentina.
+
+
+## ¿Quieres saber qué tan madura está la energía de Cáncer en tu vida? 
+Responde las siguientes preguntas con SÍ o NO: 
+
+1. ¿Intentas quedar bien con todo el mundo?
+2. ¿Te cuesta elegir?
+3. ¿A veces te cuesta elegir, pasa el tiempo y finalmente te quedas sin nada?
+4. ¿Te sientes dividido, escindido?
+5. ¿Pasas por muchas pruebas?
+6. ¿Crees que te falta capacidad de resolución?
+7. ¿Te falta confianza en tus decisiones?
+8. ¿Crees que no eres suficientemente bueno para nada?
+9. ¿Te da miedo darte a conocer?
+10. ¿Luchas por ser objetivo y tomar la mejor resolución?
+11. ¿Respondes a las agresiones con la indiferencia?
+
+**Entre 0 y 3 «sí».** La energía de Géminis parece fluir. Eres una guía para ti y tu entorno, alimenta tus relaciones.
+
+**Entre 4 y 7 «sí».** La energía de Géminis está un poco bloqueada. Sólo a medida que te vayas confrontando con el exterior, irás perfilando tu experiencia y alimentando la fuente de tus decisiones. Géminis te enseña que al admirar a alguien, gran parte de ti se refleja en esa persona. Y cuando no soportas en absoluto algo de una
+persona, eso también está en ti. Las personas que odias o admiras te sirven de espejo.
+
+**Entre 8 y 11 «sí».** La energía de Géminis parece estar completamente bloqueada. Parece que un buen charlatan puede hacer contigo lo que sea. Necesitas sentirte querido y aceptado, pero que no sea a cualquier precio.
+
+
+## Fuentes
+
+* Goodman, Linda. (2021). Los signos del zodiaco y su carácter. Kepler.
+* MacCarthy, Juliana. 2018. Somos Estrellas. Editorial Koan. 
+* Leveratto y Lodi. (2022). Tarot y Astrología. Kier.
+* Fernandez, Jimena (2001). Curso práctico de tarot. Oceano.
+* Shinoda Bolen, Jean. 2012. “Gods in everyman”. Editorial Kairós. Barcelona.
+* Jung, Carl. 2003. “Lo inconsciente”. Editorial Losada. Buenos Aires.
+* Carutti, Martina. Clase de formación en astrología Casa XI. 2024.
+* AstroChart Monroe, Marilyn. [Link](https://www.astro.com/astro-databank/Monroe,_Marilyn)
