@@ -16,12 +16,9 @@ En este ambiente, la criatura humana completa su desarrollo, absorbiendo lo que 
 **Planeta:** Luna
 **Equivalencia en el tarot:** Arcano XVIII "La Luna"
 
-**Arquetipos:** ***Iluminado:** El guía, el mensajero interior.*  ***Neurótico:** El superfluo, el falso*
+**Arquetipos:** ***Iluminado:** El que nutre, el sensible.*  ***Neurótico:** El deprimido, el gruñón*
 
-**Famosos:** Marylin Monroe y Alfonsina Storni 
-
-
-
+**Famosos:** Ingman Bergman y Herman Hesse
 
 ## Símbolo de Cáncer 
 
@@ -44,7 +41,30 @@ A ellos los sabrás reconocer por sus muchos estados de ánimo y contrastantes; 
 
 Por tanto, cáncer resguarda el pasado y es un historiador de corazón, no solo le llama la atención su pasado personal y familiar sino todo el pasado cultural y social. Puede ser coleccionista de antigüedades, reliquias, el ayer despierta mucha curiosidad en cáncer. 
 
+### Las relaciones en un sistema Canceriano
 
+A Cáncer tampoco le cuesta registrar los sentimientos y emociones de las personas que lo rodean, ellos pueden saber lo que pasa sin mediar palabra, su empatía y compasión los hará buenos confidentes. No son de juzgar pero pueden servir para reflejar las emociones para poder ser comprendidas, ellos querrán indagar a fondo en la profundidad pero esto no indica que estén dispuestos a hacerlo de la misma manera, por lo contrario, Cáncer es reservado y esconde a otros lo que siente. 
+
+Otra característica de un cangrejo es agarrar las cosas y no soltarlas, ellos no renuncian a lo que valoran de forma sencilla, aquella relación, persona u objeto que el cangrejo encuentre valioso lo atesorará por siempre. Cuando ve algo que le interesa no irá por ello directamente, va de acá para allá y en el momento preciso salta para atrapar sin soltar. Este mismo comportamiento lo tienen en otras situaciones, cuando ellos van a ayudar a alguien no lo hacen sin antes alejarse y observar a ver quién más se acerca. Aunque se conmueve con las necesidades de las personas quiere verificar si realmente lo necesita o quizás otro pueda ayudar o la misma persona pueda solucionar su propia situación, el Cangrejo no es egoísta sino que se preserva cuidando sus recursos y a sí mismo.
+
+Tienen un corazón tierno debajo del armazón duro y protector, pero sus recursos de afecto, tiempo y cuidados son limitados y los distribuye con prudencia. Los cangrejos son muy cuidadosos, calculan sus acciones basándose en experiencias propias o recomendaciones, necesita seguridad sobre todo en lo financiero, esto le da tranquilidad. Si Cáncer decide apostar por algo, ya ha corroborado que es altamente probable el éxito. Cometer errores para Cáncer es motivo de aflicción. 
+
+Al final lo más importante para Cáncer es siempre el hogar. Y en su casa tendrá sus tesoros, en busca de la seguridad guardará, dinero, tendrá seguros, comprará comida para almacenar. Otro lugar donde puedes buscar cangrejos es en el agua, nadando o navegando en el mar. Poseen un fuerte instinto maternal. Son gente que siempre está tratando de llenar a alguien con una buena comida caliente, o de protegerlos del aire húmedo de la noche.
+
+
+### El lado oscuro de Cáncer
+
+Cáncer deberá estar dispuesto a salir del caparazón, permitirse tomar riesgos y alejarse de la seguridad del mundo conocido revelando su interior emocional e imaginativo. Estar dispuesto a ver las fasetas más duras de la escencia humana y mantenerse dispuesto a amar, cuando Cáncer siente que no tiene personas a su alredor en quienes confiar para sentirse seguro puede revelar una parte más salvaje y agresiva. 
+
+Cáncer debe poder permitirse revelar el verdadero yo, sensible, materno, creativo. Sin que las emociones propias ni la de los demás lo dominen. 
+
+### Maduración del sol en Cáncer
+
+*Madurar el sol significa llevar la energía de mi signo al máximo brillo, a nuestro máximo potencial y el sol como centro de nuestro sistema nos va a proporcionar una sensación de vida y de sentido.* 
+
+El viaje del Sol en Cáncer consiste en aprender a proteger su sensibilidad y utilizarla como un don, compartiendo esa compasión de madre universal que cuida de los demás. A diferencia de cualquier otro signo, deben desarrollar una enorme autoconciencia de sus emociones para que, cuando sientan que ese mar emocional los ahoga, puedan reconocer lo que les sucede y encontrar su centro.
+
+Ellos tienen la capacidad de entender con mucha claridad la profundidad de la existencia humana, derribar las barreras que nos separan y permitir que fluyan el amor, la aceptación y la confianza.
 
 ### Físico y salud de Cáncer
 
@@ -61,40 +81,15 @@ La emotividad de Cáncer puede ser muy profunda y, quizás, más poderosa que su
 Las áreas más vulnerables son el pecho (tanto en hombres como en mujeres), las rodillas, los riñones, la vejiga y la piel. La zona de la cabeza y la cara también es delicada, al igual que el estómago y el sistema digestivo. Son muy susceptibles a las úlceras. Si logran aferrarse firmemente a la felicidad y no la sueltan, los cangrejos tienen el poder de aferrarse a la vida con la misma tenacidad con la que guardan periódicos y maceteros viejos.
 
 
-### Las relaciones en un sistema Canceriano
-
-A Cáncer tampoco le cuesta registrar los sentimientos y emociones de las personas que lo rodean, ellos pueden saber lo que pasa sin mediar palabra, su empatía y compasión los hará buenos confidentes. No son de juzgar pero pueden servir para reflejar las emociones para poder ser comprendidas, ellos querrán indagar a fondo en la profundidad pero esto no indica que estén dispuestos a hacerlo de la misma manera, por lo contrario, Cáncer es reservado y esconde a otros lo que siente. 
-
-Otra característica de un cangrejo es agarrar las cosas y no soltarlas, ellos no renuncian a lo que valoran de forma sencilla, aquella relación, persona u objeto que el cangrejo encuentre valioso lo atesorará por siempre. Cuando ve algo que le interesa no irá por ello directamente, va de acá para allá y en el momento preciso salta para atrapar sin soltar. Este mismo comportamiento lo tienen en otras situaciones, cuando ellos van a ayudar a alguien no lo hacen sin antes alejarse y observar a ver quién más se acerca. Aunque se conmueve con las necesidades de las personas quiere verificar si realmente lo necesita o quizás otro pueda ayudar o la misma persona pueda solucionar su propia situación, el Cangrejo no es egoísta sino que se preserva cuidando sus recursos y a sí mismo.
-
-Tienen un corazón tierno debajo del armazón duro y protector, pero sus recursos de afecto, tiempo y cuidados son limitados y los distribuye con prudencia. Los cangrejos son muy cuidadosos, calculan sus acciones basándose en experiencias propias o recomendaciones, necesita seguridad sobre todo en lo financiero, esto le da tranquilidad. Si Cáncer decide apostar por algo, ya ha corroborado que es altamente probable el éxito. Cometer errores para Cáncer es motivo de aflicción. 
-
-Al final lo más importante para Cáncer es siempre el hogar. Y en su casa tendrá sus tesoros, en busca de la seguridad guardará, dinero, tendrá seguros, comprará comida para almacenar. Otro lugar donde puedes buscar cangrejos es en el agua, nadando o navegando en el mar. Poseen un fuerte instinto maternal. Son gente que siempre está tratando de llenar a alguien con una buena comida caliente, o de protegerlos del aire húmedo de la noche.
-
-
-### El lado oscuro de Cáncer
-
-
-
-### Maduración del sol en Cáncer
-
-*Madurar el sol significa llevar la energía de mi signo al máximo brillo, a nuestro máximo potencial y el sol como centro de nuestro sistema nos va a proporcionar una sensación de vida y de sentido.* 
-
-
-
 ## Famosos Cáncer
 
-### Marilyn Monroe. 1 June 1926
-Su verdadero nombre fue Norma Jeane Mortenson. Actriz, modelo y cantante estadounidense, se convirtió en el mayor sex symbol de la historia. Protagonizó varias películas de éxito comercial durante los años cincuenta y principios de los sesenta, interpretando papeles cómicos. Fue objeto de un exuberante calendario de desnudos, fotografiado el 27 de mayo de 1949. Con el Sol y Mercurio cazimi en Géminis en la casa X, y Tauro en la cúspide, su reconocimiento se debió a su belleza elegante, disruptiva y atrevida, convirtiendo su imagen en un ícono de la cultura pop. El personaje de "Marilyn Monroe" mostraba una personalidad juguetona, divertida, multifacética, con cierta ingenuidad y un toque de picardía. Por otro lado, Jeane parecía ser una persona menos vivaz que su personaje, con una infancia llena de altibajos, abandonos y ausencias; sufría de depresión y tenía adicciones. Estas dos caras nos recuerdan la dualidad geminiana de luz y oscuridad, uniendo lo divino con lo humano.
+### Ingman Bergman. 14 Julio 1918
 
-Fue una mujer que exploró la sensualidad y la sexualidad con apertura y riesgo para la época, revolucionando la percepción de lo femenino. Aunque algunos de los roles de "rubia tonta" la mortificaban, su talento brilló. Las causas de su muerte no son del todo claras; oficialmente fue suicidio, pero su relación con los Kennedy hace pensar en un posible asesinato. Su imagen femenina “perfecta”, siempre joven y bella, es un ícono inmortal de nuestros tiempos.
+Es uno de los directores y guionistas más influyentes del cine mundial. El Sol en Cáncer indica una personalidad profundamente emocional y sensible. Bergman canalizó esta sensibilidad en su trabajo, explorando temas como la soledad, la muerte, y la complejidad de las relaciones humanas. Su capacidad para entender y representar las emociones humanas es una característica típica de Cáncer.
 
+La Luna en Piscis sugiere una naturaleza imaginativa, introspectiva y espiritual. Bergman era conocido por su enfoque poético y a menudo surrealista, características propias de Piscis. Su habilidad para evocar atmósferas oníricas y su interés por el subconsciente se reflejan en su obra.
 
-### Alfonsina Storni. 29 May 1892
-
-Escritora multifacética, sus textos abarcan poesía, ensayo, periodismo y teatro. Con un stellium del Sol - Neptuno - Plutón en Géminis, CasaXI. Potente energía geminiana y transpersonal en su carta. Fue un puente de la vida cotidiana a la profundidad oscura y onírica de lo femenino a través de sus poesías. No cayó en los estereotipos de amor romántico que se esperaba de las mujeres en el siglo XX, sino que eran poemas de quiebre, de denuncia de la situación femenina, textos eróticos, versos irónicos y reflexivos socialmente. Fue una mujer que se desplegó con las palabras a riesgo de no ser comprendida, no tenía miedo al caos.
-
-Alfonsina había sido operada de un cáncer de seno pero la enfermedad no la abandonó y fue que habiendo enviado el poema “Voy a dormir” al medio “La Nación” el 25 de octubre de 1938 se arrojó al mar, en Mar del Plata, Argentina.
+### Herman Hesse. 29 May 1892
 
 
 ## ¿Quieres saber qué tan madura está la energía de Cáncer en tu vida? 
