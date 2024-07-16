@@ -3,7 +3,7 @@ layout: post
 title:  "Sol en Cáncer"
 author: Lina
 categories: [ Cancer, Sol, Luna, Agua]
-image: assets/images/posts/2024-05-28-sol-geminis.jpg
+image: assets/images/posts/2024-07-15-sol-cancer.jpg
 ---
 
 *Es la energía que trae el registro de que al salir del útero hay un lugar resguardado de la inclemencia del mundo exterior, donde no hay miedo ni amenazas. Ese entorno es un lugar de pertenencia: cálido, acogedor y nutritivo, dónde está mamá.*
