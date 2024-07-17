@@ -21,7 +21,7 @@ En este ambiente, la criatura humana completa su desarrollo, absorbiendo lo que 
 
 ## Símbolo de Cáncer 
 
-Es un cangrejo que lleva su casa a cuestas, esto habla de su gran fortaleza pero también de un exterior duro y un interior pofundamente sensible, sus pinzas son para protegerse de los peligros y de todo aquello que intente entrar.
+El cangrejo que lleva su casa a cuestas. Esto expresa su gran fortaleza de un exterior duro pero que proteje un interior pofundamente sensible, También tiene unas tenazas que son para protegerse de los peligros y asegurar .
 
 
 ## La personalidad de Cáncer
