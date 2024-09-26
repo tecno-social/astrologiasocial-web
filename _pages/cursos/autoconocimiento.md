@@ -52,6 +52,8 @@ En esta etapa conectarás con la sabiduría de cada signo para aprovechar su pod
 
 En este encuentro, nos adentraremos en el **mandala astrológico**, una representación completa de nuestra carta natal, donde cada parte tiene un significado profundo. Entenderemos cómo las **12 casas astrológicas** dividen este mandala en áreas clave de nuestras vidas, revelando escenarios como nuestra **personalidad**, **relaciones**, **familia**, **trabajo** y **metas**.
 
+<img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+
 🔮 **¿Qué aprenderás?**  
 - Descifraremos el **mandala astrológico** y sus diferentes partes, entendiendo cómo las casas representan los **escenarios de vida** en los que las energías zodiacales se manifiestan.  
 - Exploraremos cada una de las 12 casas y cómo influyen en aspectos como la **identidad** (Casa 1), la **familia** (Casa 4), las **relaciones** (Casa 7), y las **aspiraciones** (Casa 10).  
@@ -75,15 +77,20 @@ Este tema te permitirá entender de manera más consciente la interacción entre
 
 ________________
 
-## Modalidad de las actividades
 
-La duración total del curso será de mes y medio, con un encuentro semanal. Cada encuentro tendrá una duración de 2 horas, con un descanso de 15 minutos incluido. Todas las sesiones se llevarán a cabo de manera virtual y sincrónica a través de Google Meet. Además, al final del día de cada sesión, se proporcionará la grabación completa para aquellos que no puedan asistir en vivo. **¡Dado que los cupos son limitados, te recomendamos reservar tu lugar cuanto antes!**
+### 🌟 **Modalidad de las Actividades** 🌟
 
-## Costo del Curso
+El curso tendrá una duración total de **2 meses**, con un **encuentro semanal** de 2 horas, que incluye un breve descanso de 10 minutos. Todas las sesiones se llevarán a cabo de manera **virtual y sincrónica** a través de **Google Meet** o **Zoom**, brindándote la comodidad de participar desde tu hogar. 
 
-80 USD o el equivalente en la moneda local. Este valor se puede dividir en dos pagos para mayor comodidad.
+Para mayor flexibilidad, al finalizar cada sesión recibirás la **grabación completa**, ideal para quienes no puedan asistir en vivo o deseen repasar los contenidos.
 
-## *¿Estás listx para embarcarte en este viaje de autodescubrimiento y conexión con el universo?*
+**¡Los cupos son limitados**, así que te recomendamos **reservar tu lugar** lo antes posible para asegurar tu participación en esta experiencia transformadora! ✨
+
+### 💰 **Costo del Curso** 💰
+
+El precio es de **80 USD** o su equivalente en moneda local. Este monto puede dividirse en **dos pagos** para tu comodidad.
+
+## *¿Estás listx para embarcarte en este viaje de autodescubrimiento y conexión con el universo?* 🌌✨
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScfVBE6ok4vvBbeqD4ijSR-AzpWb6DLCOiZyniIWWBf6MVTbg/viewform?usp=sf_link" class="btn btn-astro">Inscríbete &rarr;</a>
 
