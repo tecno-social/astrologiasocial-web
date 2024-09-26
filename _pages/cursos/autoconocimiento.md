@@ -7,18 +7,12 @@ image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
-¡Te invitamos a unirte a nuestro curso de iniciación en el lenguaje astrológico! A través del conocimiento de esta herramienta y su simbología, podrás descubrir elementos que te ayudarán a madurar patrones o creencias limitantes, además de conectar con tu sentido y propósito personal.
-
-----
-
-## ✨ Itinerario del viaje ✨
-
 ¡Te invitamos a un viaje transformador lleno de magia y autodescubrimiento! En este curso de 8 encuentros, nos sumergiremos en el fascinante mundo de la astrología, conectando profundamente con nosotras mismas y el universo.
 
-🌙 ¿Qué te espera?
+🌙 **¿Qué te espera?**
 Cada encuentro será una oportunidad única para explorar tu ser a través de rituales, meditaciones guiadas, y ejercicios prácticos llenos de poesía y arte.
 
-🎨 ¿El objetivo?
+🎨 **¿El objetivo?**
 Descubrir tu lugar en el cosmos, sanar, y empoderarte desde una visión holística y creativa.
 
 Este es tu momento para reconectar con lo sagrado y vivir una experiencia que cambiará tu vida. ¡Te esperamos con los brazos abiertos! 🤍
@@ -27,14 +21,16 @@ Este es tu momento para reconectar con lo sagrado y vivir una experiencia que ca
 
 _______________________
 
+## ✨ **Itinerario del viaje** ✨
+
 ### 🌟 Descubriendo la Astrología 🌟
 En este primer encuentro, deconstruiremos nuestra relación con la astrología y exploraremos su enorme potencial como herramienta de autoconocimiento. Además, realizaremos un análisis profundo de tu mapa astral personal, descubriendo los elementos con mayor influencia en tu vida.
 
-📜 ¿Qué veremos?
+📜 **¿Qué veremos?**
 
-- Un recorrido histórico por los principales hitos astrológicos.
-- Introducción al lenguaje sagrado de la astrología.
-- Exploración de los elementos que definen tu esencia.
+* Un recorrido histórico por los principales hitos astrológicos.
+* Introducción al *lenguaje sagrado* de la astrología.
+* Exploración de los *elementos* y las *modalidades* que definen tu esencia.
 
   
 ### 🌟 **Las Fuerzas Zodiacales** 🌟
@@ -42,9 +38,9 @@ En este primer encuentro, deconstruiremos nuestra relación con la astrología y
 Durante 4 sesiones nos sumergiremos en los **estados energéticos** de los signos zodiacales, comenzando con **Aries**, el **pionero** y la energía de la **acción**, pasando por **Tauro**, el signo de la **estabilidad** y los recursos, y **Géminis**, el comunicador. Seguiremos explorando **Cáncer**, el **protector emocional**, **Leo**, el creativo y líder, **Virgo**, el perfeccionista, y **Libra**, el signo del **equilibrio**. Más adelante, profundizaremos en **Escorpio**, la energía de la **transformación**, **Sagitario**, el explorador de la verdad, **Capricornio**, el constructor de logros, **Acuario**, el visionario, y finalmente **Piscis**, el **soñador** y **sanador**.
 
 🔮 **¿Qué aprenderás?**  
-- Descubriremos los **misterios y significados** de cada signo y cómo estas energías nos impactan en la vida cotidiana.  
-- Analizaremos sus aspectos **habilitadores** y **desafiantes**, brindándote herramientas para comprender y trabajar con cada una de ellas.  
-- A través de **meditaciones profundas** y **ejercicios artísticos**, traeremos estas energías a tu conciencia, ayudándote a integrarlas para potenciar tu **crecimiento personal**.
+* Descubriremos los **misterios y significados** de cada signo y cómo estas energías nos impactan en la vida cotidiana.  
+* Analizaremos sus aspectos **habilitadores** y **desafiantes**, brindándote herramientas para comprender y trabajar con cada una de ellas.  
+* A través de **meditaciones profundas** y **ejercicios artísticos**, traeremos estas energías a tu conciencia, ayudándote a integrarlas para potenciar tu **crecimiento personal**.
 
 En esta etapa conectarás con la sabiduría de cada signo para aprovechar su poder en tu vida diaria. 🌱✨
 
