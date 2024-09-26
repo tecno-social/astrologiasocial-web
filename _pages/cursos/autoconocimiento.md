@@ -15,16 +15,17 @@ Cada encuentro será una oportunidad única para explorar tu ser a través de ri
 🎨 **¿El objetivo?**
 Descubrir tu lugar en el cosmos, sanar, y empoderarte desde una visión holística y creativa.
 
-Este es tu momento para reconectar con lo sagrado y vivir una experiencia que cambiará tu vida. ¡Te esperamos con los brazos abiertos! 🤍
-
 <img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+
+Este es tu momento para reconectar con lo sagrado y vivir una experiencia que cambiará tu vida. ¡Te esperamos con los brazos abiertos! 🤍
 
 _______________________
 
 ## ✨ **Itinerario del viaje** ✨
 
+
 ### 🌟 Descubriendo la Astrología 🌟
-En este primer encuentro, deconstruiremos nuestra relación con la astrología y exploraremos su enorme potencial como herramienta de autoconocimiento. Además, realizaremos un análisis profundo de tu mapa astral personal, descubriendo los elementos con mayor influencia en tu vida.
+En este primer encuentro, deconstruiremos nuestra relación con la astrología y exploraremos su enorme potencial como herramienta de autoconocimiento. 
 
 📜 **¿Qué veremos?**
 
@@ -64,10 +65,10 @@ Este encuentro te dará las herramientas para interpretar tu carta desde una vis
 En este tema, nos sumergiremos en los **mitos, ciclos y funciones** de las **luminarias**: el **Sol** y la **Luna**, dos fuerzas clave en nuestra carta astral. Exploraremos cómo estas energías influyen en nuestras vidas y aprenderemos a trabajar con ellas de manera **constructiva** para potenciar nuestro desarrollo personal.
 
 🔮 **¿Qué aprenderás?**  
-- Desvelaremos los **mitos** que rodean al Sol y la Luna, comprendiendo su simbolismo y la manera en que guían nuestra **esencia** y nuestro **mundo emocional**.  
-- Analizaremos los **ciclos solares y lunares** y cómo afectan diferentes áreas de nuestra vida a lo largo del tiempo.  
-- **El Ascendente**: profundizaremos en el **ascendente personal**, que marca nuestro **camino de evolución** y la manera en que nos presentamos al mundo.  
-- Evaluaremos cómo el ascendente influye en las **decisiones que tomamos** a lo largo de los años y cómo estas elecciones transforman nuestra identidad.
++ Desvelaremos los **mitos** que rodean al Sol y la Luna, comprendiendo su simbolismo y la manera en que guían nuestra **esencia** y nuestro **mundo emocional**.  
++ Analizaremos los **ciclos solares y lunares** y cómo afectan diferentes áreas de nuestra vida a lo largo del tiempo.  
++ **El Ascendente**: profundizaremos en el **ascendente personal**, que marca nuestro **camino de evolución** y la manera en que nos presentamos al mundo.  
++ Evaluaremos cómo el ascendente influye en las **decisiones que tomamos** a lo largo de los años y cómo estas elecciones transforman nuestra identidad.
 
 Este tema te permitirá entender de manera más consciente la interacción entre tus **luminarias** y tu **ascendente**, descubriendo herramientas para alinearte con estos aspectos esenciales en tu **camino de crecimiento personal**. 🌞🌙✨
 
