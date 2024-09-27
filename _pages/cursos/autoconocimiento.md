@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Curso inicial de Astrología 
+title: ¡Te invitamos a un viaje transformador lleno de magia y autodescubrimiento!
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
-¡Te invitamos a un viaje transformador lleno de magia y autodescubrimiento! En este curso de 8 encuentros, nos sumergiremos en el fascinante mundo de la astrología, conectando profundamente con nosotras mismas y el universo.
+En este curso de 8 encuentros, nos sumergiremos en el fascinante mundo de la astrología, conectando profundamente con nosotras mismas y el universo.
 
 <img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
@@ -17,11 +17,12 @@ Cada encuentro será una oportunidad única para explorar tu ser a través de ri
 🎨 **¿El objetivo?**
 Descubrir tu lugar en el cosmos, sanar, y empoderarte desde una visión holística y creativa.
 
-Este es tu momento para reconectar con lo sagrado y vivir una experiencia que cambiará tu vida. ¡Te esperamos con los brazos abiertos! 🤍
+Este es tu momento para reconectar con lo sagrado y vivir una experiencia que cambiará tu vida. 
+¡Te esperamos con los brazos abiertos! 🤍
 
 _______________________
 
-## ✨ **Itinerario del viaje** ✨
+# ✨ **Itinerario del viaje** ✨
 
 
 ### 🌟 Descubriendo la Astrología 🌟
@@ -31,19 +32,21 @@ En este primer encuentro, deconstruiremos nuestra relación con la astrología y
 
 * Un recorrido histórico por los principales hitos astrológicos.
 * Introducción al *lenguaje sagrado* de la astrología.
-* Exploración de los *elementos* y las *modalidades* que definen tu esencia.
+* Ritual de iniciación y exploración de los *elementos* y las *modalidades* que definen tu esencia.
 
   
 ### 🌟 **Las Fuerzas Zodiacales** 🌟
 
-Durante 4 sesiones nos sumergiremos en los 12 **estados energéticos** de los signos zodiacales, comenzando con **Aries**, el **pionero** y la energía de la **acción**, pasando por **Libra**, el signo del **equilibrio**, y finalmente **Piscis**, el **soñador** y **sanador**.
+Durante 4 sesiones nos sumergiremos en los 12 **estados energéticos** de los signos zodiacales, comenzando con **Aries**, el **pionero** y la energía de la **acción** hasta llegar a **Piscis**, el **soñador** y **sanador**.
 
-🔮 **¿Qué aprenderás?**  
+🔮 **¿Qué aprenderás?**
+
 * Descubriremos los **misterios y significados** de cada signo y cómo estas energías nos impactan en la vida cotidiana.
 * Analizaremos sus aspectos **habilitadores** y **desafiantes**, brindándote herramientas para comprender y trabajar con cada una de ellas.
 * A través de **meditaciones profundas** y **ejercicios artísticos**, traeremos estas energías a tu conciencia, ayudándote a integrarlas para potenciar tu **crecimiento personal**.
 
 En esta etapa conectarás con la sabiduría de cada signo para aprovechar su poder en tu vida diaria. 🌱✨
+
 
 ### 🌟 **Explorando las Casas Astrológicas** 🌟
 
@@ -52,12 +55,13 @@ En este encuentro, nos adentraremos en el **mandala astrológico**, una represen
 <img src='/assets/images/curso-autoconocimiento-notas-astro-mapas.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 🔮 **¿Qué aprenderás?**  
-- Descifraremos el **mandala astrológico** y sus diferentes niveles de interpretación.  
-- Exploraremos cada una de las 12 casas y cómo influyen en aspectos como la **identidad** (Casa 1), la **familia** (Casa 4), las **relaciones** (Casa 7), y las **aspiraciones** (Casa 10).  
-- Aprenderás a identificar las **áreas de mayor influencia** en tu carta natal y cómo trabajar conscientemente con esa energía.  
-- Realizaremos ejercicios prácticos para reconocer cómo las casas están activas en tu vida diaria y cómo puedes alinearte mejor con sus mensajes.
 
-Este encuentro te dará las herramientas para interpretar tu carta desde una visión integral, comprendiendo cómo cada parte del mandala astrológico interactúa con las demás para guiar tu **crecimiento personal**. 🌙✨
+* Descifraremos el **mandala astrológico** y sus diferentes niveles de interpretación.
+* Exploraremos cada una de las 12 casas y cómo influyen en aspectos como la **identidad** (Casa 1), la **familia** (Casa 4), las **relaciones** (Casa 7), y las **aspiraciones** (Casa 10).
+* Aprenderás a identificar las **áreas de mayor influencia** en tu carta natal y cómo trabajar conscientemente con esa energía.
+* Realizaremos ejercicios prácticos para reconocer cómo las casas están activas en tu vida diaria y cómo puedes alinearte mejor con sus mensajes.
+
+Este encuentro te dará las herramientas para reconocer tu carta desde una visión integral, comprendiendo cómo cada parte del mandala astrológico interactúa con las demás para guiar tu **crecimiento personal**. 🌙✨
 
 
 ### 🌟 **Las Luminarias y el Camino al Ascendente** 🌟
@@ -85,7 +89,7 @@ Para mayor flexibilidad, al finalizar cada sesión recibirás la **grabación co
 
 ### 💰 **Costo del Curso** 💰
 
-El precio es de **80 USD** o su equivalente en moneda local. Este monto puede dividirse en **dos pagos** para tu comodidad.
+El precio es de **80 USD** o su equivalente en moneda local si se paga anticipado. Sino tiene un costo de **100 USD** y puede dividirse en **dos pagos** para tu comodidad.
 
 ## *¿Estás listx para embarcarte en este viaje de autodescubrimiento y conexión con el universo?* 🌌✨
 
