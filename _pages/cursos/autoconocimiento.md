@@ -49,7 +49,7 @@ En esta etapa conectarás con la sabiduría de cada signo para aprovechar su pod
 
 En este encuentro, nos adentraremos en el **mandala astrológico**, una representación completa de nuestra carta natal, donde cada parte tiene un significado profundo. Entenderemos cómo las **12 casas astrológicas** dividen este mandala en áreas clave de nuestras vidas, revelando escenarios como nuestra **personalidad**, **relaciones**, **familia**, **trabajo** y **metas**.
 
-<img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+<img src='/assets/images/curso-autoconocimiento-notas-astro-mapas.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 🔮 **¿Qué aprenderás?**  
 - Descifraremos el **mandala astrológico** y sus diferentes niveles de interpretación.  
