@@ -3,7 +3,7 @@ layout: post
 title:  Los cometas, sus símbolos y posibles significados
 author: Lina
 categories: [ Cometas, Mundana]
-image: assets/images/posts/_postsLos-cometas-simbolos-significados.jpg
+image: assets/images/posts/2024-09-29-Los-cometas-simbolos-significados.png
 ---
 
 En mi camino de exploración astrológica, me he encontrado muchas veces pensando: cuanto más descubro, más me doy cuenta de lo mucho que no sé. Tal vez por eso la astrología ha evolucionado junto con la humanidad, acompañándola en su recorrido. Hace unos días, un amigo numerólogo me preguntó qué significado astrológico podía tener el cometa **C/2023 A3 (Tsuchinshan-ATLAS)**. Le respondí que investigaría y compartiría mis hallazgos con él.
