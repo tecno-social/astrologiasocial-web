@@ -60,7 +60,7 @@ En la carta astral del cometa, se destacan dos configuraciones que brindan apoyo
 
 2. La segunda configuración involucra a **Júpiter en Aries**, lo que sugiere que, aunque puedan aumentar los hechos violentos, **Júpiter** también puede representar figuras prominentes, como líderes religiosos o científicos que apoyan los gremios y las entidades sociales. Estas figuras juegan un papel clave en la búsqueda de **paz** y **equilibrio social**.
 
-<img src='/assets/images/posts/2024-09-04-sol-virgo-sophia.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/Cielo-29-9-2024.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 En estos días, mientras el cometa **C/2023 A3 (Tsuchinshan-ATLAS)** se hace visible en el cielo, resulta muy resonante que también hay una configuración planetaria que forma una **"cometa planetaria"**. Este patrón en el cielo nos ofrece una representación simbólica significativa.
 
