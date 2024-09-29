@@ -22,7 +22,7 @@ Otra interpretación interesante es que, debido a su **lejano origen**, los come
 
 Para interpretar simbólicamente un cometa en astrología, es crucial considerar varios aspectos: la **dirección** desde la cual aparece, si tiene una o dos **colas**, los **colores** que pueden reflejar su composición, y el **ángulo** de su entrada en el cielo. Estos detalles nos pueden ayudar a comprender mejor el mensaje que trae consigo.
 
-<img src='/assets/images/posts/2024-09-04-sol-virgo-sophia.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/Comet-C2023-A3-orbit-final.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 
 Por ejemplo:
