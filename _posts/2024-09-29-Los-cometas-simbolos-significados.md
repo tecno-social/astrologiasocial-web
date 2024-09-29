@@ -14,36 +14,42 @@ Para comenzar, los **cometas** son cuerpos celestes que orbitan alrededor del So
 
 A lo largo de la historia, los cometas han sido estudiados tanto por la **astronomía** como por la **astrología**. En la antigüedad, se creía que traían calamidades: guerras, enfermedades y desastres. Si analizamos el fenómeno, vemos que los cometas tienen un comportamiento que parece **caprichoso**, sin una periodicidad clara. Rompen con las leyes cíclicas y constantes del sistema solar, ya que su órbita es mucho más elíptica que la de los planetas. Algunos incluso viajan a enormes distancias, llegando hasta la **nube de Oort**, en el borde del sistema solar. 
 
-A pesar de esto, ciertos cometas presentan **cierta periodicidad**, como el famoso **cometa Halley**, cuyo regreso fue pronosticado por halley gracias a los cálculos de Newton. Algunos cometas vuelven a entrar en nuestra órbita solar cada cierto tiempo, acercándose al Sol y la Tierra. Sin embargo, muchos de ellos se desintegran al estar expuestos a las fuerzas gravitacionales y al calor solar.
+A pesar de esto, ciertos cometas presentan **cierta periodicidad**, como el famoso **cometa Halley**, cuyo regreso fué pronosticado por Halley gracias a sus esfuerzos y cálculos sumados a los de Newton. Algunos cometas vuelven a entrar en nuestra órbita solar cada cierto tiempo, acercándose al Sol y la Tierra. Sin embargo, muchos de ellos se desintegran al estar expuestos a las fuerzas gravitacionales y al calor solar.
 
 Todas estas características le otorgan al cometa una simbología muy rica en la astrología: se asocia con el **cambio, la disrupción** y la **purificación**. En la antigüedad, los astrólogos veían los cometas como señales de desastres, pero este enfoque era parte de una visión determinista y polarizada del cosmos. En contraste, pensadores como **Carlos de Sigüenza**, desde una perspectiva más **hermética**, sostenían que los cometas no eran necesariamente malignos. Para él, los cometas eran obra de Dios, benignos y purificadores. Si fueran inherentemente negativos, siempre traerían el mismo tipo de calamidad, y sin embargo, su comportamiento es impredecible.
 
-Sigüenza comparaba los cometas con **dragones** mitológicos. Al igual que las serpientes, que absorben venenos para purificar su entorno, los cometas también recolectan impurezas cósmicas y las queman en su paso, reequilibrando el cosmos. Desde esta perspectiva, los cometas no son portadores de maldiciones, sino **agentes de transformación** y **limpieza** alquímica.
+Sigüenza comparaba los cometas con **dragones** mitológicos. Al igual que las serpientes, poseen veneno que puede venir de los minerales y la toxicidad de su entorno, cumpliendo una función de equilibrio y purificación. Entonces los cometas también recolectan impurezas cósmicas y las queman en su paso, reequilibrando el sistema. Desde esta perspectiva, los cometas no son portadores de maldiciones, sino **agentes de transformación** y **limpieza** alquímica.
 
-Otra interpretación interesante es que, debido a su **lejano origen**, los cometas pueden considerarse **mensajeros** de otras esferas espirituales, más allá de nuestra comprensión actual. Estos **objetos transneptunianos**, cuerpos celestes que residen más allá de la órbita de Neptuno, traen consigo un mensaje transpersonal que, solo tendremos chance de entender conscientemente cuando unos de ellos aparece e irrumpe en nuestro plano.
+Otra interpretación interesante es que, debido a su **lejano origen**, los cometas pueden considerarse **mensajeros** de otras esferas espirituales, más allá de nuestra comprensión actual. Estos **objetos transneptunianos**, cuerpos celestes que residen más allá de la órbita de Neptuno, traen consigo un mensaje espiritual que, solo tendremos chance de entender conscientemente cuando uno de ellos aparece e irrumpe en nuestra realidad.
 
-Para interpretar simbólicamente un cometa en astrología, es crucial considerar varios aspectos: la **dirección** desde la cual aparece, si tiene una o dos **colas**, los **colores** que pueden reflejar su composición, y el **ángulo** de su entrada en el cielo. Estos detalles nos pueden ayudar a comprender mejor el mensaje que trae consigo.
+Para interpretar simbólicamente un cometa en astrología, es fundamental considerar varios factores: la **dirección** desde la que aparece, si presenta una o dos **colas**, los **colores** que indican su composición, el **ángulo de entrada** en el cielo, y las **constelaciones** por las que transita cuando es visible desde la Tierra. Estos detalles pueden ayudarnos a descifrar mejor el **mensaje** que el cometa trae consigo. Generalmente, los cometas se interpretan desde una perspectiva **mundana**, es decir, en relación a países o regiones. Sin embargo, también es posible realizar una interpretación a nivel **personal**, observando las casas en las que transitan los signos que el cometa recorre en nuestra carta natal. Además, analizar la **carta astral** del descubrimiento del evento astronómico y examinar la configuración planetaria en el momento en que el cometa atraviesa la órbita terrestre puede ofrecer valiosas pistas astrológicas sobre su influencia.
 
-<img src='/assets/images/posts/2024-09-29-cometatsuchinshan-atlasc-2023-a3.jpeg' style='float:right; width: 45%; padding: 1em;' />
+Al profundizar en el tema de los colores del cometa, encontramos que estos están estrechamente vinculados con los elementos que gobiernan la Tierra:
 
-
-Por ejemplo:
-
-- Un **cometa rojo** puede simbolizar **guerras**, **incendios** o enfermedades relacionadas con el calor, como fiebres o inflamaciones.
+- Un **cometa rojo** (Fuego) puede simbolizar **guerras**, **incendios** o enfermedades relacionadas con el calor, como fiebres o inflamaciones.
   
-- Un **cometa verde** puede asociarse con **enfermedades acuosas** como los virus, o con la muerte de una figura importante. También está vinculado a temas de **finanzas**, la **naturaleza** y los **cultivos**.
+- Un **cometa verde** (Tierra) puede asociarse con **enfermedades acuosas** como los virus, o con la muerte de una figura importante. También está vinculado a temas de **finanzas**, la **naturaleza** y los **cultivos**.
   
-- Un **cometa amarillo** podría referirse a **enfermedades mentales**, como el estrés o la ansiedad, y a la **ruptura de relaciones**.
+- Un **cometa amarillo** (Aire) podría referirse a **enfermedades mentales**, como el estrés o la ansiedad, y a la **ruptura de relaciones**.
   
-- Un **cometa azul** se asocia con **enfermedades acuosas** como la peste, y con problemas relacionados con el **agua**, como inundaciones o sequías.
+- Un **cometa azul** (Agua) se asocia con **enfermedades acuosas** como la peste, y con problemas relacionados con el **agua**, como inundaciones o sequías.
+  
+
+## Cometa C/2023 A3 (Tsuchinshan-ATLAS)
 
 Ahora, centrémonos en el **cometa C/2023 A3 (Tsuchinshan-ATLAS)**. Aunque inicialmente no había consenso entre los astrónomos, lo cual ya es un dato simbólico de **confusión** y **ego**, hoy, 29 de septiembre, se han aclarado algunos puntos importantes. Este cometa es **nuevo** y **no periódico**, lo que significa que nunca había sido observado antes. Proviene de la lejana **nube de Oort** y, según las estimaciones, saldrá del sistema solar en unos **190.000 años**. 
 
+<img src='/assets/images/posts/2024-09-29-cometatsuchinshan-atlasc-2023-a3.jpeg' style='float:right; width: 45%; padding: 1em;' />
+
 Se creía que este cometa podría fragmentarse debido a las **fuerzas magnéticas** y al **calor solar** cuando alcanzara su perihelio (el punto más cercano al Sol) el 27 de septiembre, acercándose mucho a la órbita de Mercurio. Curiosamente, en la mitología, **Mercurio** es el **mensajero de los dioses**, y su órbita es conocida como un "cementerio de cometas", ya que muchos se consumen en su proximidad al Sol. Sin embargo, contra todo pronóstico, el cometa no se fragmentó y, actualmente, puede ser observado desde el **hemisferio sur**.
 
-Este cometa es interesante por varias razones: no contiene tanta **agua** ni **polvo**, lo que le da una **cola menos prominente** y no es particularmente grande ni brillante. Fue detectado por primera vez en el **telescopio Palomar**, uno de los más potentes del mundo, ubicado en Estados Unidos, en abril de 2022. Sin embargo, su nombre proviene del **Observatorio de la Montaña Púrpura** en China, que anunció su descubrimiento el 9 de enero de 2023.
+Este cometa presenta características inusuales: contiene **menos agua** de lo esperado y **menos polvo**, lo que resulta en una **cola menos prominente**. Tampoco es particularmente grande ni brillante. Además, la **irregularidad magnética** que ha afectado su cola durante su viaje hacia el Sol refuerza su naturaleza errática y volátil, un símbolo de la **impermanencia y transformación**. Fue detectado por primera vez en abril de 2022 por el **telescopio Palomar**, uno de los más poderosos del mundo, ubicado en Estados Unidos. Sin embargo, su descubrimiento oficial fue anunciado el 9 de enero de 2023 por el **Observatorio de la Montaña Púrpura** en China, reflejando la dualidad de **oriente y occidente**, lo cual puede interpretarse simbólicamente como la integración de diferentes corrientes de pensamiento y sabiduría.
 
-Posteriormente, el avistamiento fue confirmado por el **Sistema de Última Alerta de Impacto Terrestre y Asteroides (ATLAS)** en Sudáfrica. El cometa está recorriendo actualmente las constelaciones de **Leo** y **Virgo**, y será más visible a partir del **12 de octubre**, cuando se espera que tenga un **color verde blanquecino**.
+Posteriormente, su existencia fue confirmada por el **Sistema de Última Alerta de Impacto Terrestre y Asteroides (ATLAS)** en Sudáfrica. Actualmente, el cometa recorre las constelaciones de **Leo** y **Virgo**, y será más visible a partir del **12 de octubre**, mostrando un **color verde blanquecino**. Desde una perspectiva simbólica, el **verde** representa el elemento **Tierra**, conectado con la **naturaleza**, la **fertilidad**, y los ciclos de crecimiento, pero también con la **sanación** y la **purificación**. 
+
+El tránsito por **Leo**, el signo del **poder y la realeza**, nos habla de **cambios en las estructuras de poder y liderazgo**. Leo está vinculado al corazón y al espíritu, y su paso por esta constelación podría reflejar una **reconfiguración del orgullo, la autoridad y el rol de los líderes en el mundo**, invitando a cuestionar las jerarquías actuales. Al avanzar hacia **Virgo**, signo de la **cosecha y el servicio**, esta energía se enfoca en la **sanación de la tierra** y los sistemas productivos. Los temas relacionados con las **finanzas, los alimentos, las estructuras sociales** y el **bienestar físico** podrían verse afectados, trayendo consigo la necesidad de **transformaciones profundas**.
+
+El mensaje simbólico de este cometa, reforzado por su conexión con **Leo** y **Virgo**, sugiere un periodo de **purificación y renovación** en los niveles personal y colectivo, alineado con la sabiduría hermética de la **disolución de lo viejo** para dar paso a **nuevas formas de equilibrio y poder**.
 
 Tomando en cuenta la carta astrológica del descubrimiento del cometa en China, vemos que...
 
