@@ -14,17 +14,17 @@ Para comenzar, los **cometas** son cuerpos celestes que orbitan alrededor del So
 
 A lo largo de la historia, los cometas han sido estudiados tanto por la **astronomía** como por la **astrología**. En la antigüedad, se creía que traían calamidades: guerras, enfermedades y desastres. Si analizamos el fenómeno, vemos que los cometas tienen un comportamiento que parece **caprichoso**, sin una periodicidad clara. Rompen con las leyes cíclicas y constantes del sistema solar, ya que su órbita es mucho más elíptica que la de los planetas. Algunos incluso viajan a enormes distancias, llegando hasta la **nube de Oort**, en el borde del sistema solar. 
 
-A pesar de esto, ciertos cometas presentan **cierta periodicidad**, como el famoso **cometa Halley**, cuya órbita fue identificada gracias a los cálculos de Newton. Algunos cometas vuelven a entrar en nuestra órbita solar cada cierto tiempo, acercándose al Sol y la Tierra. Sin embargo, muchos de ellos se desintegran al estar expuestos a las fuerzas gravitacionales y al calor solar.
+A pesar de esto, ciertos cometas presentan **cierta periodicidad**, como el famoso **cometa Halley**, cuyo regreso fue pronosticado por halley gracias a los cálculos de Newton. Algunos cometas vuelven a entrar en nuestra órbita solar cada cierto tiempo, acercándose al Sol y la Tierra. Sin embargo, muchos de ellos se desintegran al estar expuestos a las fuerzas gravitacionales y al calor solar.
 
 Todas estas características le otorgan al cometa una simbología muy rica en la astrología: se asocia con el **cambio, la disrupción** y la **purificación**. En la antigüedad, los astrólogos veían los cometas como señales de desastres, pero este enfoque era parte de una visión determinista y polarizada del cosmos. En contraste, pensadores como **Carlos de Sigüenza**, desde una perspectiva más **hermética**, sostenían que los cometas no eran necesariamente malignos. Para él, los cometas eran obra de Dios, benignos y purificadores. Si fueran inherentemente negativos, siempre traerían el mismo tipo de calamidad, y sin embargo, su comportamiento es impredecible.
 
 Sigüenza comparaba los cometas con **dragones** mitológicos. Al igual que las serpientes, que absorben venenos para purificar su entorno, los cometas también recolectan impurezas cósmicas y las queman en su paso, reequilibrando el cosmos. Desde esta perspectiva, los cometas no son portadores de maldiciones, sino **agentes de transformación** y **limpieza** alquímica.
 
-Otra interpretación interesante es que, debido a su **lejano origen**, los cometas pueden considerarse **mensajeros** de otras esferas espirituales, más allá de nuestra comprensión actual. Estos **objetos transneptunianos**, cuerpos celestes que residen más allá de la órbita de Neptuno, traen consigo un mensaje del cosmos que, aunque no siempre captamos conscientemente, influye en nuestra realidad.
+Otra interpretación interesante es que, debido a su **lejano origen**, los cometas pueden considerarse **mensajeros** de otras esferas espirituales, más allá de nuestra comprensión actual. Estos **objetos transneptunianos**, cuerpos celestes que residen más allá de la órbita de Neptuno, traen consigo un mensaje transpersonal que, solo tendremos chance de entender conscientemente cuando unos de ellos aparece e irrumpe en nuestro plano.
 
 Para interpretar simbólicamente un cometa en astrología, es crucial considerar varios aspectos: la **dirección** desde la cual aparece, si tiene una o dos **colas**, los **colores** que pueden reflejar su composición, y el **ángulo** de su entrada en el cielo. Estos detalles nos pueden ayudar a comprender mejor el mensaje que trae consigo.
 
-<img src='/assets/images/posts/Comet-C2023-A3-orbit-final.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/2024-09-29-cometatsuchinshan-atlasc-2023-a3.jpeg' style='float:right; width: 45%; padding: 1em;' />
 
 
 Por ejemplo:
