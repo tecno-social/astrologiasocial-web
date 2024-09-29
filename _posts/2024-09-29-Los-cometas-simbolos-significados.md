@@ -8,6 +8,8 @@ image: assets/images/posts/2024-09-29-Los-cometas-simbolos-significados.png
 
 En mi camino de exploración astrológica, me he encontrado muchas veces pensando: cuanto más descubro, más me doy cuenta de lo mucho que no sé. Tal vez por eso la astrología ha evolucionado junto con la humanidad, acompañándola en su recorrido. Hace unos días, un amigo numerólogo me preguntó qué significado astrológico podía tener el cometa **C/2023 A3 (Tsuchinshan-ATLAS)**. Le respondí que investigaría y compartiría mis hallazgos con él.
 
+<img src='/assets/images/posts/Comet-C2023-A3-orbit-final.jpg' style='float:right; width: 45%; padding: 1em;' />
+
 Para comenzar, los **cometas** son cuerpos celestes que orbitan alrededor del Sol, siguiendo trayectorias variadas, y no tienen luz propia. Etimológicamente, la palabra "cometa" proviene del griego *kómetes*, que significa "cabellera", en referencia a su estela. Su símbolo es un círculo con tres líneas, representando esa cola luminosa que los caracteriza.
 
 A lo largo de la historia, los cometas han sido estudiados tanto por la **astronomía** como por la **astrología**. En la antigüedad, se creía que traían calamidades: guerras, enfermedades y desastres. Si analizamos el fenómeno, vemos que los cometas tienen un comportamiento que parece **caprichoso**, sin una periodicidad clara. Rompen con las leyes cíclicas y constantes del sistema solar, ya que su órbita es mucho más elíptica que la de los planetas. Algunos incluso viajan a enormes distancias, llegando hasta la **nube de Oort**, en el borde del sistema solar. 
