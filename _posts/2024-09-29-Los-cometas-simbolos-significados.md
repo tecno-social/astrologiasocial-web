@@ -45,7 +45,7 @@ Posteriormente, el avistamiento fue confirmado por el **Sistema de Última Alert
 
 Tomando en cuenta la carta astrológica del descubrimiento del cometa en China, vemos que...
 
-<img src='/assets/images/posts/2024-09-04-sol-virgo-sophia.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/descubrimiento-china.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 
 Es notable la fuerte presencia de **Capricornio**, signo que rige los **gobiernos**, la **política** y las **montañas**. En esta posición se encuentra el **Sol**, representando el **espíritu de la humanidad** y su identidad, junto a Mercurio, que simboliza la **comunicación** y el **pensamiento**. Este alineamiento sugiere una **reflexión profunda** sobre los **gobiernos** y las **estructuras económicas** globales. No es casual que **China** emerja como una potencia que ha superado a los **EE. UU.** en varios aspectos. Estas dinámicas de poder generan tensiones que impactan directamente en los pueblos, provocando malestar e, incluso, el desarrollo de enfermedades.
