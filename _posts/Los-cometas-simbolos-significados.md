@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Los cometas, sus simbolos y posibles significados
+title:  Los cometas, sus símbolos y posibles significados
 author: Lina
-categories: [ Astrología, Mundana]
+categories: [ Cometas, Mundana]
 image: assets/images/posts/_postsLos-cometas-simbolos-significados.jpg
 ---
 
