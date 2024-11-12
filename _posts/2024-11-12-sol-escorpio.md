@@ -3,7 +3,7 @@ layout: post
 title:  "Sol en Escorpio"
 author: Lina
 categories: [ Escorpio, Sol, Agua]
-image: assets/images/posts/2024-10-11-sol-libra.jpg
+image: assets/images/posts/2024-11-12-sol-escorpio.jpg
 ---
 
 ***El Sol en Escorpio** corresponde a las personas nacidas entre el 23 de octubre y el 21 de noviembre. En el hemisferio norte, en esta época, el Sol comienza su descenso; la luz solar se acorta y todo entra en un proceso de muerte. Es temporada de otoño, una etapa que invita a una mayor introspección. Así, pasamos de la necesidad de armonía, belleza y equilibrio que caracteriza la energía de Libra, para adentrarnos en el deterioro y la muerte de todo aquello a lo que nos hemos apegado. Las verdades incómodas y ocultas emergen a la superficie, con la intención de crecer y transformarse.*
@@ -15,7 +15,7 @@ image: assets/images/posts/2024-10-11-sol-libra.jpg
 **Arquetipos:** *Iluminado: El Chaman, El Alquimista. Neurótico: El represor, el destructor.*
 **Famosos:** Brigitte Bardot, Mahatma Gandhi.
 
-##**La simbología de Escorpio**
+## La simbología de Escorpio
 
 El escorpión no es el único símbolo que representa a este signo. A lo largo del camino de un escorpiano, tres animales encarnan las energías que lo impulsan y su perspectiva de vida.
 
@@ -59,11 +59,9 @@ Escorpio tiene una relación única con la muerte y la resurrección. Sus pasion
 3. **El Águila**  
    El Águila es la manifestación más elevada de Escorpio. Representa la sabiduría, la justicia y la capacidad de ver por encima de las limitaciones terrenales. A diferencia de los otros tipos de Escorpio, el Águila no se deja dominar por las pasiones terrenales ni por el deseo de venganza. En lugar de reaccionar con ira, observa y evalúa las situaciones desde una perspectiva amplia, lo que le permite actuar con precisión y sabiduría. El Águila no tiene miedo de enfrentar a sus enemigos, pero lo hace de manera estratégica, dejando que el enemigo aprenda la lección y luego permitiéndole seguir su camino. Este tipo de Escorpio es introspectivo y frío, con una gran capacidad para entender el pasado, el presente y el futuro en su totalidad.  
 
----
-
 Cada tipo de Escorpio tiene su propia forma de enfrentarse a los desafíos de la vida. Ya sea en su lucha por el poder o en su búsqueda de la verdad, Escorpio es un signo que se reinventa constantemente, utilizando las energías ocultas del universo para transformarse a sí mismo y al mundo que lo rodea.
 
-
+___
 
 ### El lado oscuro de Escorpio
 
@@ -76,6 +74,7 @@ El lado más oscuro de Escorpio también puede manifestarse en su tendencia a se
 
 El tipo **Águila** de Escorpio se distingue de los demás por su capacidad de separarse a través del pensamiento de los aspectos individuales, viendo el mundo desde una perspectiva más abstracta. Sin embargo, esta visión panorámica también puede jugar en su contra, dificultando su capacidad para discernir lo que realmente tiene valor. Al verse por encima de lo "bajo", puede caer en una actitud de desprecio hacia los demás, viéndolos como insignificantes en comparación con su propia visión. El Águila, aunque aspirante a la grandeza y al conocimiento superior, puede caer en la trampa de vuelos idealistas y demasiado alejados de la realidad, perdiendo el rumbo en un mundo de ilusiones.
 
+___
 
 ### Maduración del sol en Escorpio
 
