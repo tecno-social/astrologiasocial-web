@@ -119,7 +119,7 @@ ___
 
 Marie Curie tenía su Sol en Escorpio, el signo de la transformación y el renacimiento, y lo vivió en carne propia. Su trabajo con la radiactividad no solo cambió la ciencia, sino que transformó nuestra comprensión de la vida, desafiando las normas de su época, cuando la ciencia era principalmente un terreno masculino. Escorpio le dio la fuerza para explorar lo desconocido y arriesgarse en busca de la verdad, sin importar el costo.
 
-Su **Venus en Capricornio** refleja su disciplina y perseverancia, tanto en su carrera como en su vida personal. Su relación con Pierre Curie, una alianza de almas afines, fue un ejemplo de cómo construyeron juntos un legado sólido basado en el trabajo arduo y la visión compartida.
+Su **Venus en escorpio conjunción saturno** refleja su disciplina y perseverancia, tanto en su carrera como en su vida personal. Su relación con Pierre Curie, una alianza de almas afines, fue un ejemplo de cómo construyeron juntos un legado sólido basado en el trabajo arduo y la visión compartida.
 
 Por otro lado, **Mercurio en Sagitario** le otorgó una curiosidad insaciable y una mente abierta, dispuesta a cruzar fronteras y explorar nuevos horizontes. Esta combinación de Escorpio, Capricornio y Sagitario no solo definió su vida personal y profesional, sino que le permitió trascender los límites de la ciencia y dejar una huella indeleble en el mundo.
 
