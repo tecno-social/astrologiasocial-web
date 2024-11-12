@@ -113,7 +113,7 @@ ___
 
 ### Madame Cuire. 7 de noviembre de 1867
 
-<img src='/assets/images/posts/2024-10-11-sol-libra-BBardot.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/2024-11-12-sol-escorpio-Marie-Curie.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 **Marie Curie y los símbolos de su carta astral**
 
@@ -128,7 +128,7 @@ Marie Curie, con su mezcla única de energía transformadora, disciplina y curio
 
 ### Pablo Picasso. 2 de octubre de 1869
 
-<img src='/assets/images/posts/2024-10-11-sol-libra-MGandhi.jpg' style='float:right; width: 45%; padding: 1em;' />
+<img src='/assets/images/posts/2024-11-12-sol-escorpio-Pablo-Picasso.jpg' style='float:right; width: 45%; padding: 1em;' />
 **La naturaleza plutoniana de Picasso**
 Pablo Picasso tenía una naturaleza profundamente plutoniana, marcada por su Sol en Escorpio y su Plutón en oposición a Mercurio. Esta energía de transformación y intensidad se reflejaba en sus relaciones amorosas, donde Venus en trígono con Plutón imprimía una carga emocional compulsiva y absorbente. Aunque no era un hombre especialmente atractivo, Picasso ejercía un magnetismo irresistible, y a lo largo de su vida tuvo múltiples relaciones, siempre con mujeres más jóvenes. Esta búsqueda constante de conexión femenina fue central en su vida y su arte, creando un patrón en el que cada nueva amante parecía desencadenar un cambio en su estilo artístico y su visión del mundo.
 La influencia femenina sobre Picasso era poderosa, marcada por una infancia rodeado de mujeres indulgentes, lo que generó una dependencia emocional hacia el afecto femenino. Aunque su actitud con las mujeres podía ser misógina y manipuladora, también mostraba un lado tierno y vulnerable. La Luna en Sagitario de Picasso, con su necesidad de libertad emocional, se vinculaba con Venus por un sextil, subrayando la fuerte conexión entre sus relaciones amorosas y su creatividad. Cada relación no solo influía en su vida emocional, sino que remodelaba su arte, reflejando el constante proceso de transformación que caracterizó su vida.
