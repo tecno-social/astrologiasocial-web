@@ -7,21 +7,7 @@ image: assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoc
 ---
 Plutón es el último planeta del sistema solar con un cico de 245 años, es rocoso y difícil de observar. Forma parte de los tres planetas que en la astrología moderna conocemos como transpersonales, es decir, aquellos que influyen más allá del individuo, más allá de la Tierra. Se descubrió en 1930, en una época marcada por el inicio de la Segunda Guerra Mundial y en la que la psicología daba importantes avances en el estudio del inconsciente colectivo y la sombra. 
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-Markdown allows you to be lazy and only put the > before the first line of a hard-wrapped paragraph:
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.
-Jung: “no se llega a la iluminación fantaseando imágenes de luz sino estando en contacto con su propia sombra.” 
+> Jung: “no se llega a la iluminación fantaseando imágenes de luz sino estando en contacto con su propia sombra.” 
 
 <img src='/assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.2.jpg' style='float:right; width: 45%; padding: 1em;' />
 
