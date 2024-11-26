@@ -127,5 +127,6 @@ Espero que este contenido te haya sido muy útil, fue hecho con mucho amor. Si t
 
 ## Fuentes
 
-* Jym Qhapaq Amaru . 2012. “INKA PACHAQAWAY - Cosmovisión Andina”. Publicado por Reduii.org. [Link del PDF](https://www.reduii.org/cii/sites/default/files/field/doc/Apu-Qun-Illa-Tiqsi-Wiraqucha-Pachayachachiq-El-Ordenador-Del-Cosmos.pdf)
-* Escuela Huber, 1998. “El Prisma Astrológico y la Dimensión Humana. Editado por Escuela Huber de Astrología. ¨[Link del PDF](https://gualeguaychu.gov.ar/apps/dashboard/ftp/biblioteca/63/63.pdf) gualeguaychu.gov.ar
+* Especialización astrología mundana. Aprende Astrología y Lu Gaitan - 2022.
+* Ruperti. 2005. Ciclos del Devenir. Editorial Kier.
+  
