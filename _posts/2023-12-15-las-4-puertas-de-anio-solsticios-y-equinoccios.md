@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Plutón, poder, muerte, transformación y renacimiento."
+title:  "Las 4 puertas del año. Solsticios y Equinoccios"
 author: Lina
-categories: [Plutón]
+categories: [ Solsticio, Equinoccio, Mitología ]
 image: assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.jpg
 ---
-Plutón es el último planeta del sistema solar con un cico de 245 años, es rocoso y difícil de observar. Forma parte de los tres planetas que en la astrología moderna conocemos como transpersonales, es decir, aquellos que influyen más allá del individuo, más allá de la Tierra. Se descubrió en 1930, en una época marcada por el inicio de la Segunda Guerra Mundial y en la que la psicología daba importantes avances en el estudio del inconsciente colectivo y la sombra. 
+Desde el año 10,000 antes de Cristo, el hombre ha observado y adorado al sol. La luz solar, fuente de seguridad, forma y esencia, lo consagra como una entidad divina que redime al mundo, confiere vida y se erige como el epicentro de toda existencia conocida. En el aparente trayecto del sol a través de las 12 constelaciones, se brinda una explicación a los fenómenos naturales, siendo estas constelaciones representaciones de tales eventos; por ejemplo, Acuario, que simboliza al portador del agua que cae en la primavera.
 
-> Jung: “no se llega a la iluminación fantaseando imágenes de luz sino estando en contacto con su propia sombra.” 
+Decimos que es aparente el trayecto del sol porque desde la perspectiva terrestre, se tiene la sensación de que el sol gira alrededor de la tierra, aunque en realidad sea lo contrario. A este “trayecto” o recorrido del Sol sobre la tierra llamamos eclíptica, en base a este recorrido del sol se configuraron todos los calendarios antiguos y modernos del mundo. La eclíptica solar tiene cuatro fechas clave, que son el 21-22 de marzo, 21- 22 de junio, 21-22 de septiembre, y el 21-22 de diciembre y están relacionadas con los solsticios y equinoccios de esta eclíptica o “recorrido del sol”, en esas fases se producen los cambios de estaciones, verano, otoño, invierno y primavera.
+
+Para ubicar esta eclíptica solar en los cielos nocturnos, los antiguos sacerdotes de estas culturas inventaron las constelaciones, que son agrupaciones imaginarias de estrellas por donde hipotéticamente el Sol hace su recorrido, en este caso estamos tratando las constelaciones del mundo occidental y Asia menor, siendo para ellos en total 12 constelaciones, que juntas son llamadas “Zodiaco” que vienen a representar “los doce discípulos del Sol, puesto que el Sol “viaja” por estas doce constelaciones o discípulos, en base a estas se construye el calendario solar, conocido como “Cruz del Zodiaco” también conocida como “Cruz solar”. 
+
+Los dioses clásicos representaban en realidad al Dios Solar, es decir, al Sol, primera deidad que conoció la humanidad, pues veían todas las mañanas nacer al Sol desde el oriente, llegar a su máximo esplendor al medio día y morir hacia el poniente, trayendo tras su muerte “la oscuridad” que asociaron con el mal, el maligno, lo malvado. De esta dualidad “día/noche” “claridad/ oscuridad” nace la concepción del “bien y el mal” donde el “Dios bueno” está asociado al Sol, “La luz” el día, la claridad, la verdad, el cielo mientras que el “Dios malo” conocido como Satanás, Diablo, Set, está asociado a la oscuridad, la noche, la mentira, lo malo, el infierno, ambos Dioses se enfrascaban en grandes luchas, la eterna lucha “del bien contra el mal”.
 
 <img src='/assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.2.jpg' style='float:right; width: 45%; padding: 1em;' />
 
@@ -49,6 +53,5 @@ En la actualidad, los astrólogos nos dedicamos a elaborar la carta astral de ca
 
 * Jym Qhapaq Amaru . 2012. “INKA PACHAQAWAY - Cosmovisión Andina”. Publicado por Reduii.org. [Link del PDF](https://www.reduii.org/cii/sites/default/files/field/doc/Apu-Qun-Illa-Tiqsi-Wiraqucha-Pachayachachiq-El-Ordenador-Del-Cosmos.pdf)
 * Escuela Huber, 1998. “El Prisma Astrológico y la Dimensión Humana. Editado por Escuela Huber de Astrología. ¨[Link del PDF](https://gualeguaychu.gov.ar/apps/dashboard/ftp/biblioteca/63/63.pdf) gualeguaychu.gov.ar
-
 
 
