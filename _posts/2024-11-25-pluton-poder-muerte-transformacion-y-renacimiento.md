@@ -31,6 +31,7 @@ El poder personal tiene que ver con la humildad, palabra que nos recuerda nuestr
 
 Es entonces cuando llega una nueva faceta de esta energía: la de reinventar un nuevo “yo”, un nuevo ser, más realista y, en cierto modo, con menos inocencia, en el sentido de una realidad muy honesta, desapegada y llena de fortaleza. Cuesta reconocer la versión del pasado después de un transito de Plutón. 
 
+---
 
 ## ¿Qué nos indica Plutón en nuestra Carta Natal?
 
@@ -40,9 +41,7 @@ En el campo sistémico, la astrogenealogía de plutón tiene que ver con los sec
 
 La luz que contiene plutón es tan intensa como su propia sombra, el convertirse en una nueva persona es un proceso plutoniano. Plutón nos puede llevar a la iluminación después de una experiencia dolorosa, quema todo y resurge dándote el poder de reinventar un nuevo panorama. 
 
----
-
-## Plutón en la casa 1 ó Escorpio en el (Ascendente) 
+### Plutón en la casa 1 ó Escorpio en el (Ascendente) 
 
 Reencontrarse con el fondo de su identidad puede generar la sensación de ser un sobreviviente de algo indefinido, como si llevara consigo el peso de un secreto desconocido. Este arquetipo, ligado a los inicios y los arranques, refleja que al momento de nacer se desencadenó una situación compleja. Por ello, la persona podría evitar comenzar algo nuevo, prefiriendo pasar desapercibida para no desatar conflictos, como si cualquier movimiento pudiera "armar la de Troya".
 En esta área de la vida, es común que emerja un complejo de autocontrol, una necesidad de contenerse para no exponer inseguridades o la falta de dominio sobre uno mismo. Este intento de control puede actuar como un mecanismo de defensa frente a la vulnerabilidad percibida, pero también puede limitar la espontaneidad y la capacidad de afrontar nuevas experiencias.
