@@ -3,7 +3,7 @@ layout: post
 title:  "Plutón, poder, muerte, transformación y renacimiento."
 author: Lina
 categories: [ Plutón ]
-image: assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.jpg
+image: assets/images/posts/2024-11-25-pluton-poder-muerte-transformacion-y-renacimiento.jpg
 ---
 Plutón es el último planeta del sistema solar con un cico de 245 años, es rocoso y difícil de observar. Forma parte de los tres planetas que en la astrología moderna conocemos como transpersonales, es decir, aquellos que influyen más allá del individuo, más allá de la Tierra. Se descubrió en 1930, en una época marcada por el inicio de la Segunda Guerra Mundial y en la que la psicología daba importantes avances en el estudio del inconsciente colectivo y la sombra. 
 > Jung: “no se llega a la iluminación fantaseando imágenes de luz sino estando en contacto con su propia sombra.” 
