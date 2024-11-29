@@ -101,6 +101,10 @@ Las transformaciones no serán sencillas bajo la oposición de Plutón a Marte e
 
 Finalmente se hace un hermoso trigono de agua en el cielo, hay un fluir entre la representación del hogar la raíz humana, el cuidar de otros el ser la familia terrestre que somos (Luna Cancer) con la trascendencia el fusionarnos en el mar de la vida, en las profundidades de lo trascendente y la transformación de la identidad con la que nos identificamos (Sol en Escorpio). Enfrentando el dolor del proceso para encontrar el centro e inciar un nuevo ciclo. 
 
+### Acá la lectura hecha por el Proyecto Urania
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imlJ7EQ_d1k?si=KRGkVjFr2VZLbqRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Alguna de las temáticas potencialmente presentes en este periodo son:
 
 1. Innovación tecnológica, pero también se puede venir una crisis de la ciencia y la tecnología como estructura predominante. 
