@@ -51,7 +51,7 @@ Nuevamente el 1 de septiembre del 2024 Plutón retrograda a Capricornio en el ú
 
 A nivel político, 2024 destacó por la reelección de líderes como Vladimir Putin, Donald Trump, Nicolás Maduro y Nayib Bukele, evidenciando el arraigo de poderes autocráticos y los desafíos que plantea la concentración del poder. La polarización global entre ideologías de extrema derecha e izquierda se agudizó, exponiendo las tensiones inherentes a sistemas políticos dominantes y sus costos para los pueblos.
 
-Así salimos del paso de Plutón por Capricornio que tiene como finalidad estructurar hacia la luz para encontrarse luego en Acuario, la visión del humano en el futuro. Este es el punto de partida de este periodo de 20 años. sabemos que los problemas heredados del proceso en Capricornio se acelerarán y la necesidad de usar nuestra creatividad e inteligencia con la conciencia puesta en la responsabilidad de nuestra presencia en el mundo se hará presente. Solo hay que pensar como se va del elemento de Capricornio (la tierra) que es pesada, lenta y concreta a Acuario (Aire) algo más liviano, rápido e impredecible. 
+Así salimos del paso de Plutón por Capricornio que tiene como finalidad estructurar hacia la luz para encontrarse luego en Acuario, la visión del humano en el futuro. Este es el punto de partida de este periodo de 20 años; sabemos que los problemas heredados del proceso en Capricornio se acelerarán y la necesidad de usar nuestra creatividad e inteligencia con la conciencia puesta en la responsabilidad de nuestra presencia en el mundo se hará presente. 
 
 ## Plutón en Acuario
 
