@@ -103,7 +103,7 @@ Finalmente se hace un hermoso trigono de agua en el cielo, hay un fluir entre la
 
 ### Acá la lectura hecha por el Proyecto Urania
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/imlJ7EQ_d1k?si=KRGkVjFr2VZLbqRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="float:right" width="560" height="315" src="https://www.youtube.com/embed/imlJ7EQ_d1k?si=KRGkVjFr2VZLbqRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Alguna de las temáticas potencialmente presentes en este periodo son:
 
