@@ -104,6 +104,11 @@ Las transformaciones no serán sencillas bajo la oposición de Plutón a Marte e
 
 Finalmente se hace un hermoso trigono de agua en el cielo, hay un fluir entre la representación del hogar la raíz humana, el cuidar de otros el ser la familia terrestre que somos (Luna Cancer) con la trascendencia el fusionarnos en el mar de la vida, en las profundidades de lo trascendente y la transformación de la identidad con la que nos identificamos (Sol en Escorpio). Enfrentando el dolor del proceso para encontrar el centro e inciar un nuevo ciclo. 
 
+#### El symbolo Sabiano del grado en el que estaba el Sol (28° de Escorpio) en el momento de la entrada de Plutón directo en Acuario nos habla de: 
+
+> “ EL REY DE LAS HADAS SE ACERCA A SU DOMINIO. La capacidad del hombre de reconocer y rendir homenaje a un Principio integrador en el centro de toda existencia. Más allá de la naturaleza externa y del reino del ego orgulloso, existe un mundo espiritual al que la conciencia intuitiva del hombre puede rendir lealtad. En ese mundo, todas las entidades manifestadas son vistas como múltiples aspectos de un Poder y una Conciencia centrales. Es un principio de unidad tan central que las sociedades humanas han tratado de reverenciar simbólicamente en reyes humanos, demasiado humanos. En un sentido individual, este principio es el Sí mismo. En esta etapa, el individuo, quizás cansado de las manifestaciones exteriores de su cultura, comienza a sentir la presencia de un factor unificador espiritual. Una LEALTAD INTERIOR comienza a polarizar la conciencia.”
+
+
 
 
 ### Alguna de las temáticas potencialmente presentes en este periodo son:
