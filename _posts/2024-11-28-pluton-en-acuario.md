@@ -94,6 +94,9 @@ Por otro lado, la tensión al cambio, quiénes resisten más la tendencia y se n
 Además aquellos interesados en la búsqueda de la verdad, la mirada internacional, los intelectuales tienen los ojos puestos y hay mucho más crítica pero a la vez desinformación, falta de claridad. (Mercurio en Sagitario en oposición con Jupiter.)
 
 Plutón en Acuario también está influenciado por su regente moderno, Urano, símbolo de la mente superior, la rebeldía, la revolución y los cambios radicales. Actualmente, Urano transita los últimos grados de Tauro, un signo que representa los valores, la seguridad material, la vida y la conexión con la tierra. Este tránsito impulsa transformaciones en temas como la agricultura, lo que nos lleva a reflexionar: ¿qué pasará con la producción de alimentos? ¿Cómo se distribuirán las tierras? En países como Argentina y Colombia, se reclaman leyes que faciliten el acceso de los campesinos a la tierra y promuevan una redistribución equitativa. Un ejemplo emblemático es el caso de Israel, cuyo Sol en Tauro refleja el conflicto territorial más significativo de los últimos tiempos.
+
+<iframe style="float:right" width="560" height="315" src="https://www.youtube.com/embed/imlJ7EQ_d1k?si=KRGkVjFr2VZLbqRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Este período también potencia los movimientos indígenas y ambientalistas, además de toda causa relacionada con el dinero y los recursos naturales. Por otro lado, Urano en Tauro impulsa la innovación científica aplicada a la naturaleza, marcando avances en tecnología sostenible y soluciones para el medio ambiente. Además, la digitalización de las monedas y la economía sigue ganando terreno, anunciando la gradual desaparición de muchas formas físicas en favor de un mundo cada vez más virtual.
 A su vez este Urano es guiado por Venus que en Capricornio nos incentiva a estructurar otras formas de conexión con los otros puede ser con el arte, la diplomacia. Repartir con justicia y equitativamente los recursos y el poder, reconciliar los polos de poder presentes en el proceso. También nos habla de traer en el proceso de cambio más autoridad de lo femenino, quizas considerar en la reinvención humana la vida interior, el gozo, el disfrute, estructurar espacios para el encuentro con el otro, hacer de lo paternal algo más equilibrado con las fuerzas más femeninas del mundo. 
 
@@ -101,31 +104,29 @@ Las transformaciones no serán sencillas bajo la oposición de Plutón a Marte e
 
 Finalmente se hace un hermoso trigono de agua en el cielo, hay un fluir entre la representación del hogar la raíz humana, el cuidar de otros el ser la familia terrestre que somos (Luna Cancer) con la trascendencia el fusionarnos en el mar de la vida, en las profundidades de lo trascendente y la transformación de la identidad con la que nos identificamos (Sol en Escorpio). Enfrentando el dolor del proceso para encontrar el centro e inciar un nuevo ciclo. 
 
-### Acá la lectura hecha por el Proyecto Urania
 
-<iframe style="float:right" width="560" height="315" src="https://www.youtube.com/embed/imlJ7EQ_d1k?si=KRGkVjFr2VZLbqRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Alguna de las temáticas potencialmente presentes en este periodo son:
 
 1. Innovación tecnológica, pero también se puede venir una crisis de la ciencia y la tecnología como estructura predominante. 
-* Agroindustrias.
+* Agroindustrias
 * Energías limpias
 * En la medicina
-* La energía, la frecuencia y la vibración pueden ser mejor entendidas con nuevas tecnologías por ejemplo del sonido.
-* Experiencias con multiples dimensiones, el hombre multidimensional.
-* Investigación científica acelerada por IA.
-2. Estructuras políticas y económicas que pueden cambiar radicalmente en los próximos 20 años.
-3. Comercialización del espacio aereo, individuos con intervención en este espacio a través de drones u otros desarrollos. 
-4. Descubrimiento o nuevas investigaciones que nos hablen de nuestra relación con el Universo y el Cosmos. Un papel más central de la Astrología y la Astronomía como matriz de conocimiento y autoconocimiento.
-5. Una mayor incidencia en la vida diaria de las amistades y los grupos de pertenencia.
-6. Luchas para una mayor equidad.
+* La energía, la frecuencia y la vibración pueden ser mejor entendidas con nuevas tecnologías por ejemplo del sonido
+* Experiencias con multiples dimensiones, el hombre multidimensional
+* Investigación científica acelerada por IA
+2. Estructuras políticas y económicas que pueden cambiar radicalmente en los próximos 20 años
+3. Comercialización del espacio aereo, individuos con intervención en este espacio a través de drones u otros desarrollos 
+4. Descubrimiento o nuevas investigaciones que nos hablen de nuestra relación con el Universo y el Cosmos. Un papel más central de la Astrología y la Astronomía como matriz de conocimiento y autoconocimiento
+5. Una mayor incidencia en la vida diaria de las amistades y los grupos de pertenencia
+6. Luchas para una mayor equidad
 7. La regulación de la tecnología estará presente, la privacidad, el procesamiento de la información. En qué escenarios estas tecnologías pueden ser un peligro y en cuáles  puede ayudar al desarrollo y la evolución humana. 
 8. Control social y esclavitud a través de la tecnología. Control de ideas y el pensamiento a través de algoritmos. (En el pasado se quemaban libros, Hoy los algoritmos insertan información al humano, dependiente de la tecnología para pensar)
-9. Por tanto adicciones al consumo de información y el uso de dispositivos y realidades alternativas.
-10. Crecimiento en los problemas de salud mental, puede que principalmente en los jóvenes. A su vez una desconexión de lo orgánico y del cuerpo. 
-11. Nos familiarizamos con el concepto de trans-humano. se reconocen a los animales de todas las especies como seres sintientes y con derechos así como los derechos de otras formas de vida.
-12. Reconocimiento de vida orgánica más allá de la tierra. 
-13. Reconocimiento de que la raza humana no es el centro del universo.
+9. Por tanto adicciones al consumo de información y el uso de dispositivos y realidades alternativas
+10. Crecimiento en los problemas de salud mental, puede que principalmente en los jóvenes. A su vez una desconexión de lo orgánico y del cuerpo 
+11. Nos familiarizamos con el concepto de trans-humano. se reconocen a los animales de todas las especies como seres sintientes y con derechos así como los derechos de otras formas de vida
+12. Reconocimiento de vida orgánica más allá de la tierra 
+13. Reconocimiento de que la raza humana no es el centro del universo
   
 ### ¿Qué significa ser humano?
 Estamos despertando de la ilusión del ego, del cual hemos sido esclavos sin darnos cuenta. Ahora, nos vemos impulsados a mirar hacia el futuro y a desplegar una nueva conciencia basada en la empatía. No podemos seguir atrapados en la lógica de la identidad individual, ya que nos condena a un futuro incierto. Al abrazar este cambio de paradigma, estaremos más cerca de responder una pregunta fundamental: ¿Qué significa ser humano? Tengo una intuición al respecto, pero mejor… ¡vamos a descubrirlo juntos!
