@@ -3,7 +3,7 @@ layout: post
 title:  "Plutón en Acuario"
 author: Lina
 categories: [ Plutón, Acuario, Astromundana ]
-image: assets/images/posts/2024-11-25-pluton-poder-muerte-transformacion-y-renacimiento.jpg
+image: assets/images/posts/2024-11-28-pluton-en-acuario.jpg
 ---
 No es sencillo predecir lo que sucederá en el futuro, ya que los factores a considerar son numerosos. Sin embargo, la astrología nos ofrece la posibilidad de prever el potencial de ciertos eventos dentro de un determinado período de tiempo. Como nos enseñaron los antiguos, basta con observar detenidamente y registrar los acontecimientos con rigor. Para ello, debemos mirar al pasado y reconocer los patrones a través del tiempo. Ya nos lo decía la ley hermética sobre la pendularidad de las cosas: hay una oscilación y un ritmo; las situaciones se repiten cada cierto tiempo, pero esa repetición también trae consigo un aprendizaje y una evolución.
 
