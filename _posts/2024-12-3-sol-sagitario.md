@@ -3,7 +3,7 @@ layout: post
 title:  "Sol en Sagitario"
 author: Lina
 categories: [ Sagitario, Júpiter, Fuego]
-image: assets/images/posts/2024-11-12-sol-escorpio.jpg
+image: assets/images/posts/2024-12-3-sol-sagitario.jpg
 ---
 
 **El Sol en Sagitario** corresponde a las personas nacidas entre el 22 de noviembre al 21 de diciembre. En el hemisferio norte, son los días más oscuros del año, el sol esta oculto detrás de la tierra, las fuerzas solares confrontan la oscuridad. Solo queda la fe y la confianza de que la luz llegará y siempre con más fuerza. 
