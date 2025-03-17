@@ -1,0 +1,160 @@
+---
+layout: page-2025
+title: Astrología para entender el mundo
+subtitle: La Matriz de realidad
+permalink: /formacion/curso2025
+comments: false
+category: Formaciones
+# image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
+imageshadow: true
+---
+
+<div class="grid-container grid-container-3">
+  <div class="grid-item">
+  <b>El mundo que percibimos está tejido por patrones simbólicos, ciclos y fuerzas invisibles que nos atraviesan. La astrología es una herramienta ancestral que nos permite interpretar esta matriz de realidad y comprender nuestra conexión con el universo.</b>
+
+  <p>En esta formación, te sumergirás en el pensamiento astrológico desde una perspectiva psicosocial y filosófica.</p>
+
+  <h3>OBJETIVO</h3>
+
+  <p>Aprender a interpretar la carta natal para comprender el micro y el macrocosmos desde una mirada psicosocial y filosófica.</p>
+
+  <h3>DURACIÓN</h3>
+
+  <p>4 módulos | 12 clases cada uno | 2 clases por semana (1 mes y medio por módulo)</p>
+
+  </div>
+  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
+  </div>
+  <div class="grid-item grid-item-dest1">
+    <h3><b>INSCRIPCIONES ABIERTAS</b>
+    <br/>INICIA<br/>
+    10 DE ABRIL/25</h3>
+
+    <p>
+      <b>Inversión:</b>
+      <p>
+        $80 USD/mes | $120 USD/1 módulo<br/>
+        Curso completo<br/>
+        10% de descuento: $432 USD
+        </p>
+    </p>
+    <a class="btn btn-astro" href="/sinastria">Formulario de inscripción</a>
+  </div>
+</div>
+
+
+
+<div class="grid-container grid-container-2_1 grid-curso-modulos">
+  <div class="grid-item grid-item-gris">
+
+    <div class="cat-title2">Módulo 1</div>
+    <h3>PRINCIPIOS BÁSICOS</h3>
+
+    <p>Comprender el origen de la astrología, sus representaciones simbólicas y
+    manifestaciones en diferentes planos de la realidad. Introducción al lenguaje
+    astrológico a través del zodíaco.</p>
+    <b>Semana 1 y 2</b>
+    Introducción y Presentación del curso
+    <br/>Filosofía de la Naturaleza
+    <br/>Introducción al Zodíaco - Dualidad de género y metafísica
+    <br/><br/>
+    <b>Semana 3 y 4</b>
+    Signos de Fuego y Aire - Filosofía y energía zodiacal
+    <br/>Visualización y percepción de los signos
+    <br/><br/>
+    <b>Semana 5 y 6</b>
+    Signos de Agua y Tierra - Filosofía y energía zodiacal
+    <br/>Visualización y percepción de los signos
+  </div>
+
+  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/astropc.jpg')">
+  </div>
+
+</div>
+
+
+
+<div class="grid-container grid-container-1_2 grid-curso-modulos">
+  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-007.jpg')"></div>
+
+  <div class="grid-item grid-item-gris grid-item-right" style="text-aligh: right;">
+
+    <div class="cat-title2">Módulo 2</div>
+    <h3>DIMENSIONES DE LA REALIDAD</h3>
+
+    <p>Entender la estructura espacio-temporal de la carta natal y desarrollar bases de
+interpretación combinada.</p>
+    <b>Semana 1 y 2</b>
+    Partes y símbolos de la carta natal
+    <br/>Astronomía aplicada - Ciclos planetarios.
+    <br/>Las luminarias - Mitología, regencias y dignidades.
+    <br/><br/>
+    <b>Semana 3 y 4</b>
+    Planetas personales y sociales - Mitología y regencias.
+    <br/><br/>
+    <b>Semana 5 y 6</b>
+    Planetas transpersonales - Mitología y regencias)
+    <br/>Integración de zodíaco, casas y planetas
+    <br/>Bases de interpretación de la carta natal
+    <br/><br/>
+  </div>
+
+</div>
+
+
+
+<div class="grid-container grid-container-2_1 grid-curso-modulos">
+  <div class="grid-item">
+    <div class="cat-title2">Módulo 3</div>
+    <h3>ASPECTOS Y DINÁMICAS PLANETARIAS</h3>
+
+    <p>Profundizar en los aspectos astrológicos y sus claves de interpretación.</p>
+    <b>Semana 1 y 2</b>
+    Los aspectos mayores - Aspectos ptolemaicos.
+    <br/>Claves de interpretación y práctica.
+    <br/>Aspectos menores - Consideraciones generales.
+    <br/>Ejemplos de aplicación.
+    <br/><br/>
+    <b>Semana 3 y 6</b>
+    Prácticas avanzadas - Combinaciones de signos, casas, planetas y aspectos.
+  </div>
+
+  <div class="grid-item">
+    <div class="cat-title2">Módulo 4</div>
+    <h3>MÉTODOS Y TÉCNICAS DE INTERPRETACIÓN</h3>
+
+    <p>Profundizar en los aspectos astrológicos y sus claves de interpretación.</p>
+    <b>Semana 1 a 6</b>
+    Prácticas avanzadas - Combinaciones de signos, casas, planetas y aspectos.
+
+  </div>
+
+</div>
+
+
+
+<div class="grid-container grid-container-1_2 grid-curso-modulos">
+  <div class="grid-item grid-item-gris" style="background: #F2F0F0; padding: 40px 40px;">
+
+    <h3>MODALIDAD</h3>
+
+    <p>Clases grabadas y en vivo con material
+complementario y acceso a grabaciones.
+Acceso permanente al canal de Telegram
+con contenido exclusivo.</p>
+    <b>Ideal para ti si:</b><br/>
+    1. Quieres comprender la astrología desde una perspectiva profunda.<br/>
+    2. Buscas una formación con enfoque psicosocial y filosófico.<br/>
+    3. Deseas aprender a interpretar cartas natales con metodología.<br/>
+    <br/>
+    <b>Inscripciones abiertas</b>
+    <br/>
+    <a class="btn btn-astro" href="/sinastria">Reserva tu lugar</a>
+
+  </div>
+
+  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-000.jpg')">
+  </div>
+
+</div>

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<!-- Featured Image -->
+<!-- {% include featured-image.html %} -->
+
+
+<div class="page-single">
+  <div class="grid-container grid-container-2_3">
+    <div class="grid-item">
+      <div class="entry-header entry-header-2025">
+        <div class="cat-title">{{ page.category }}</div>
+        <h1 class="posttitle posttitle-2025">{{ page.title }}</h1>
+        <h2 class="subtitle-2025">{{ page.subtitle }}</h2>
+      </div>
+    </div>
+</div>
+
+
+<!-- Content -->
+{% include article.html %}
+
+<!-- Comments if not disabled with comments: false -->
+{% include comments.html %}

@@ -29,6 +29,20 @@
 }
 
 
+@font-face {
+  font-family: 'justbreath';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/JustBreathe.otf);
+}
+
+@font-face {
+  font-family: 'justbreath';
+  font-style: bold;
+  font-weight: 700;
+  src: url(../fonts/JustBreatheBd.otf);
+}
+
 
 
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap');
@@ -63,7 +77,9 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #f4f4f4;
+    //background: #f4f4f4;
+    background: #fff;
+
 }
 a {
     color: darken($primary, 24%);
@@ -580,6 +596,98 @@ body:has(.servicio-3 > a:hover) .servicio-3 > img {
     width: auto;
     margin: 50px auto;
     display: grid;
+
+    .grid-item {
+      padding: 0;
+      display: flex;
+      align-items: stretch !important;
+      text-align: left !important;
+      flex-direction: column;
+      align-content: left;
+      justify-content: left;
+      font-size: 13pt ;
+      line-height: 13pt;
+
+
+      img {
+        width: 80px;
+        // height: 50px;
+        margin: 0 auto;
+      }
+      h3 {
+        font-family: aristotelica;
+        text-align: left;
+        margin: 20px 0px 0 0 !important;
+        font-weight: 300;
+
+
+      }
+      p {
+        font-size: 13pt;
+        margin: 10px 0px;
+        line-height: normal;
+      }
+    }
+
+    .grid-item-image {
+      background-size: cover;
+    }
+
+    .grid-item-gris {
+      background: #F2F0F0;
+      padding: 40px 20px;
+
+      .btn-astro {
+        background: transparent;
+        padding: 10px 30px;
+        border: 2px solid #000;
+        font-weight: bold;
+        font-size: 15px;
+        border-radius: 0;
+        color: #000;
+        text-transform: uppercase;
+        font-family: aristotelica;
+        padding: 8px;
+      }
+
+      .btn-astro:hover {
+        background: #000;
+        border: 2px solid #F2F0F0;
+        color: #F2F0F0;
+
+      }
+
+
+    }
+
+    .grid-item-dest1 {
+      background: #3E618C;
+      color: #FEEEC9;
+      padding: 10px 40px;
+      padding-top: 50px;
+      .btn-astro {
+        background: transparent;
+        padding: 10px 30px;
+        border: 2px solid #FEEEC9;
+        font-weight: bold;
+        font-size: 15px;
+        border-radius: 0;
+        color: #FEEEC9;
+        text-transform: uppercase;
+        font-family: aristotelica;
+        padding: 8px;
+      }
+
+      .btn-astro:hover {
+        background: #FEEEC9;
+        border: 2px solid #3E618C;
+        color: #3E618C;
+
+      }
+    }
+
+
+
 }
 
 .grid-container-3 {
@@ -587,11 +695,36 @@ body:has(.servicio-3 > a:hover) .servicio-3 > img {
     grid-template-rows: 1fr;
     grid-gap: 30px;
 }
+.grid-container-2_1 {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
+    // grid-gap: 60px;
+}
+
+.grid-container-1_2 {
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr;
+    // grid-gap: 60px;
+}
+
 
 .grid-container-5 {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     grid-gap: 30px;
+}
+
+
+.grid-curso-modulos {
+  .grid-item h3 {
+    margin: 0 !important;
+  }
+
+  .grid-item-right {
+    align-items: flex-end !important;
+    text-align: right !important;
+  }
+
 }
 
 .grid-servicios {
@@ -619,6 +752,7 @@ body:has(.servicio-3 > a:hover) .servicio-3 > img {
       font-size: 18pt;
     }
   }
+
 }
 
 .grid-verbos {
@@ -1202,6 +1336,16 @@ body.active-side {
 @media (max-width: 600px) {
 
 
+  .grid-container, .grid-servicios {
+      grid-template-columns: 1fr;
+  }
+  .grid-container .grid-item {
+      display: flex;
+      grid-template-columns: 1fr 1fr;
+  }
+
+
+
     .nav-icon, .sidebar, .share, .wrap-search {
         position:relative;
     }
@@ -1288,4 +1432,37 @@ body.active-side {
       padding: 0 10px;
       line-height: 20pt;
     }
+}
+
+
+.cat-title {
+  background: #3E618C;
+  padding: 3px;
+  color: white;
+  font-family: 'justbreath';
+  display: inline;
+  font-size: 16pt;
+}
+
+.cat-title2 {
+  font-family: 'justbreath';
+  display: inline;
+  font-size: 16pt;
+}
+
+
+.entry-header {
+  // width: 800px;
+}
+
+.posttitle-2025 {
+  font-weight: 300;
+  padding-top: 0;
+  max-width: 70%;
+}
+
+.subtitle-2025 {
+  font-family: 'justbreath';
+  font-weight: 300;
+
 }
