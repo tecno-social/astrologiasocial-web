@@ -21,6 +21,14 @@ social-wa: 'https://wa.me/5492921435720'
  # more like this
 # Authors
 authors:
+ Franco:
+    codename: fran
+    name: Franco
+    display_name: Fran
+    avatar: 'assets/images/miembros/franco.jpg'
+    email: info@tecno.social
+    description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
+    bio: ""
   Lina:
     codename: lina
     name: Lina
@@ -29,14 +37,7 @@ authors:
     email: lina@astrologia.social
     web: https://www.astrologia.social/blog
     description: "Investiga y explora la astrología como puente entre el autoconocimiento, los saberes ancestrales y la experiencia humana."
-    bio: "## Sobre mí
-         **Nacida en Colombia, con Sol y Luna en Géminis y Ascendente en Escorpio**, tengo formación en comunicación, publicidad y marketing. Mi vínculo con la astrología comenzó como un camino de autoconocimiento y sanación, cuando ningún enfoque tradicional lograba dar sentido a mi experiencia interna.  
-         En **2020**, estudié en la escuela de astrología **La Maletra** (Bogotá, Colombia), donde, a través de la escritura íntima, profundicé en el misterio astrológico y me uní a diversos grupos de estudio. Desde entonces, he explorado la astrología con curiosidad e investigación constante.  
-         En **2023**, me especialicé en **Astrología Mundana** con Lu Gaitán en Aprende Astrología, y en **2024** inicié mi certificación como **astróloga profesional internacional** en el Instituto Superior de Astrología (**ISAA**) de Argentina.  
-         ### Mi enfoque  
-         Acompaño procesos de autoconocimiento y empoderamiento personal a través de la interpretación de **mapas astrales** con un enfoque **humanista y psicológico**, integrando técnicas predictivas tradicionales desde una perspectiva **no determinista**.  
-         ### Astrología Social  
-         Soy cofundadora y miembro de **Astrología Social**, un espacio de diálogo y experimentación que reúne proyectos dedicados al estudio del cosmos y su relación con la experiencia humana, ampliando la astrología occidental e integrándola con otros saberes.  "
+    bio: "Nacida en Colombia, con Sol y Luna en Géminis y Ascendente en Escorpio, tiene formación en comunicación, publicidad y marketing. Su vínculo con la astrología comenzó como un camino de autoconocimiento y sanación, cuando ningún enfoque tradicional lograba dar sentido a su experiencia interna. En 2020, estudió en la escuela de astrología La Maletra (Bogotá, Colombia), donde, a través de la escritura íntima, profundizó en el misterio astrológico y se unió a diversos grupos de estudio. Desde entonces, ha explorado la astrología con curiosidad e investigación constante. En 2023, se especializó en Astrología Mundana con Lu Gaitán en Aprende Astrología, y en 2024 inició su certificación como astróloga profesional internacional en el Instituto Superior de Astrología (ISAA) de Argentina. Acompaña procesos de autoconocimiento y empoderamiento personal a través de la interpretación de mapas astrales con un enfoque humanista y psicológico, integrando técnicas predictivas tradicionales desde una perspectiva no determinista. Es cofundadora de Astrología Social, un espacio de diálogo y experimentación que reúne proyectos dedicados al estudio del cosmos y su relación con la experiencia humana, ampliando la astrología occidental e integrándola con otros saberes. "
   Flor:
     codename: flor
     name: Flor
@@ -46,14 +47,7 @@ authors:
     web: https://floralquimicaastrofilosofica.blogspot.com/
     description: "Investiga la astrología desde una mirada filosófica para reconectar con la trascendencia del ser."
     bio: "Flor Mazziotti, creadora de AstroFilosófica, desde 2019 está dedicada a la investigación, práctica y difusión de la astrología, entre otras cosas como; el Tarot y la medicina natural, partiendo de un enfoque filosófico, que permite ahondar en los fundamentos elementales y esenciales de la existencia humana, profundizando en los principios que operan detrás de la Matriz de la realidad para entender el mundo, tanto interno como externo. El propósito y la misión, están orientados en colaborar con la re-conexión del sentido de trascendencia superando los condicionamientos, partiendo de la importancia en reconocer el origen divino del ser humano mediante el reconocimiento de lo inmanente, es decir, la cualidad divina que permanece intrínseco en cada ente natural existente."
-   Franco:
-    codename: fran
-    name: Franco
-    display_name: Fran
-    avatar: 'assets/images/miembros/franco.jpg'
-    email: info@tecno.social
-    description: "Intelectual que es dado a la gula, a los placeres, a la crítica social y a la vida moralmente desordenada"
-    bio: ""
+  
 # Plugins
 plugins:
   - jekyll-paginate
