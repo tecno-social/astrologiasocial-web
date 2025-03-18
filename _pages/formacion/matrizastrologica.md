@@ -39,7 +39,7 @@ imageshadow: true
         10% de descuento: $432 USD
         </p>
     </p>
-    <a class="btn btn-astro" href="/sinastria">Formulario de inscripción</a>
+    <a class="btn btn-astro" href="https://forms.gle/X1PLXHU7ajDjb7b56">Formulario de inscripción</a>
   </div>
 </div>
 
@@ -150,7 +150,7 @@ con contenido exclusivo.</p>
     <br/>
     <b>Inscripciones abiertas</b>
     <br/>
-    <a class="btn btn-astro" href="/sinastria">Reserva tu lugar</a>
+    <a class="btn btn-astro" href="https://forms.gle/X1PLXHU7ajDjb7b56">Reserva tu lugar</a>
 
   </div>
 
