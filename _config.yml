@@ -38,6 +38,16 @@ authors:
     web: https://www.astrologia.social/miembros/lina
     description: "Astrología para la claridad no para la perfección"
     bio: "Nacida en Colombia, con sol y luna en Géminis y ascendente en Escorpio, tiene formación en comunicación, publicidad y marketing. Su relación con la astrología comenzó como un camino de autoconocimiento y sanación. En 2020, estudió en la escuela de astrología La Maletra (Bogotá, Colombia), donde, a través de la escritura íntima, profundizó en el misterio astrológico. Desde entonces, no ha dejado de intentar entender este enigma desde su propia curiosidad y capacidad de investigación. En el 2023, cursó la especialización en Astrología Mundana con Lu Gaitan en Aprende Astrología y actualmente está cursando la formación profesional en el Instituto Superior de Astrología (ISAA) de Argentina. En este tiempo, ha acompañado en la interpretación de mapas natales con un enfoque humanista y psicológico, utilizando también técnicas predictivas tradicionales con una mirada crítica y no determinista. Es cofundadora del proyecto Astrología Social, que apunta a la creación de una plataforma de diálogo y experimentación para albergar proyectos vinculados a diversos estudios del cosmos en relación con la experiencia humana, incluyendo la astrología occidental, pero no limitada a ella."
+  Flor:
+    codename: flor
+    name: Flor
+    display_name: 'Flor Mazziotti'
+    avatar: 'assets/images/miembros/franco.jpg'
+    email: flor@astrologia.social
+    description: "Investiga la astrología desde una mirada filosófica para reconectar con la trascendencia del ser."
+    bio: "Flor Mazziotti, creadora de AstroFilosófica, desde 2019 está dedicada a la investigación, práctica y difusión de la astrología, entre otras cosas como; el Tarot y la medicina natural, partiendo de un enfoque filosófico, que permite ahondar en los fundamentos elementales y esenciales de la existencia humana, profundizando en los principios que operan detrás de la Matriz de la realidad para entender el mundo, tanto interno como externo. 
+
+El propósito y la misión, están orientados en colaborar con la re-conexión del sentido de trascendencia superando los condicionamientos, partiendo de la importancia en reconocer el origen divino del ser humano mediante el reconocimiento de lo inmanente, es decir, la cualidad divina que permanece intrínseco en cada ente natural existente."
 # Plugins
 plugins:
   - jekyll-paginate
