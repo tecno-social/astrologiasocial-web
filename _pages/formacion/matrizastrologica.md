@@ -17,7 +17,7 @@ imageshadow: true
 
   <h3>OBJETIVO</h3>
 
-  <p>Aprender a interpretar la carta natal para comprender el micro y el macrocosmos desde una mirada psicosocial y filosófica.</p>
+  <p>Aprender a interpretar la carta natal para comprender el micro y el macrocosmos desde una mirada psicológica, social y filosófica.</p>
 
   <h3>DURACIÓN</h3>
 
@@ -141,11 +141,10 @@ interpretación combinada.</p>
 
     <p>Clases grabadas y en vivo con material
 complementario y acceso a grabaciones.
-Acceso permanente al canal de Telegram
-con contenido exclusivo.</p>
+Acceso permanente al grupo con contenido exclusivo.</p>
     <b>Ideal para ti si:</b><br/>
     1. Quieres comprender la astrología desde una perspectiva profunda.<br/>
-    2. Buscas una formación con enfoque psicosocial y filosófico.<br/>
+    2. Buscas una formación con enfoque psicológico, social y filosófico.<br/>
     3. Deseas aprender a interpretar cartas natales con metodología.<br/>
     <br/>
     <b>Inscripciones abiertas</b>
