@@ -2,7 +2,7 @@
 layout: page-2025
 title: Astrología para entender el mundo
 subtitle: La Matriz de realidad
-permalink: /formacion/curso2025
+permalink: /formacion/matrizastrologica
 comments: false
 category: Formaciones
 # image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
