@@ -21,7 +21,7 @@ social-wa: 'https://wa.me/5492921435720'
  # more like this
 # Authors
 authors:
- Franco:
+  Franco:
     codename: fran
     name: Franco
     display_name: Fran
@@ -35,19 +35,19 @@ authors:
     display_name: 'Lina Marco'
     avatar: 'assets/images/miembros/lina.jpg'
     email: lina@astrologia.social
-    web: https://www.astrologia.social/blog
-    description: "Investiga y explora la astrología como puente entre el autoconocimiento, los saberes ancestrales y la experiencia humana."
-    bio: "Nacida en Colombia, con Sol y Luna en Géminis y Ascendente en Escorpio, tiene formación en comunicación, publicidad y marketing. Su vínculo con la astrología comenzó como un camino de autoconocimiento y sanación, cuando ningún enfoque tradicional lograba dar sentido a su experiencia interna. En 2020, estudió en la escuela de astrología La Maletra (Bogotá, Colombia), donde, a través de la escritura íntima, profundizó en el misterio astrológico y se unió a diversos grupos de estudio. Desde entonces, ha explorado la astrología con curiosidad e investigación constante. En 2023, se especializó en Astrología Mundana con Lu Gaitán en Aprende Astrología, y en 2024 inició su certificación como astróloga profesional internacional en el Instituto Superior de Astrología (ISAA) de Argentina. Acompaña procesos de autoconocimiento y empoderamiento personal a través de la interpretación de mapas astrales con un enfoque humanista y psicológico, integrando técnicas predictivas tradicionales desde una perspectiva no determinista. Es cofundadora de Astrología Social, un espacio de diálogo y experimentación que reúne proyectos dedicados al estudio del cosmos y su relación con la experiencia humana, ampliando la astrología occidental e integrándola con otros saberes. "
+    web: https://www.astrologia.social/miembros/lina
+    description: "Astrología para la claridad no para la perfección"
+    bio: "Nacida en Colombia, con sol y luna en Géminis y ascendente en Escorpio, tiene formación en comunicación, publicidad y marketing. Su relación con la astrología comenzó como un camino de autoconocimiento y sanación. En 2020, estudió en la escuela de astrología La Maletra (Bogotá, Colombia), donde, a través de la escritura íntima, profundizó en el misterio astrológico. Desde entonces, no ha dejado de intentar entender este enigma desde su propia curiosidad y capacidad de investigación. En el 2023, cursó la especialización en Astrología Mundana con Lu Gaitan en Aprende Astrología y actualmente está cursando la formación profesional en el Instituto Superior de Astrología (ISAA) de Argentina. En este tiempo, ha acompañado en la interpretación de mapas natales con un enfoque humanista y psicológico, utilizando también técnicas predictivas tradicionales con una mirada crítica y no determinista. Es cofundadora del proyecto Astrología Social, que apunta a la creación de una plataforma de diálogo y experimentación para albergar proyectos vinculados a diversos estudios del cosmos en relación con la experiencia humana, incluyendo la astrología occidental, pero no limitada a ella."
   Flor:
     codename: flor
     name: Flor
     display_name: 'Flor Mazziotti'
     avatar: 'assets/images/miembros/flor.jpg'
     email: flor@astrologia.social
-    web: https://floralquimicaastrofilosofica.blogspot.com/
     description: "Investiga la astrología desde una mirada filosófica para reconectar con la trascendencia del ser."
-    bio: "Flor Mazziotti, creadora de AstroFilosófica, desde 2019 está dedicada a la investigación, práctica y difusión de la astrología, entre otras cosas como; el Tarot y la medicina natural, partiendo de un enfoque filosófico, que permite ahondar en los fundamentos elementales y esenciales de la existencia humana, profundizando en los principios que operan detrás de la Matriz de la realidad para entender el mundo, tanto interno como externo. El propósito y la misión, están orientados en colaborar con la re-conexión del sentido de trascendencia superando los condicionamientos, partiendo de la importancia en reconocer el origen divino del ser humano mediante el reconocimiento de lo inmanente, es decir, la cualidad divina que permanece intrínseco en cada ente natural existente."
-  
+    bio: "Flor Mazziotti, creadora de AstroFilosófica, desde 2019 está dedicada a la investigación, práctica y difusión de la astrología, entre otras cosas como; el Tarot y la medicina natural, partiendo de un enfoque filosófico, que permite ahondar en los fundamentos elementales y esenciales de la existencia humana, profundizando en los principios que operan detrás de la Matriz de la realidad para entender el mundo, tanto interno como externo. 
+
+El propósito y la misión, están orientados en colaborar con la re-conexión del sentido de trascendencia superando los condicionamientos, partiendo de la importancia en reconocer el origen divino del ser humano mediante el reconocimiento de lo inmanente, es decir, la cualidad divina que permanece intrínseco en cada ente natural existente."
 # Plugins
 plugins:
   - jekyll-paginate
