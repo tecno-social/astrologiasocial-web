@@ -21,7 +21,7 @@ imageshadow: true
 
   <h3>DURACIÓN</h3>
 
-  <p>4 módulos | 12 clases cada uno | 2 clases por semana (1 mes y medio por módulo)</p>
+  <p>4 módulos de 12 clases por módulo | 2 clases por semana (1 mes y medio por módulo)</p>
 
   </div>
   <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
@@ -124,9 +124,19 @@ interpretación combinada.</p>
     <div class="cat-title2">Módulo 4</div>
     <h3>MÉTODOS Y TÉCNICAS DE INTERPRETACIÓN</h3>
 
-    <p>Profundizar en los aspectos astrológicos y sus claves de interpretación.</p>
-    <b>Semana 1 a 6</b>
-    Prácticas avanzadas - Combinaciones de signos, casas, planetas y aspectos.
+    <p>Desarrollar una metodología que sirva como guía para abordar la interpretación de la matriz astrológica, fomentando la capacidad de síntesis entre los elementos que interactúan en la carta natal.</p>
+    <b>Semana 1 a 2</b>
+    Introducción al abordaje de una carta natal. 
+    Metodos de interpretación tradicionales. 
+    <b>Semana 3 a 4</b>
+    Firmas energéticas
+    Correspondencias astrológicas y el factor edad
+    Septenios 
+    Proluna
+     <b>Semana 5 a 6</b>
+    Técnicas de predicción a través de los señores del tiempo.
+    Profecciones anuales
+    Tiempos planetarios. Ciclos y retornos. Cómo interpretarlos.
 
   </div>
 
