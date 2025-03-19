@@ -111,13 +111,21 @@ interpretación combinada.</p>
 
     <p>Profundizar en los aspectos astrológicos y sus claves de interpretación.</p>
     <b>Semana 1 y 2</b>
-    Los aspectos mayores - Aspectos ptolemaicos.
-    <br/>Claves de interpretación y práctica.
-    <br/>Aspectos menores - Consideraciones generales.
-    <br/>Ejemplos de aplicación.
+    <br/>Los aspectos. “La ocasión”
+    <br/>Los aspectos mayores - Aspectos ptolemaicos.
+    <br/>Aspectos menores.
     <br/><br/>
-    <b>Semana 3 y 6</b>
-    Prácticas avanzadas - Combinaciones de signos, casas, planetas y aspectos.
+    <b>Semana 3 y 4</b>
+    <br/>El orbe. Rango de influencia.
+    <br/>Claves de aplicación. 
+    <br/>Combinación: Signos + Casas
+    <br/>Signos + Planetas
+    <br/><br/>
+    <b>Semana 5 y 6</b>
+    <br/>Combinación: Planetas + Casas 
+    <br/>Combinación: Planetas + aspectos
+    <br/>Integración de todos los elementos.
+     
   </div>
 
   <div class="grid-item">
@@ -126,17 +134,19 @@ interpretación combinada.</p>
 
     <p>Desarrollar una metodología que sirva como guía para abordar la interpretación de la matriz astrológica, fomentando la capacidad de síntesis entre los elementos que interactúan en la carta natal.</p>
     <b>Semana 1 a 2</b>
-    Introducción al abordaje de una carta natal. 
-    Metodos de interpretación tradicionales. 
+    <br/>Introducción al abordaje de una carta natal. 
+    <br/>Metodos de interpretación tradicionales. 
+    <br/><br/>
     <b>Semana 3 a 4</b>
-    Firmas energéticas
-    Correspondencias astrológicas y el factor edad
-    Septenios 
-    Proluna
+    <br/>Firmas energéticas
+    <br/>Correspondencias astrológicas y el factor edad
+    <br/>Septenios 
+    <br/>Proluna
+    <br/><br/>
      <b>Semana 5 a 6</b>
-    Técnicas de predicción a través de los señores del tiempo.
-    Profecciones anuales
-    Tiempos planetarios. Ciclos y retornos. Cómo interpretarlos.
+    <br/>Técnicas de predicción a través de los señores del tiempo.
+    <br/>Profecciones anuales
+    <br/>Tiempos planetarios. Ciclos y retornos. Cómo interpretarlos.
 
   </div>
 
