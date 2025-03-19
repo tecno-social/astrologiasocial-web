@@ -132,7 +132,7 @@ interpretación combinada.</p>
     <div class="cat-title2">Módulo 4</div>
     <h3>MÉTODOS Y TÉCNICAS DE INTERPRETACIÓN</h3>
 
-    <p>Desarrollar una metodología que sirva como guía para abordar la interpretación de la matriz astrológica, fomentando la capacidad de síntesis entre los elementos que interactúan en la carta natal.</p>
+    <p>Desarrollar una metodología que sirva como guía para abordar la interpretación de la matriz astrológica.</p>
     <b>Semana 1 a 2</b>
     <br/>Introducción al abordaje de una carta natal. 
     <br/>Metodos de interpretación tradicionales. 
