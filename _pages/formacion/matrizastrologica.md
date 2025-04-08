@@ -29,7 +29,7 @@ imageshadow: true
   <div class="grid-item grid-item-dest1">
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA<br/>
-    10 DE ABRIL/25</h3>
+    24 DE ABRIL/25</h3>
 
     <p>
       <b>Inversión:</b>
