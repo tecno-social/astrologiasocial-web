@@ -21,7 +21,7 @@ imageshadow: true
 
   <h3>DURACIÓN</h3>
 
-  <pVideo de 1 hora</p>
+  <p>Video de 1 hora</p>
 
   </div>
   <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
