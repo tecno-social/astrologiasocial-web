@@ -34,9 +34,9 @@ imageshadow: true
     <p>
       <b>Inversión:</b>
       <p>
-        $80 USD/mes | $120 USD/1 módulo<br/>
+        $80 USD/1 módulo<br/>
         Curso completo<br/>
-        10% de descuento: $432 USD
+        $288 USD
         </p>
     </p>
     <a class="btn btn-astro" target="_blank" href="https://forms.gle/X1PLXHU7ajDjb7b56">Formulario de inscripción</a>
