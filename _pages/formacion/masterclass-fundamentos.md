@@ -1,4 +1,4 @@
----
+  ---
 layout: page-2025
 title: Fundamentos de Astrología, para sacar tu mejor versión
 subtitle: Masterclass grabada
@@ -18,10 +18,6 @@ imageshadow: true
   <h3>OBJETIVO</h3>
 
   <p>Descubre tu carta natal, comprende la influencia del Sol, la Luna y el Ascendente en tu personalidad y aprende a interpretar la energía del momento utilizando herramientas astrológicas disponibles en internet.</p>
-
-  <h3>DURACIÓN</h3>
-
-  <p>Video de 1 hora</p>
 
   <h3>¿CÓMO ACCEDER A LA CLASE?</h3>
 
