@@ -10,7 +10,7 @@ imageshadow: true
 ---
 
 <div class="grid-container grid-container-2_1">
-  <div class="grid-item">
+  <div class="grid-item" style="padding:0px 20px;">
   <b>¿Te gustaría aprender a usar la astrología en tu vida cotidiana?</b>
 
   <p>Accede gratuitamente a la grabación de la masterclass “Fundamentos de Astrología para sacar tu mejor versión”</p>
@@ -22,7 +22,7 @@ imageshadow: true
   <h3>DURACIÓN</h3>
 
   <p>Video de 1 hora</p>
-  
+
   <div class="cat-title2">En esta clase gratuita</div>
     <h3>APRENDERÁS</h3>
     <ul><li>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal</li>
