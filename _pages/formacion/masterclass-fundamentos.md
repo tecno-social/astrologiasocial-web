@@ -38,31 +38,6 @@ imageshadow: true
   <div class="grid-item grid-item-dest1" style="padding:0; background: none;">
     <script async src="https://eocampaign1.com/form/8fdd9352-1622-11f0-bd42-9f7fc93f965b.js" data-form="8fdd9352-1622-11f0-bd42-9f7fc93f965b"></script>
   </div>
-</div>
-
-    <div class="cat-title2">Módulo 2</div>
-    <h3>DIMENSIONES DE LA REALIDAD</h3>
-
-    <p>Entender la estructura espacio-temporal de la carta natal y desarrollar bases de
-interpretación combinada.</p>
-    <b>Semana 1 y 2</b>
-    Partes y símbolos de la carta natal
-    <br/>Astronomía aplicada - Ciclos planetarios.
-    <br/>Las luminarias - Mitología, regencias y dignidades.
-    <br/><br/>
-    <b>Semana 3 y 4</b>
-    Planetas personales y sociales - Mitología y regencias.
-    <br/><br/>
-    <b>Semana 5 y 6</b>
-    Planetas transpersonales - Mitología y regencias)
-    <br/>Integración de zodíaco, casas y planetas
-    <br/>Bases de interpretación de la carta natal
-    <br/><br/>
-  </div>
-
-</div>
-
-
 
 <div class="grid-container grid-container-2_1 grid-curso-modulos">
   <div class="grid-item">
