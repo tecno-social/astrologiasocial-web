@@ -77,11 +77,9 @@ imageshadow: true
 <div class="grid-container grid-container-1_2 grid-curso-modulos">
   <div class="grid-item grid-item-gris" style="background: #F2F0F0; padding: 40px 40px;">
 
-    <h3>MODALIDAD</h3>
+    <h3>Beneficio adicional</h3>
 
-    <p>Clases grabadas y en vivo con material
-complementario y acceso a grabaciones.
-Acceso permanente al grupo con contenido exclusivo.</p>
+    <p>Al registrarte también recibirás una invitación exclusiva con descuento para acceder a nuestra formación “La Matriz Astrológica”, un programa completo para profundizar en la interpretación de tu carta natal y del tiempo presente.</p>
     <b>Ideal para ti si:</b><br/>
     1. Quieres comprender la astrología desde una perspectiva profunda.<br/>
     2. Buscas una formación con enfoque psicológico, social y filosófico.<br/>
@@ -89,7 +87,7 @@ Acceso permanente al grupo con contenido exclusivo.</p>
     <br/>
     <b>Inscripciones abiertas</b>
     <br/>
-    <a class="btn btn-astro" target="_blank" href="https://forms.gle/X1PLXHU7ajDjb7b56">Reserva tu lugar</a>
+    <a class="btn btn-astro" target="_blank" href="https://www.astrologia.social/formacion/matrizastrologica">Reserva tu lugar</a>
 
   </div>
 
