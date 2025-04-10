@@ -1,4 +1,4 @@
-  ---
+---
 layout: page-2025
 title: Fundamentos de Astrología, para sacar tu mejor versión
 subtitle: Masterclass grabada
