@@ -30,7 +30,7 @@ imageshadow: true
   <h3>DICTADA POR</h3>
 <p>Esta clase está guiada por dos astrólogas que se conocieron estudiando y nunca dejaron de conversar sobre las estrellas:</p>
   <ul>
-    <li><a href="https://www.astrologia.social/miembros/lina" target="_blank">Lina Marco</a>, comunicadora y astróloga humanista, cofundadora de Astrología Social.</li>
+    <li><a href="https://www.astrologia.social/miembros/lina" target="_blank">Lina Marco</a>, comunicadora y astróloga, cofundadora de Astrología Social.</li>
     <li><a href="https://www.astrologia.social/miembros/flor" target="_blank">Flor Mazziotti</a>, creadora de AstroFilosófica, miembro de Astrología Social y Astróloga con formación en filosofía, tarot y medicina natural.</li>
   </ul>
   </div>
