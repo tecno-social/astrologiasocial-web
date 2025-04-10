@@ -28,16 +28,9 @@ imageshadow: true
   </div>
   <div class="grid-item grid-item-dest1">
     <h3><b>QUIERO LA MASTERCLASS</b>
-    <br/>DÉJANOS TUS DATOS<br/>
-    Y RECIBE EL ACCESO A LA CLASE GRABADA EN TU CORREO</h3>
+    <br/>Completá el formulario y recibí el acceso directo a la clase grabada en tu correo:<br/>
+  </h3>
 
-    <p>
-      <b>Inversión:</b>
-      <p>
-        $80 USD/1 módulo<br/>
-        Curso completo<br/>
-        $288 USD
-        </p>
     </p>
     <a class="btn btn-astro" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe8vL2DiNp-duXNmXDYvMTW08E-CyXRuGQlmiDgjH_EVm-OYw/viewform?usp=sharing">Regístro</a>
   </div>
