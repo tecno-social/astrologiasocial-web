@@ -27,11 +27,11 @@ imageshadow: true
   <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
   </div>
   <div class="grid-item grid-item-dest1">
-    <h3><b>QUIERO LA MASTERCLASS</b>
-    <br/>Completá el formulario y recibí el acceso directo a la clase grabada en tu correo:<br/>
+    <h3><b>COMPLETA EL FORMULARIO</b>
+    <br/>Y recibe el acceso directo a la clase grabada en tu correo:<br/>
   </h3>
     
-    <a class="btn btn-astro" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe8vL2DiNp-duXNmXDYvMTW08E-CyXRuGQlmiDgjH_EVm-OYw/viewform?usp=sharing">Quiero ver la masterclass</a>
+    <a class="btn btn-astro" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe8vL2DiNp-duXNmXDYvMTW08E-CyXRuGQlmiDgjH_EVm-OYw/viewform?usp=sharing">Quiero Ver la Masterclass</a>
   </div>
 </div>
 
