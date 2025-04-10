@@ -22,6 +22,7 @@ imageshadow: true
   <h3>DURACIÓN</h3>
 
   <p>Video de 1 hora</p>
+  </div>
 
   <div class="cat-title2">En esta clase gratuita</div>
     <h3>APRENDERÁS</h3>
@@ -57,10 +58,14 @@ imageshadow: true
   </div>
 
   <div class="grid-item">
-    <div class="cat-title2">Sobre nosotras</div>
-    <h3>DICTADA POR</h3>
+    <div class="cat-title2">Sobre</div>
+    <h3>NOSOTRAS</h3>
 
-    <p>Lina Marco y Flor Mazziotti somos astrólogas, comunicadoras y fundadoras de Astrología Social. Creamos este espacio para compartir la astrología desde una mirada simbólica, profunda y accesible, con la intención de que puedas usarla como una herramienta de transformación personal y social.</p>
+<p>Esta clase está guiada por dos astrólogas que se conocieron estudiando y nunca dejaron de conversar sobre las estrellas:</p>
+  <ul>
+    <li><a href="https://www.astrologia.social/miembros/lina" target="_blank">Lina Marco</a>, comunicadora y astróloga humanista, cofundadora de Astrología Social.</li>
+    <li><a href="https://www.astrologia.social/miembros/flor" target="_blank">Flor Mazziotti</a>, creadora de AstroFilosófica, astróloga con formación en filosofía, tarot y medicina natural.</li>
+  </ul>
    
 
   </div>
