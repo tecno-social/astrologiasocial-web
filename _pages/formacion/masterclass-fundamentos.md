@@ -91,7 +91,7 @@ imageshadow: true
 
   </div>
 
-  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-000.jpg')">
+  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/masterclass-fundamentos-001.jpg')">
   </div>
 
 </div>
