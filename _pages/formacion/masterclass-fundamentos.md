@@ -40,6 +40,56 @@ imageshadow: true
     <script async src="https://eocampaign1.com/form/8fdd9352-1622-11f0-bd42-9f7fc93f965b.js" data-form="8fdd9352-1622-11f0-bd42-9f7fc93f965b"></script>
   </div>
   
+</div>
+
+
+
+<div class="grid-container grid-container-2_1 grid-curso-modulos">
+  <div class="grid-item">
+    <div class="cat-title2">Módulo 3</div>
+    <h3>ASPECTOS Y DINÁMICAS PLANETARIAS</h3>
+
+    <p>Profundizar en los aspectos astrológicos y sus claves de interpretación.</p>
+    <b>Semana 1 y 2</b>
+    <br/>Los aspectos. “La ocasión”
+    <br/>Los aspectos mayores - Aspectos ptolemaicos.
+    <br/>Aspectos menores.
+    <br/><br/>
+    <b>Semana 3 y 4</b>
+    <br/>El orbe. Rango de influencia.
+    <br/>Claves de aplicación. 
+    <br/>Combinación: Signos + Casas
+    <br/>Signos + Planetas
+    <br/><br/>
+    <b>Semana 5 y 6</b>
+    <br/>Combinación: Planetas + Casas 
+    <br/>Combinación: Planetas + aspectos
+    <br/>Integración de todos los elementos.
+     
+  </div>
+
+  <div class="grid-item">
+    <div class="cat-title2">Módulo 4</div>
+    <h3>MÉTODOS Y TÉCNICAS DE INTERPRETACIÓN</h3>
+
+    <p>Desarrollar una metodología que sirva como guía para abordar la interpretación de la matriz astrológica.</p>
+    <b>Semana 1 a 2</b>
+    <br/>Introducción al abordaje de una carta natal. 
+    <br/>Metodos de interpretación tradicionales. 
+    <br/><br/>
+    <b>Semana 3 a 4</b>
+    <br/>Firmas energéticas
+    <br/>Correspondencias astrológicas y el factor edad
+    <br/>Septenios 
+    <br/>Proluna
+    <br/><br/>
+     <b>Semana 5 a 6</b>
+    <br/>Técnicas de predicción a través de los señores del tiempo.
+    <br/>Profecciones anuales
+    <br/>Tiempos planetarios. Ciclos y retornos. Cómo interpretarlos.
+
+  </div>
+
 
 </div>
 
