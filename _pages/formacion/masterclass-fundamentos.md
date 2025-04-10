@@ -40,20 +40,6 @@ imageshadow: true
   </div>
 </div>
 
-
-
-  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/astropc.jpg')">
-  </div>
-
-</div>
-
-
-
-<div class="grid-container grid-container-1_2 grid-curso-modulos">
-  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-007.jpg')"></div>
-
-  <div class="grid-item grid-item-gris grid-item-right" style="text-aligh: right;">
-
     <div class="cat-title2">Módulo 2</div>
     <h3>DIMENSIONES DE LA REALIDAD</h3>
 
