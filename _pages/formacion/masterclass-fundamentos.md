@@ -30,9 +30,8 @@ imageshadow: true
     <h3><b>QUIERO LA MASTERCLASS</b>
     <br/>Completá el formulario y recibí el acceso directo a la clase grabada en tu correo:<br/>
   </h3>
-
-    </p>
-    <a class="btn btn-astro" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe8vL2DiNp-duXNmXDYvMTW08E-CyXRuGQlmiDgjH_EVm-OYw/viewform?usp=sharing">Regístro</a>
+    
+    <a class="btn btn-astro" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe8vL2DiNp-duXNmXDYvMTW08E-CyXRuGQlmiDgjH_EVm-OYw/viewform?usp=sharing">Quiero ver la masterclass</a>
   </div>
 </div>
 
