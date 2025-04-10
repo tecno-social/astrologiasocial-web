@@ -22,7 +22,7 @@ imageshadow: true
   <h3>DURACIÓN</h3>
 
   <p>Video de 1 hora</p>
- <br/><br/>
+  
   <div class="cat-title2">En esta clase gratuita</div>
     <h3>APRENDERÁS</h3>
     <ul><li>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal</li>
