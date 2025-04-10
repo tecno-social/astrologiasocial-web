@@ -22,18 +22,12 @@ imageshadow: true
   <h3>DURACIÓN</h3>
 
   <p>Video de 1 hora</p>
-  </div>
 
-  <div class="cat-title2">En esta clase gratuita</div>
-    <h3>APRENDERÁS</h3>
-    <ul><li>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal</li>
-    <li>El significado de estos tres pilares en tu identidad y emociones</li>
-    <li>Cómo interpretar la información astrológica que circula online</li>
-    <li>Claves para usar la astrología como guía en tus decisiones diarias</li>
-    <li>Tips para comenzar a leer y comprender tu mapa natal</li></ul>
-    
-    <br/><br/>
+  <h3>¿CÓMO ACCEDER A LA CLASE?</h3>
 
+  <p>Esta es una clase grabada que puedes ver de forma gratuita. Solo necesitas dejar tus datos en el formulario para recibir el enlace directo.</p>
+ 
+  
   </div>
  <!-- <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
   </div>-->
@@ -47,25 +41,25 @@ imageshadow: true
 
 <div class="grid-container grid-container-2_1 grid-curso-modulos">
   <div class="grid-item">
-    <div class="cat-title2">Dirigido a</div>
-    <h3>PARA QUIEN ES ESTA CLASE?</h3>
+    <div class="cat-title2">En esta clase gratuita</div>
+    <h3>APRENDERÁS</h3>
   
-    <ul><li>Personas con curiosidad por la astrología</li>
-    <li>Quienes quieran comprenderse mejor y tomar decisiones más conscientes</li>
-    <li>Si ya seguís cuentas astrológicas pero no sabés cómo aplicar lo que ves</li>
-    <li>Si querés una base sólida para comenzar a estudiar astrología</li></ul>
+    <ul><li>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal</li>
+    <li>El significado de estos tres pilares en tu identidad y emociones</li>
+    <li>Cómo interpretar la información astrológica que circula online</li>
+    <li>Claves para usar la astrología como guía en tus decisiones diarias</li>
+    <li>Tips para comenzar a leer y comprender tu mapa natal</li></ul>
      
   </div>
 
   <div class="grid-item">
-    <div class="cat-title2">Sobre</div>
-    <h3>NOSOTRAS</h3>
+    <div class="cat-title2">Dirigido a</div>
+    <h3>PARA QUIEN ES ESTA CLASE?</h3>
 
-<p>Esta clase está guiada por dos astrólogas que se conocieron estudiando y nunca dejaron de conversar sobre las estrellas:</p>
-  <ul>
-    <li><a href="https://www.astrologia.social/miembros/lina" target="_blank">Lina Marco</a>, comunicadora y astróloga humanista, cofundadora de Astrología Social.</li>
-    <li><a href="https://www.astrologia.social/miembros/flor" target="_blank">Flor Mazziotti</a>, creadora de AstroFilosófica, astróloga con formación en filosofía, tarot y medicina natural.</li>
-  </ul>
+ <ul><li>Personas con curiosidad por la astrología</li>
+    <li>Quienes quieran comprenderse mejor y tomar decisiones más conscientes</li>
+    <li>Si ya seguís cuentas astrológicas pero no sabés cómo aplicar lo que ves</li>
+    <li>Si querés una base sólida para comenzar a estudiar astrología</li></ul>
    
 
   </div>
