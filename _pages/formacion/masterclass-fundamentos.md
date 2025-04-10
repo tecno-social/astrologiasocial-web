@@ -10,7 +10,7 @@ imageshadow: true
 ---
 
 <div class="grid-container grid-container-2_1">
-  <div class="grid-item" style="padding:0px 30px 0px 0px;">
+  <div class="grid-item" style="padding:0px 50px 0px 0px;">
   <b>¿Te gustaría aprender a usar la astrología en tu vida cotidiana?</b>
 
   <p>Accede gratuitamente a la grabación de la masterclass “Fundamentos de Astrología para sacar tu mejor versión”</p>
