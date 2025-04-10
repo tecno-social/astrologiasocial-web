@@ -9,7 +9,7 @@ category: Formaciones
 imageshadow: true
 ---
 
-<div class="grid-container grid-container-3">
+<div class="grid-container grid-container-2_1">
   <div class="grid-item">
   <b>¿Te gustaría aprender a usar la astrología en tu vida cotidiana?</b>
 
@@ -24,9 +24,9 @@ imageshadow: true
   <p>Video de 1 hora</p>
 
   </div>
-  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
-  </div>
-  <div class="grid-item grid-item-dest1">
+ <!-- <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
+  </div>-->
+  <div class="grid-item grid-item-dest1" style="padding:0; background: none;">
     <script async src="https://eocampaign1.com/form/8fdd9352-1622-11f0-bd42-9f7fc93f965b.js" data-form="8fdd9352-1622-11f0-bd42-9f7fc93f965b"></script>
   </div>
 </div>
