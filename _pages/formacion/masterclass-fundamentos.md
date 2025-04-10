@@ -46,47 +46,22 @@ imageshadow: true
 
 <div class="grid-container grid-container-2_1 grid-curso-modulos">
   <div class="grid-item">
-    <div class="cat-title2">Módulo 3</div>
-    <h3>ASPECTOS Y DINÁMICAS PLANETARIAS</h3>
-
-    <p>Profundizar en los aspectos astrológicos y sus claves de interpretación.</p>
-    <b>Semana 1 y 2</b>
-    <br/>Los aspectos. “La ocasión”
-    <br/>Los aspectos mayores - Aspectos ptolemaicos.
-    <br/>Aspectos menores.
-    <br/><br/>
-    <b>Semana 3 y 4</b>
-    <br/>El orbe. Rango de influencia.
-    <br/>Claves de aplicación. 
-    <br/>Combinación: Signos + Casas
-    <br/>Signos + Planetas
-    <br/><br/>
-    <b>Semana 5 y 6</b>
-    <br/>Combinación: Planetas + Casas 
-    <br/>Combinación: Planetas + aspectos
-    <br/>Integración de todos los elementos.
+    <div class="cat-title2">Dirigido a</div>
+    <h3>PARA QUIEN ES ESTA CLASE?</h3>
+  
+    <ul><li>Personas con curiosidad por la astrología</li>
+    <li>Quienes quieran comprenderse mejor y tomar decisiones más conscientes</li>
+    <li>Si ya seguís cuentas astrológicas pero no sabés cómo aplicar lo que ves</li>
+    <li>Si querés una base sólida para comenzar a estudiar astrología</li></ul>
      
   </div>
 
   <div class="grid-item">
-    <div class="cat-title2">Módulo 4</div>
-    <h3>MÉTODOS Y TÉCNICAS DE INTERPRETACIÓN</h3>
+    <div class="cat-title2">Sobre nosotras</div>
+    <h3>DICTADA POR</h3>
 
-    <p>Desarrollar una metodología que sirva como guía para abordar la interpretación de la matriz astrológica.</p>
-    <b>Semana 1 a 2</b>
-    <br/>Introducción al abordaje de una carta natal. 
-    <br/>Metodos de interpretación tradicionales. 
-    <br/><br/>
-    <b>Semana 3 a 4</b>
-    <br/>Firmas energéticas
-    <br/>Correspondencias astrológicas y el factor edad
-    <br/>Septenios 
-    <br/>Proluna
-    <br/><br/>
-     <b>Semana 5 a 6</b>
-    <br/>Técnicas de predicción a través de los señores del tiempo.
-    <br/>Profecciones anuales
-    <br/>Tiempos planetarios. Ciclos y retornos. Cómo interpretarlos.
+    <p>Lina Marco y Flor Mazziotti somos astrólogas, comunicadoras y fundadoras de Astrología Social. Creamos este espacio para compartir la astrología desde una mirada simbólica, profunda y accesible, con la intención de que puedas usarla como una herramienta de transformación personal y social.</p>
+   
 
   </div>
 
