@@ -27,9 +27,9 @@ imageshadow: true
   <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
   </div>
   <div class="grid-item grid-item-dest1">
-    <h3><b>INSCRIPCIONES ABIERTAS</b>
-    <br/>INICIA<br/>
-    24 DE ABRIL/25</h3>
+    <h3><b>QUIERO LA MASTERCLASS</b>
+    <br/>DÉJANOS TUS DATOS<br/>
+    Y RECIBE EL ACCESO A LA CLASE GRABADA EN TU CORREO</h3>
 
     <p>
       <b>Inversión:</b>
