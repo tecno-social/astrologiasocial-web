@@ -40,24 +40,15 @@ imageshadow: true
 <div class="grid-container grid-container-2_1 grid-curso-modulos">
   <div class="grid-item grid-item-gris">
 
-    <div class="cat-title2">Módulo 1</div>
-    <h3>PRINCIPIOS BÁSICOS</h3>
-
-    <p>Comprender el origen de la astrología, sus representaciones simbólicas y
-    manifestaciones en diferentes planos de la realidad. Introducción al lenguaje
-    astrológico a través del zodíaco.</p>
-    <b>Semana 1 y 2</b>
-    Introducción y Presentación del curso
-    <br/>Filosofía de la Naturaleza
-    <br/>Introducción al Zodíaco - Dualidad de género y metafísica
+    <div class="cat-title2">En esta clase gratuita</div>
+    <h3>APRENDERÁS</h3>
+    <br/>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal
+    <br/>El significado de estos tres pilares en tu identidad y emociones
+    <br/>Cómo interpretar la información astrológica que circula online
+    <br/>Claves para usar la astrología como guía en tus decisiones diarias
+    <br/>Tips para comenzar a leer y comprender tu mapa natal
     <br/><br/>
-    <b>Semana 3 y 4</b>
-    Signos de Fuego y Aire - Filosofía y energía zodiacal
-    <br/>Visualización y percepción de los signos
-    <br/><br/>
-    <b>Semana 5 y 6</b>
-    Signos de Agua y Tierra - Filosofía y energía zodiacal
-    <br/>Visualización y percepción de los signos
+    
   </div>
 
   <div class="grid-item grid-item-image" style="background-image:url('/assets/images/astropc.jpg')">
