@@ -22,14 +22,15 @@ imageshadow: true
   <h3>DURACIÓN</h3>
 
   <p>Video de 1 hora</p>
-
+ <br/><br/>
   <div class="cat-title2">En esta clase gratuita</div>
     <h3>APRENDERÁS</h3>
-    <br/>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal
-    <br/>El significado de estos tres pilares en tu identidad y emociones
-    <br/>Cómo interpretar la información astrológica que circula online
-    <br/>Claves para usar la astrología como guía en tus decisiones diarias
-    <br/>Tips para comenzar a leer y comprender tu mapa natal
+    <ul><li>Cómo ubicar tu Sol, Luna y Ascendente en tu carta natal</li>
+    <li>El significado de estos tres pilares en tu identidad y emociones</li>
+    <li>Cómo interpretar la información astrológica que circula online</li>
+    <li>Claves para usar la astrología como guía en tus decisiones diarias</li>
+    <li>Tips para comenzar a leer y comprender tu mapa natal</li></ul>
+    
     <br/><br/>
 
   </div>
