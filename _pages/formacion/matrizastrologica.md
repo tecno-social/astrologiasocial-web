@@ -30,15 +30,13 @@ imageshadow: true
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA<br/>
     ABRIL/25</h3>
-    <p>Se inicia cuando se complete el cupo mínimo</p>
+    Se inicia cuando se complete el cupo mínimo
      <p>
-    
-    
       <b>Inversión:</b>
       <p>
         $57 USD/Mes<br/>
         $85 USD/Módulo
-        * Precios especiales en pesos para residentes en Argentina<br/>
+        <p>* Consulta los precios especiales para residentes en Argentina<br/></p>
         
         </p>
     </p>
