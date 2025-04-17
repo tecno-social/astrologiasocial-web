@@ -30,8 +30,9 @@ imageshadow: true
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA<br/>
     ABRIL/25</h3>
+    <p>Se inicia cuando se complete el cupo mínimo</p>
      <p>
-    <p><b>Se abre con un cupo mínimo</b></p>
+    
     
       <b>Inversión:</b>
       <p>
