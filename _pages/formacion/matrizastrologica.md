@@ -36,7 +36,8 @@ imageshadow: true
       <b>Inversión:</b>
       <p>
         $57 USD/Mes<br/>
-        $85 USD/Módulo<br/>
+        $85 USD/Módulo
+        * Precios especiales en pesos para residentes en Argentina<br/>
         
         </p>
     </p>
