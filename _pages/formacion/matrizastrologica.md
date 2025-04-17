@@ -30,7 +30,7 @@ imageshadow: true
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA<br/>
     ABRIL/25</h3>
-    Se inicia cuando se complete el cupo mínimo
+    Se confirma día de inicio al completar el cupo mínimo
      <p>
       <b>Inversión:</b>
       <p>
