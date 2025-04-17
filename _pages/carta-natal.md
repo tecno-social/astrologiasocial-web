@@ -32,7 +32,7 @@ Dentro de la sesión trabajamos con el hermoso "Tarot de las ﬂores" lo que nos
 
 ## Costo de la sesión
 
-25 USD o el equivalente en la moneda local.
+30 USD o el equivalente en la moneda local.
 
 <a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Agéndate &rarr;</a>
 
