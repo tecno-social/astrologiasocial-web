@@ -30,8 +30,9 @@ imageshadow: true
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA<br/>
     ABRIL/25</h3>
-
-    <p>
+     <p>
+    <p><b>Se abre con un cupo mínimo</b></p>
+    
       <b>Inversión:</b>
       <p>
         $57 USD/Mes<br/>
