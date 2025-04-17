@@ -29,14 +29,14 @@ imageshadow: true
   <div class="grid-item grid-item-dest1">
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA<br/>
-    24 DE ABRIL/25</h3>
+    ABRIL/25</h3>
 
     <p>
       <b>Inversión:</b>
       <p>
-        $80 USD/1 módulo<br/>
-        Curso completo<br/>
-        $288 USD
+        $57 USD/Mes<br/>
+        $85 USD/Módulo<br/>
+        
         </p>
     </p>
     <a class="btn btn-astro" target="_blank" href="https://forms.gle/X1PLXHU7ajDjb7b56">Formulario de inscripción</a>
