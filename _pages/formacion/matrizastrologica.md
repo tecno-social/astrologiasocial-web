@@ -29,7 +29,7 @@ imageshadow: true
   <div class="grid-item grid-item-dest1">
     <h3><b>INSCRIPCIONES ABIERTAS</b>
     <br/>INICIA ABRIL/25<br/> </h3>
-    Se confirma día de inicio al completar el cupo mínimo
+    Se confirma al completar el cupo mínimo
      <p>
       <b>Inversión:</b>
       <p>
