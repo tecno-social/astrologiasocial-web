@@ -24,7 +24,7 @@ imageshadow: true
   <p>Toda la formación dura 6 meses (4 módulos) y cada módulo dura 1 mes y medio.</p>
 
   </div>
-  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
+  <div class="grid-item grid-item-image" style="background-image:url('/assets/images/formacion-imagen-portada.jpg')">
   </div>
   <div class="grid-item grid-item-dest1">
     <h3><b>INSCRIPCIONES ABIERTAS</b>
