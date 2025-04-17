@@ -21,7 +21,7 @@ imageshadow: true
 
   <h3>DURACIÓN</h3>
 
-  <p>4 módulos de 12 clases por módulo | 2 clases por semana (1 mes y medio por módulo)</p>
+  <p>Toda la formación dura 6 meses (4 módulos) y cada módulo dura 1 mes y medio.</p>
 
   </div>
   <div class="grid-item grid-item-image" style="background-image:url('/assets/images/image-005.jpg')">
