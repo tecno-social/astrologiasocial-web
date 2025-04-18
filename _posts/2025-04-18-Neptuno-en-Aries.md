@@ -5,7 +5,7 @@ author: Lina
 categories: [ Neptuno, Aries, Tránsito]
 image: assets/images/posts/Neptuno-En_Aries.jpg
 ---
-### Neptuno en Aries: la ola que se incendia  
+
 **Una conversación con Proyecto Urania junto a Catalina Lara y Sophia Pérez**
 
 El 2025 nos encuentra atravesando una de las transiciones más misteriosas y potentes del zodíaco: **Neptuno saliendo de Piscis para ingresar en Aries**. Un cambio de signo que no ocurre desde 1861, y que marca el inicio de un nuevo ciclo colectivo vinculado a los sueños, los ideales, las imágenes y las espiritualidades de la época.
