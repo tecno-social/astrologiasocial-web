@@ -3,7 +3,7 @@ layout: post
 title:  "Neptuno en Aries: la ola que se incendia"
 author: Lina
 categories: [ Neptuno, Aries, Tránsito]
-image: assets/images/posts/2023-12-15-las-4-puertas-de-anio-solsticios-y-equinoccios.jpg
+image: assets/images/posts/Neptuno-En_Aries.jpg
 ---
 ### Neptuno en Aries: la ola que se incendia  
 **Una conversación con Proyecto Urania junto a Catalina Lara y Sophia Pérez**
