@@ -12,6 +12,28 @@ El 2025 nos encuentra atravesando una de las transiciones más misteriosas y pot
 
 Desde **Astrología Social** nos sumamos a este tránsito en una conversación con **Catalina Lara** y **Sophia Pérez** en el canal de **Proyecto Urania**, donde exploramos la potencia, la paradoja y la sensibilidad de este pasaje desde múltiples dimensiones simbólicas, espirituales y políticas.
 
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
+
+  <div style="flex: 1 1 300px;">
+    <!-- Texto -->
+    <h2>Neptuno en Aries: el salto al fuego</h2>
+    <p>La conversación de Proyecto Urania nos invita a pensar esta transición como un movimiento colectivo que redefine la identidad, el deseo y lo sagrado. ¿Qué significa ser "yo" cuando todo lo conocido se diluye? ¿Cómo habitamos el deseo cuando ya no se orienta a promesas externas, sino que nace desde el fondo del cuerpo?</p>
+    <p>Conectamos Neptuno con el eclipse en el grado 0° de Aries, Marte en Cáncer, Plutón en Acuario, Urano en Tauro y Saturno como gran maestro del tiempo. Todo señala una mutación profunda del deseo, del cuerpo, de las formas de pertenencia. ¿Quiénes somos cuando dejamos de defender una identidad fija?</p>
+  </div>
+
+  <div style="flex: 1 1 300px;">
+    <!-- Video de YouTube -->
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/9ZwGbqjvRcY" title="Neptuno en Aries - Proyecto Urania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <!-- Botón CTA -->
+    <div style="margin-top: 1rem;">
+      <a href="https://youtu.be/9ZwGbqjvRcY?si=XXJqh31N0Rr2AHGR" target="_blank" style="display: inline-block; padding: 0.6rem 1.2rem; background-color: #d92357; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Ver video completo en YouTube</a>
+    </div>
+  </div>
+
+</div>
+
+
 ---
 
 ### Lo que se disuelve, lo que busca forma
