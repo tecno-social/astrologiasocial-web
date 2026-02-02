@@ -19,7 +19,7 @@ Es una sesión virtual que tiene una duración de 1 hora, dónde interpretamos l
 
 ## Costo de la sesión
 
-40 USD o el equivalente en la moneda local.
+68 USD o el equivalente en la moneda local.
 
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfYG6_JoSPHj-ZjDHkL7XLblVWC3cd4zA5duKnIPIW58yMFmA/viewform?usp=sf_link" class="btn btn-astro"> Quiero mi Revolución Solar &rarr;</a>
@@ -34,6 +34,6 @@ Este es un espacio para hacer balance de lo recorrido en la revolución y prepar
 
 ## Costo de la sesión
 
-30 USD o el equivalente en la moneda local.
+40 USD o el equivalente en la moneda local. El proceso completo de: revolucion solar + 3 sesiones de seguimiento, cuesta: 150 USD.
 
 <a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Agéndate &rarr;</a>
