@@ -12,7 +12,7 @@ mailchimp-list: 'https://social.us21.list-manage.com/subscribe/post?u=1d2e3940a0
 include: ["_pages"]
 # permalink: /blog/:categories/:year/:month/:day/:title:output_ext
 permalink: /blog/:title
-email: info@astrologia.social
+email: lina@astrologiasocial.org
 
 social-fb: 'https://www.facebook.com/astrologia.social.latam'
 social-ig: 'https://instagram.com/astrologia.social'
@@ -44,17 +44,7 @@ Desde entonces, ha explorado la astrología con curiosidad e investigación cons
 Acompaña procesos de autoconocimiento y empoderamiento personal a través de la interpretación de mapas astrales con un enfoque humanista y psicológico, integrando técnicas predictivas tradicionales desde una perspectiva no determinista.
 
 Es cofundadora de Astrología Social, un espacio de diálogo y experimentación que reúne proyectos dedicados al estudio del cosmos y su relación con la experiencia humana, ampliando la astrología occidental e integrándola con otros saberes."
-  Flor:
-    codename: flor
-    name: Flor
-    display_name: 'Flor Mazziotti'
-    avatar: 'assets/images/miembros/flor.jpg'
-    email: flor@astrologiasocial.org
-    web: https://floralquimicaastrofilosofica.blogspot.com/
-    description: "Investiga la astrología desde una mirada filosófica para reconectar con la trascendencia del ser."
-    bio: "Flor Mazziotti, creadora de AstroFilosófica, desde 2019 está dedicada a la investigación, práctica y difusión de la astrología, entre otras cosas como; el Tarot y la medicina natural, partiendo de un enfoque filosófico, que permite ahondar en los fundamentos elementales y esenciales de la existencia humana, profundizando en los principios que operan detrás de la Matriz de la realidad para entender el mundo, tanto interno como externo. 
-
-El propósito y la misión, están orientados en colaborar con la re-conexión del sentido de trascendencia superando los condicionamientos, partiendo de la importancia en reconocer el origen divino del ser humano mediante el reconocimiento de lo inmanente, es decir, la cualidad divina que permanece intrínseco en cada ente natural existente."
+  
 # Plugins
 plugins:
   - jekyll-paginate
