@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Busco a las primeras personas con quienes construir esta experiencia: Laboratorio Astrológico y Simbólico
+title: Busco a las primeras personas con quienes construir esta experiencia
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
