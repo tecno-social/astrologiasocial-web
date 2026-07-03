@@ -1,97 +1,104 @@
 ---
 layout: page
-title: ¡Te invitamos a un viaje transformador lleno de magia y autodescubrimiento!
+title: Busco a las primeras personas con quienes construir esta experiencia: Laboratorio Astrológico y Simbólico
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
-En este curso de 8 encuentros, nos sumergiremos en el fascinante mundo de la astrología, conectando profundamente con nosotras mismas y el universo.
-
+Un espacio para aprender a mirar la vida con otros ojos a través del lenguaje de la astrología.
 <img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
-🌙 **¿Qué te espera?**
-Cada encuentro será una oportunidad única para explorar tu ser a través de rituales, meditaciones guiadas, y ejercicios prácticos llenos de poesía y arte.
+Tal vez esta invitación es para ti si...
 
-🎨 **¿El objetivo?**
-Descubrir tu lugar en el cosmos, sanar, y empoderarte desde una visión holística y creativa.
+…sientes que la vida va demasiado rápido y hace tiempo no encuentras un espacio para detenerte.
 
-Este es tu momento para reconectar con lo sagrado y vivir una experiencia que cambiará tu vida. 
-¡Te esperamos con los brazos abiertos! 🤍
+…te haces preguntas sobre quién eres o hacia dónde va tu vida, pero las respuestas fáciles ya no te alcanzan.
 
-_______________________
+…estás atravesando un momento de cambio, incertidumbre o transformación y buscas nuevas formas de comprender lo que estás viviendo.
 
-# ✨ **Itinerario del viaje** ✨
+…siempre te ha intrigado la astrología, pero nunca encontraste un lugar donde aprenderla con profundidad, sin dogmas y desde la experiencia.
 
+…a veces sientes que eres diferente o que cuesta encontrar personas con quienes hablar de estos temas.
 
-### 🌟 Descubriendo la Astrología 🌟
-En este primer encuentro, deconstruiremos nuestra relación con la astrología y exploraremos su enorme potencial como herramienta de autoconocimiento. 
+…extrañas las conversaciones largas, las preguntas profundas y los encuentros que dejan algo más que una fotografía.
 
-📜 **¿Qué veremos?**
+…quisieras desarrollar una nueva manera de comprenderte, comprender a los demás y entender los ciclos de la vida.
 
-* Un recorrido histórico por los principales hitos astrológicos.
-* Introducción al *lenguaje sagrado* de la astrología.
-* Ritual de iniciación y exploración de los *elementos* y las *modalidades* que definen tu esencia.
+Si alguna de estas frases resonó contigo, quizá este laboratorio también lo haga.
 
-  
-### 🌟 **Las Fuerzas Zodiacales** 🌟
+¿Qué es el Laboratorio Astrológico y Simbólico?
 
-Durante 4 sesiones nos sumergiremos en los 12 **estados energéticos** de los signos zodiacales, comenzando con **Aries**, el **pionero** y la energía de la **acción** hasta llegar a **Piscis**, el **soñador** y **sanador**.
+Durante los últimos años he imaginado una forma distinta de aprender astrología.
 
-🔮 **¿Qué aprenderás?**
+No una escuela tradicional.
 
-* Descubriremos los **misterios y significados** de cada signo y cómo estas energías nos impactan en la vida cotidiana.
-* Analizaremos sus aspectos **habilitadores** y **desafiantes**, brindándote herramientas para comprender y trabajar con cada una de ellas.
-* A través de **meditaciones profundas** y **ejercicios artísticos**, traeremos estas energías a tu conciencia, ayudándote a integrarlas para potenciar tu **crecimiento personal**.
+No un curso para memorizar conceptos.
 
-En esta etapa conectarás con la sabiduría de cada signo para aprovechar su poder en tu vida diaria. 🌱✨
+Quiero crear un espacio donde aprender sea también una forma de encontrarnos, desarrollar una nueva mirada sobre la realidad y compartir con otras personas la curiosidad por el gran misterio de la vida.
 
+Así nace el Laboratorio Astrológico y Simbólico, una propuesta de Astrología Social.
 
-### 🌟 **Explorando las Casas Astrológicas** 🌟
+Un círculo presencial donde exploraremos la astrología como un lenguaje vivo: un puente entre el cielo, la naturaleza y la experiencia humana.
 
-En este encuentro, nos adentraremos en el **mandala astrológico**, una representación completa de nuestra carta natal, donde cada parte tiene un significado profundo. Entenderemos cómo las **12 casas astrológicas** dividen este mandala en áreas clave de nuestras vidas, revelando escenarios como nuestra **personalidad**, **relaciones**, **familia**, **trabajo** y **metas**.
+Aquí la astrología no será únicamente un conocimiento que estudiar, sino una herramienta para observar, hacer preguntas y descubrir nuevas formas de relacionarnos con nosotros mismos, con los demás y con el tiempo que habitamos.
+
+¿Cómo será la experiencia?
+
+Cada encuentro combinará diferentes formas de aprendizaje y exploración:
+
+Astrología.
+Conversación.
+Escritura.
+Arte y creatividad.
+Meditación.
+Naturaleza.
+Ejercicios simbólicos.
+Un espacio para compartir algo rico mientras seguimos conversando.
+
+Mi intención es que cada encuentro se sienta como un pequeño refugio en medio del ritmo cotidiano.
+
+Un lugar donde aprender, descansar, sorprenderse y construir vínculos con personas que también sienten curiosidad por el misterio de existir.
+
+Las primeras ciudades
+
+San Francisco (Cundinamarca)
+
+Un círculo pensado para quienes desean aprender con calma, rodeados de naturaleza y construir comunidad a través del lenguaje simbólico.
+
+Bogotá
+
+Un espacio para quienes desean hacer una pausa en medio del ritmo de la ciudad, aprender astrología de manera profunda y conocer personas con intereses afines.
 
 <img src='/assets/images/curso-autoconocimiento-notas-astro-mapas.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
-🔮 **¿Qué aprenderás?**  
+Esta es una convocatoria
 
-* Descifraremos el **mandala astrológico** y sus diferentes niveles de interpretación.
-* Exploraremos cada una de las 12 casas y cómo influyen en aspectos como la **identidad** (Casa 1), la **familia** (Casa 4), las **relaciones** (Casa 7), y las **aspiraciones** (Casa 10).
-* Aprenderás a identificar las **áreas de mayor influencia** en tu carta natal y cómo trabajar conscientemente con esa energía.
-* Realizaremos ejercicios prácticos para reconocer cómo las casas están activas en tu vida diaria y cómo puedes alinearte mejor con sus mensajes.
+Todavía no estoy abriendo inscripciones.
 
-Este encuentro te dará las herramientas para reconocer tu carta desde una visión integral, comprendiendo cómo cada parte del mandala astrológico interactúa con las demás para guiar tu **crecimiento personal**. 🌙✨
+Estoy buscando a las primeras personas que quieran ayudarme a construir este laboratorio.
 
+Quiero conocerlas, escuchar qué esperan de una experiencia como esta y diseñar junto a ellas el primer círculo de Astrología Social.
 
-### 🌟 **Las Luminarias y el Camino al Ascendente** 🌟
+Responder este formulario no representa ningún compromiso.
 
-En este tema, nos sumergiremos en los **mitos, ciclos y funciones** de las **luminarias**: el **Sol** y la **Luna**, dos fuerzas clave en nuestra carta astral. Exploraremos cómo estas energías influyen en nuestras vidas y aprenderemos a trabajar con ellas de manera **constructiva** para potenciar nuestro desarrollo personal.
+Simplemente te permitirá:
 
-🔮 **¿Qué aprenderás?**  
-* Desvelaremos los **mitos** que rodean al Sol y la Luna, comprendiendo su simbolismo y la manera en que guían nuestra **esencia** y nuestro **mundo emocional**.
-* Analizaremos los **ciclos solares y lunares** y cómo afectan diferentes áreas de nuestra vida a lo largo del tiempo.
-* **El Ascendente**: profundizaremos en el **ascendente personal**, que marca nuestro **camino de evolución** y la manera en que nos presentamos al mundo.
-* Evaluaremos cómo el ascendente influye en las **decisiones que tomamos** a lo largo de los años y cómo estas elecciones transforman nuestra identidad.
+Conocer antes que nadie la fecha de apertura.
+Recibir toda la información del primer laboratorio.
+Participar en esta etapa de construcción.
+Acceder a beneficios exclusivos para quienes hagan parte de la primera generación.
+Quiero saber más
 
-Este tema te permitirá entender de manera más consciente la interacción entre tus **luminarias** y tu **ascendente**, descubriendo herramientas para alinearte con estos aspectos esenciales en tu **camino de crecimiento personal**. 🌞🌙✨
+Completa el formulario y cuéntame un poco sobre ti.
 
-________________
+Será un gusto conocerte.
 
+Astrología Social
 
-### 🌟 **Modalidad de las Actividades** 🌟
+Aprender juntos a leer el lenguaje del cielo para comprender mejor la vida compartida.
 
-El curso tendrá una duración total de **2 meses**, con un **encuentro semanal** de 2 horas, que incluye un breve descanso de 10 minutos. Todas las sesiones se llevarán a cabo de manera **virtual y sincrónica** a través de **Google Meet** o **Zoom**, brindándote la comodidad de participar desde tu hogar. 
-
-Para mayor flexibilidad, al finalizar cada sesión recibirás la **grabación completa**, ideal para quienes no puedan asistir en vivo o deseen repasar los contenidos.
-
-**¡Los cupos son limitados**, así que te recomendamos **reservar tu lugar** lo antes posible para asegurar tu participación en esta experiencia transformadora! ✨
-
-### 💰 **Costo del Curso** 💰
-
-El precio es de **80 USD** o su equivalente en moneda local si se paga anticipado. Sino tiene un costo de **100 USD** y puede dividirse en **dos pagos** para tu comodidad.
-
-## *¿Estás listx para embarcarte en este viaje de autodescubrimiento y conexión con el universo?* 🌌✨
 
 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScfVBE6ok4vvBbeqD4ijSR-AzpWb6DLCOiZyniIWWBf6MVTbg/viewform?usp=sf_link" class="btn btn-astro">Inscríbete &rarr;</a>
 
