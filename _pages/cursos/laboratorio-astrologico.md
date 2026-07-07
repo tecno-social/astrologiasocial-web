@@ -7,7 +7,7 @@ image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
-Vivimos en una época que nos exige avanzar sin pausa; saltamos de una tarea a otra, respondemos a lo urgente y, sin darnos cuenta, dejamos de hacernos las preguntas que realmente importan.
+Vivimos en una época que nos exige avanzar sin pausa. Saltamos de una tarea a otra, respondemos a lo urgente y, sin darnos cuenta, dejamos de hacernos las preguntas que realmente importan.
 
 **¿Quién estoy siendo?**
 
@@ -19,33 +19,35 @@ El **Laboratorio Astrológico y Simbólico** nace como una pausa frente a ese ri
 
 Es un círculo presencial para aprender astrología desde la experiencia, desarrollar una nueva forma de comprender la realidad y compartir ese camino con otras personas.
 
-<div align="center">
-
-<a class="btn btn--primary" href="TU_FORMULARIO">Quiero saber más</a>
-
-</div>
+<p align="center">
+<a class="btn btn--primary btn--large" href="TU_FORMULARIO">Quiero recibir la información</a>
+</p>
 
 ---
 
+![Personas compartiendo](/assets/images/laboratorio/comunidad.jpg)
+
 # Tal vez este espacio es para ti...
 
-> ### Buscas un nuevo sentido.
+> ### Buscas un nuevo sentido
 >
 > Sientes que algo en tu vida está cambiando y buscas comprenderlo con mayor profundidad.
 
-> ### Necesitas una pausa.
+> ### Necesitas una pausa
 >
 > Hace tiempo no encuentras un espacio para aprender, conversar y detener el ritmo cotidiano.
 
-> ### Quieres una nueva mirada.
+> ### Quieres una nueva mirada
 >
 > La astrología despierta tu curiosidad, pero buscas mucho más que aprender signos o memorizar conceptos.
 
-> ### Extrañas la comunidad.
+> ### Extrañas la comunidad
 >
 > Quieres conocer personas con intereses similares y compartir preguntas que normalmente no tienen lugar en la vida diaria.
 
 ---
+
+![Mesa de trabajo](/assets/images/laboratorio/mesa.jpg)
 
 # ¿Por qué la astrología?
 
@@ -57,13 +59,17 @@ Nuestra historia, los vínculos, la familia, la cultura, la naturaleza y el tiem
 
 Aprender astrología es aprender a leer esas relaciones.
 
-Y cuando cambia la forma en que interpretamos la realidad, también cambia la manera en que la habitamos.
+No cambia la realidad.
+
+**Cambia la forma en que nos relacionamos con ella.**
+
+Y cuando cambia la forma de mirar el mundo, también cambia la manera en que lo habitamos.
 
 ---
 
 # ¿Cómo será la experiencia?
 
-Cada encuentro combina distintas formas de aprender e integrar el lenguaje simbólico.
+<div style="columns:2; column-gap:3rem;">
 
 ✦ Astrología
 
@@ -81,11 +87,15 @@ Cada encuentro combina distintas formas de aprender e integrar el lenguaje simb�
 
 ✦ Té, café y buenas conversaciones
 
+</div>
+
 No buscamos acumular información.
 
 Buscamos desarrollar una nueva forma de observar, sentir e interpretar la vida.
 
 ---
+
+![Naturaleza](/assets/images/laboratorio/naturaleza.jpg)
 
 # Primera experiencia
 
@@ -95,7 +105,7 @@ Cinco encuentros presenciales para descubrir las bases del lenguaje astrológico
 
 No necesitas conocimientos previos.
 
-Solo curiosidad y ganas de aprender.
+Solo curiosidad.
 
 ---
 
@@ -111,6 +121,8 @@ Un espacio para hacer una pausa en medio del ritmo de la ciudad y encontrarte co
 
 ---
 
+![Círculo](/assets/images/laboratorio/cierre.jpg)
+
 # Primera convocatoria
 
 Estoy formando el primer grupo del **Laboratorio Astrológico y Simbólico**.
@@ -119,18 +131,14 @@ Quiero construir esta experiencia junto a un grupo pequeño de personas curiosas
 
 Si sientes que este espacio puede ser para ti, me encantará conocerte.
 
-<div align="center">
-
+<p align="center">
 <a class="btn btn--primary btn--large" href="TU_FORMULARIO">
-
-Quiero recibir la información
-
+Quiero hacer parte
 </a>
-
-</div>
+</p>
 
 ---
 
-> ## Astrología Social
->
+## Astrología Social
+
 > **Aprender a leer el cielo para habitar la Tierra con más conciencia.**
