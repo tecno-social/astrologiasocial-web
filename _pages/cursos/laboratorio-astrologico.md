@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Laboratorio Astrológico y Simbólico
+title: Aprende un nuevo lenguaje para habitar la vida
 permalink: /cursos/laboratorio-astrologico
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
-
-# Aprende un nuevo lenguaje para habitar la vida.
 
 Vivimos en una época que nos exige avanzar sin pausa; saltamos de una tarea a otra, respondemos a lo urgente y, sin darnos cuenta, dejamos de hacernos las preguntas que realmente importan.
 
