@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Busco a las primeras personas con quienes construir esta experiencia
+title: Laboratorio Astrológico y Simbólico
 permalink: /cursos/autoconocimiento
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
-# Laboratorio Astrológico y Simbólico
-
-## Aprende un nuevo lenguaje para habitar la vida.
+# Aprende un nuevo lenguaje para habitar la vida.
 
 ---
 
