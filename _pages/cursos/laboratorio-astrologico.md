@@ -25,7 +25,7 @@ Es un círculo presencial para aprender astrología desde la experiencia, desarr
 
 ---
 
-![Personas compartiendo](/assets/images/laboratorio/comunidad.jpg)
+![Personas compartiendo](assets/images/laboratorio-astrologico-1.jpg)
 
 # Tal vez este espacio es para ti...
 
@@ -47,7 +47,7 @@ Es un círculo presencial para aprender astrología desde la experiencia, desarr
 
 ---
 
-![Mesa de trabajo](/assets/images/laboratorio/mesa.jpg)
+![Mesa de trabajo](assets/images/laboratorio-astrologico-2.jpg)
 
 # ¿Por qué la astrología?
 
@@ -95,7 +95,7 @@ Buscamos desarrollar una nueva forma de observar, sentir e interpretar la vida.
 
 ---
 
-![Naturaleza](/assets/images/laboratorio/naturaleza.jpg)
+![Naturaleza](assets/images/laboratorio-astrologico-3.jpg)
 
 # Primera experiencia
 
@@ -121,7 +121,7 @@ Un espacio para hacer una pausa en medio del ritmo de la ciudad y encontrarte co
 
 ---
 
-![Círculo](/assets/images/laboratorio/cierre.jpg)
+![Círculo](assets/images/laboratorio-astrologico-4.jpg)
 
 # Primera convocatoria
 
