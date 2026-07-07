@@ -3,7 +3,7 @@ layout: page
 title: Aprende un nuevo lenguaje para habitar la vida
 permalink: /cursos/laboratorio-astrologico
 comments: false
-image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
+image: assets/images/portada-laboratorio-astrologico.jpg
 imageshadow: true
 ---
 
