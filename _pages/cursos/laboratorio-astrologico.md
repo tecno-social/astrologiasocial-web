@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laboratorio Astrológico y Simbólico
-permalink: /cursos/alaboratorio-astrologico
+permalink: /cursos/laboratorio-astrologico
 comments: false
 image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
