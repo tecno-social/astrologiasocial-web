@@ -20,12 +20,11 @@ El **Laboratorio Astrológico y Simbólico** nace como una pausa frente a ese ri
 Es un círculo presencial para aprender astrología desde la experiencia, desarrollar una nueva forma de comprender la realidad y compartir ese camino con otras personas.
 
 <p align="center">
-<a class="btn btn--primary btn--large" href="TU_FORMULARIO">Quiero recibir la información</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSffgRfr03iVMD--kQCl-BUMg8V6g0qj3me0Xl098s6xyGf4hQ/viewform?usp=sf_link" class="btn btn-astro">Quiero recibir la información &rarr;</a>
 </p>
 
 ---
-
-![Personas compartiendo](assets/images/laboratorio-astrologico-1.jpg)
+<img src='assets/images/laboratorio-astrologico-1.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 # Tal vez este espacio es para ti...
 
@@ -47,7 +46,7 @@ Es un círculo presencial para aprender astrología desde la experiencia, desarr
 
 ---
 
-![Mesa de trabajo](assets/images/laboratorio-astrologico-2.jpg)
+<img src='assets/images/laboratorio-astrologico-2.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 # ¿Por qué la astrología?
 
@@ -86,16 +85,14 @@ Y cuando cambia la forma de mirar el mundo, también cambia la manera en que lo 
 ✦ Ejercicios simbólicos
 
 ✦ Té, café y buenas conversaciones
-
 </div>
 
-No buscamos acumular información.
-
-Buscamos desarrollar una nueva forma de observar, sentir e interpretar la vida.
+No buscamos acumular información, buscamos desarrollar una nueva forma de observar, sentir e interpretar la vida.
 
 ---
 
-![Naturaleza](assets/images/laboratorio-astrologico-3.jpg)
+<img src='assets/images/laboratorio-astrologico-3.jpg' style='float:right; width: 45%; padding: 1em;' />
+
 
 # Primera experiencia
 
@@ -121,7 +118,7 @@ Un espacio para hacer una pausa en medio del ritmo de la ciudad y encontrarte co
 
 ---
 
-![Círculo](assets/images/laboratorio-astrologico-4.jpg)
+<img src='assets/images/laboratorio-astrologico-4.jpg' style='float:right; width: 45%; padding: 1em;' />
 
 # Primera convocatoria
 
@@ -132,9 +129,7 @@ Quiero construir esta experiencia junto a un grupo pequeño de personas curiosas
 Si sientes que este espacio puede ser para ti, me encantará conocerte.
 
 <p align="center">
-<a class="btn btn--primary btn--large" href="TU_FORMULARIO">
-Quiero hacer parte
-</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSffgRfr03iVMD--kQCl-BUMg8V6g0qj3me0Xl098s6xyGf4hQ/viewform?usp=sf_link" class="btn btn-astro">Quiero hacer parte &rarr;</a>
 </p>
 
 ---
