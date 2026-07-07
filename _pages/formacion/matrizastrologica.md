@@ -28,14 +28,14 @@ imageshadow: true
   </div>
   <div class="grid-item grid-item-dest1">
     <h3><b>INSCRIPCIONES ABIERTAS</b>
-    <br/>INICIA ABRIL/25<br/> </h3>
-    Se confirma al completar el cupo mínimo
+    <br/>INICIO POR CONFIRMAR<br/> </h3>
+    Al completar el cupo mínimo
      <p>
       <b>Inversión:</b>
       <p>
         $57 USD/Mes<br/>
         $85 USD/Módulo
-        <p>* Consulta los precios especiales para residentes en Argentina<br/></p>
+        <p>* Consulta los descuentos por pagos adelantados de la formación<br/></p>
         
         </p>
     </p>
