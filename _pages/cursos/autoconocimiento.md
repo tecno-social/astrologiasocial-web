@@ -7,97 +7,212 @@ image: assets/images/Portada-Curso-astrologia-Autoconocimiento.jpg
 imageshadow: true
 ---
 
-Un espacio para aprender a mirar la vida con otros ojos a través del lenguaje de la astrología.
-<img src='/assets/images/curso-autoconocimiento-notas-astro.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+<section class="hero">
 
-Tal vez esta invitación es para ti si...
+# Laboratorio Astrológico y Simbólico
 
-…sientes que la vida va demasiado rápido y hace tiempo no encuentras un espacio para detenerte.
+## Aprende un nuevo lenguaje para habitar la vida.
 
-…te haces preguntas sobre quién eres o hacia dónde va tu vida, pero las respuestas fáciles ya no te alcanzan.
+Vivimos en una época que nos exige avanzar sin pausa. Saltamos de una tarea a otra, respondemos a lo urgente y, sin darnos cuenta, dejamos de hacernos las preguntas que realmente importan.
 
-…estás atravesando un momento de cambio, incertidumbre o transformación y buscas nuevas formas de comprender lo que estás viviendo.
+**¿Quién estoy siendo?**
 
-…siempre te ha intrigado la astrología, pero nunca encontraste un lugar donde aprenderla con profundidad, sin dogmas y desde la experiencia.
+**¿Por qué mi vida está cambiando?**
 
-…a veces sientes que eres diferente o que cuesta encontrar personas con quienes hablar de estos temas.
+**¿Qué sentido tiene este momento que atravieso?**
 
-…extrañas las conversaciones largas, las preguntas profundas y los encuentros que dejan algo más que una fotografía.
+El Laboratorio Astrológico y Simbólico nace como una pausa consciente frente a ese ritmo.
 
-…quisieras desarrollar una nueva manera de comprenderte, comprender a los demás y entender los ciclos de la vida.
+No es una escuela.
 
-Si alguna de estas frases resonó contigo, quizá este laboratorio también lo haga.
+No es una terapia.
 
-¿Qué es el Laboratorio Astrológico y Simbólico?
+Es un círculo para aprender a leer la vida a través del lenguaje de la astrología y descubrir nuevas formas de habitar el mundo.
 
-Durante los últimos años he imaginado una forma distinta de aprender astrología.
+<div class="hero-button">
+<a class="button" href="TU_FORMULARIO">
+Quiero hacer parte
+</a>
+</div>
 
-No una escuela tradicional.
+</section>
 
-No un curso para memorizar conceptos.
+---
 
-Quiero crear un espacio donde aprender sea también una forma de encontrarnos, desarrollar una nueva mirada sobre la realidad y compartir con otras personas la curiosidad por el gran misterio de la vida.
+<section>
 
-Así nace el Laboratorio Astrológico y Simbólico, una propuesta de Astrología Social.
+# Tal vez este espacio es para ti si...
 
-Un círculo presencial donde exploraremos la astrología como un lenguaje vivo: un puente entre el cielo, la naturaleza y la experiencia humana.
+<div class="cards">
 
-Aquí la astrología no será únicamente un conocimiento que estudiar, sino una herramienta para observar, hacer preguntas y descubrir nuevas formas de relacionarnos con nosotros mismos, con los demás y con el tiempo que habitamos.
+<div class="card">
 
-¿Cómo será la experiencia?
+### Buscas hacer una pausa.
 
-Cada encuentro combinará diferentes formas de aprendizaje y exploración:
+Sientes que la vida va demasiado rápido y hace tiempo no encuentras un espacio para detenerte, pensar y volver a escucharte.
 
-Astrología.
-Conversación.
-Escritura.
-Arte y creatividad.
-Meditación.
-Naturaleza.
-Ejercicios simbólicos.
-Un espacio para compartir algo rico mientras seguimos conversando.
+</div>
 
-Mi intención es que cada encuentro se sienta como un pequeño refugio en medio del ritmo cotidiano.
+<div class="card">
 
-Un lugar donde aprender, descansar, sorprenderse y construir vínculos con personas que también sienten curiosidad por el misterio de existir.
+### Algo está cambiando.
 
-Las primeras ciudades
+Sientes que la persona que eras ya no te representa, pero todavía no sabes quién estás empezando a ser.
 
-San Francisco (Cundinamarca)
+</div>
 
-Un círculo pensado para quienes desean aprender con calma, rodeados de naturaleza y construir comunidad a través del lenguaje simbólico.
+<div class="card">
 
-Bogotá
+### Quieres una mirada diferente.
 
-Un espacio para quienes desean hacer una pausa en medio del ritmo de la ciudad, aprender astrología de manera profunda y conocer personas con intereses afines.
+Te interesa la astrología, pero buscas mucho más que aprender signos o interpretar cartas.
 
-<img src='/assets/images/curso-autoconocimiento-notas-astro-mapas.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+Quieres comprender la vida desde un nuevo lenguaje.
 
-Esta es una convocatoria
+</div>
 
-Todavía no estoy abriendo inscripciones.
+<div class="card">
 
-Estoy buscando a las primeras personas que quieran ayudarme a construir este laboratorio.
+### Extrañas pertenecer.
 
-Quiero conocerlas, escuchar qué esperan de una experiencia como esta y diseñar junto a ellas el primer círculo de Astrología Social.
+Buscas conversaciones profundas, personas afines y un espacio donde aprender también sea una forma de construir comunidad.
 
-Responder este formulario no representa ningún compromiso.
+</div>
 
-Simplemente te permitirá:
+</div>
 
-Conocer antes que nadie la fecha de apertura.
-Recibir toda la información del primer laboratorio.
-Participar en esta etapa de construcción.
-Acceder a beneficios exclusivos para quienes hagan parte de la primera generación.
+</section>
+
+---
+
+<section>
+
+# ¿Por qué la astrología?
+
+La astrología es mucho más que un conjunto de conocimientos.
+
+Es un lenguaje simbólico capaz de revelar la arquitectura invisible que organiza nuestra experiencia.
+
+Nuestra historia, los vínculos, la familia, la cultura, la naturaleza y el tiempo forman parte de un mismo sistema.
+
+La astrología nos ayuda a reconocer esos patrones y comprender con mayor profundidad el momento que estamos viviendo.
+
+No cambia la realidad.
+
+## Cambia la forma en que nos relacionamos con ella.
+
+Y cuando cambia la forma de mirar el mundo, también cambian nuestras decisiones y la manera en que habitamos la vida.
+
+</section>
+
+---
+
+<section>
+
+# ¿Cómo será la experiencia?
+
+<div class="experiencias-grid">
+
+<div class="experiencia">✦ Astrología</div>
+
+<div class="experiencia">✦ Conversación</div>
+
+<div class="experiencia">✦ Escritura</div>
+
+<div class="experiencia">✦ Arte</div>
+
+<div class="experiencia">✦ Meditación</div>
+
+<div class="experiencia">✦ Naturaleza</div>
+
+<div class="experiencia">✦ Ejercicios simbólicos</div>
+
+<div class="experiencia">✦ Té, café y buenas conversaciones</div>
+
+</div>
+
+<br>
+
+Cada encuentro está diseñado para combinar conocimiento, práctica y experiencia.
+
+Quiero que cada sesión se convierta en un pequeño refugio dentro de la semana.
+
+Un lugar para pensar, crear, compartir y volver a mirar la vida con curiosidad.
+
+</section>
+
+---
+
+<section>
+
+# Primera experiencia
+
+## Lenguaje y Símbolos Astrológicos
+
+Cinco encuentros presenciales para descubrir las bases del lenguaje astrológico y comenzar a desarrollar una nueva forma de leer la realidad.
+
+No necesitas conocimientos previos.
+
+Solo curiosidad.
+
+</section>
+
+---
+
+<section>
+
+# Dos ciudades
+
+<div class="cards">
+
+<div class="card">
+
+## San Francisco (Cundinamarca)
+
+Un círculo rodeado de naturaleza para aprender con calma, compartir y construir comunidad.
+
+</div>
+
+<div class="card">
+
+## Bogotá
+
+Un espacio para detener el ritmo de la ciudad y encontrarte con personas que también buscan vivir con más conciencia.
+
+</div>
+
+</div>
+
+</section>
+
+---
+
+<section class="cta">
+
+# Primera convocatoria
+
+Estoy buscando a las primeras personas que quieran construir esta experiencia conmigo.
+
+No busco únicamente estudiantes.
+
+Busco personas curiosas, sensibles y con ganas de aprender en comunidad.
+
+Si sientes que este espacio puede ser para ti, me encantará conocerte.
+
+<div class="hero-button">
+
+<a class="button button-large" href="TU_FORMULARIO">
+
 Quiero saber más
 
-Completa el formulario y cuéntame un poco sobre ti.
+</a>
 
-Será un gusto conocerte.
+</div>
 
-Astrología Social
+</section>
 
-Aprender juntos a leer el lenguaje del cielo para comprender mejor la vida compartida.
+---
 
-
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScfVBE6ok4vvBbeqD4ijSR-AzpWb6DLCOiZyniIWWBf6MVTbg/viewform?usp=sf_link" class="btn btn-astro">Inscríbete &rarr;</a>
+> ### Astrología Social
+>
+> **Aprender a leer el cielo para habitar la Tierra con más conciencia.**
