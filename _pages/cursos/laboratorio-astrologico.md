@@ -24,7 +24,7 @@ Es un círculo presencial para aprender astrología desde la experiencia, desarr
 </p>
 
 ---
-<img src='assets/images/laboratorio-astrologico-1.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+<img src='/assets/images/laboratorio-astrologico-1.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 # Tal vez este espacio es para ti...
 
@@ -46,7 +46,7 @@ Es un círculo presencial para aprender astrología desde la experiencia, desarr
 
 ---
 
-<img src='assets/images/laboratorio-astrologico-2.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+<img src='/assets/images/laboratorio-astrologico-2.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 # ¿Por qué la astrología?
 
@@ -68,13 +68,15 @@ Y cuando cambia la forma de mirar el mundo, también cambia la manera en que lo 
 
 # ¿Cómo será la experiencia?
 
+No buscamos acumular información, buscamos desarrollar una nueva forma de observar, sentir e interpretar la vida.
+
 <div style="columns:2; column-gap:3rem;">
 
-✦ Astrología
+✦ Astrología 
 
-✦ Conversación
+✦ Conversatorios
 
-✦ Escritura
+✦ Escritura creativa
 
 ✦ Arte
 
@@ -84,14 +86,13 @@ Y cuando cambia la forma de mirar el mundo, también cambia la manera en que lo 
 
 ✦ Ejercicios simbólicos
 
-✦ Té, café y buenas conversaciones
+✦ Té, café y compartir.
 </div>
 
-No buscamos acumular información, buscamos desarrollar una nueva forma de observar, sentir e interpretar la vida.
 
 ---
 
-<img src='assets/images/laboratorio-astrologico-3.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+<img src='/assets/images/laboratorio-astrologico-3.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 
 # Primera experiencia
@@ -118,7 +119,7 @@ Un espacio para hacer una pausa en medio del ritmo de la ciudad y encontrarte co
 
 ---
 
-<img src='assets/images/laboratorio-astrologico-4.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
+<img src='/assets/images/laboratorio-astrologico-4.jpg' style='float:right; width: 40%; padding: 0 0 0 4em;' />
 
 # Primera convocatoria
 
