@@ -20,7 +20,7 @@ El **Laboratorio Astrológico y Simbólico** nace como una pausa frente a ese ri
 Es un círculo presencial para aprender astrología desde la experiencia, desarrollar una nueva forma de comprender la realidad y compartir ese camino con otras personas.
 
 <p align="center">
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSffgRfr03iVMD--kQCl-BUMg8V6g0qj3me0Xl098s6xyGf4hQ/viewform?usp=sf_link" class="btn btn-astro">Quiero recibir la información &rarr;</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfVfoxuKQlKi5sHzbrnVFbOgXOJ5LQ5LiXaOHd-X4P3G5A5TQ/viewform?usp=publish-editor" class="btn btn-astro">Quiero recibir la información &rarr;</a>
 </p>
 
 ---
@@ -50,19 +50,9 @@ Es un círculo presencial para aprender astrología desde la experiencia, desarr
 
 # ¿Por qué la astrología?
 
-La astrología no es solamente una herramienta de autoconocimiento.
+La astrología no es solamente una herramienta de autoconocimiento, es un lenguaje simbólico que nos ayuda a reconocer los patrones que organizan nuestra experiencia. Nuestra historia, los vínculos, la familia, la cultura, la naturaleza y el tiempo forman parte de un mismo sistema. Aprender astrología es aprender a leer esas relaciones.
 
-Es un lenguaje simbólico que nos ayuda a reconocer los patrones que organizan nuestra experiencia.
-
-Nuestra historia, los vínculos, la familia, la cultura, la naturaleza y el tiempo forman parte de un mismo sistema.
-
-Aprender astrología es aprender a leer esas relaciones.
-
-No cambia la realidad.
-
-**Cambia la forma en que nos relacionamos con ella.**
-
-Y cuando cambia la forma de mirar el mundo, también cambia la manera en que lo habitamos.
+No cambia la realidad, **cambia la forma en que nos relacionamos con ella.** Y cuando cambia la forma de mirar el mundo, también cambia la manera en que lo habitamos.
 
 ---
 
@@ -87,6 +77,7 @@ No buscamos acumular información, buscamos desarrollar una nueva forma de obser
 ✦ Ejercicios simbólicos
 
 ✦ Té, café y compartir.
+
 </div>
 
 
@@ -99,11 +90,7 @@ No buscamos acumular información, buscamos desarrollar una nueva forma de obser
 
 ## Lenguaje y Símbolos Astrológicos
 
-Cinco encuentros presenciales para descubrir las bases del lenguaje astrológico y comenzar a desarrollar una nueva mirada sobre la realidad.
-
-No necesitas conocimientos previos.
-
-Solo curiosidad.
+Cinco encuentros presenciales para descubrir las bases del lenguaje astrológico y comenzar a desarrollar una nueva mirada sobre la realidad. No necesitas conocimientos previos, solo curiosidad.
 
 ---
 
@@ -130,11 +117,11 @@ Quiero construir esta experiencia junto a un grupo pequeño de personas curiosas
 Si sientes que este espacio puede ser para ti, me encantará conocerte.
 
 <p align="center">
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSffgRfr03iVMD--kQCl-BUMg8V6g0qj3me0Xl098s6xyGf4hQ/viewform?usp=sf_link" class="btn btn-astro">Quiero hacer parte &rarr;</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfVfoxuKQlKi5sHzbrnVFbOgXOJ5LQ5LiXaOHd-X4P3G5A5TQ/viewform?usp=publish-editor" class="btn btn-astro">Quiero hacer parte &rarr;</a>
 </p>
 
 ---
 
-## Astrología Social
+## Lina Marco
 
 > **Aprender a leer el cielo para habitar la Tierra con más conciencia.**
