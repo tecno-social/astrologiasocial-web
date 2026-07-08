@@ -34,6 +34,8 @@ Este es un espacio para hacer balance de lo recorrido en la revolución y prepar
 
 ## Costo de la sesión
 
-75 USD o el equivalente en la moneda local. El proceso completo de: revolucion solar + 3 sesiones de seguimiento, cuesta: 165 USD.
+75 USD o el equivalente en la moneda local. 
+
+El proceso completo de: lectura de la Revolucion Solar + sesiones de acompañamiento e interpretación para las 3 etapas del ciclo que se da cada trimestre, tiene un valor de: 165 USD.
 
 <a target="_blank" href="https://cal.com/lina-astrologia-social/sesion-de-profundizacion" class="btn btn-astro">Agéndate &rarr;</a>
